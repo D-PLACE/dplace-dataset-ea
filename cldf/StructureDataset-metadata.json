@@ -1,0 +1,407 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:bibliographicCitation": "Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)",
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:description": "The Ethnographic Atlas (EA) describes cultural practices for 1291 societies, ranging from societies with complex agricultural economies and political systems to small hunter-gatherer groups. The societies are globally distributed with especially good coverage of Africa and western North America.",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:source": "sources.bib",
+    "dc:title": "D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas'",
+    "dcat:accessURL": "https://github.com/D-PLACE/dplace-dataset-ea",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
+            "rdf:type": "prov:Entity",
+            "dc:created": "c1eb718",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.8",
+            "dc:title": "Glottolog"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.10.12"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "dplace-dataset-ea",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
+            "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\nMissing data is signaled by an empty value column.",
+            "dc:extent": 121354,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Soc_ID"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Var_ID"
+                    },
+                    {
+                        "dc:description": "Values for categorical and ordinal variables reference the corresponding code via the Code_ID column. Values for continuous variables have the measured number in the Value column and an empty Code_ID.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "null": [
+                            "?",
+                            ""
+                        ],
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+                        "required": false,
+                        "name": "Value"
+                    },
+                    {
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
+                        "required": false,
+                        "name": "Code_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "dc:description": "More specific description of the population the data refer to in terms of society or area.",
+                        "name": "sub_case"
+                    },
+                    {
+                        "dc:description": "Focal year, i.e. the time period to which the data refer.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "-?[0-9]{1,4}(-[0-9]{4})?"
+                        },
+                        "name": "year"
+                    },
+                    {
+                        "dc:description": "The source of the coded data, which was aggregated in this dataset.",
+                        "name": "source_coded_data"
+                    },
+                    {
+                        "name": "admin_comment"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Soc_ID"
+                        ],
+                        "reference": {
+                            "resource": "societies.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Var_ID"
+                        ],
+                        "reference": {
+                            "resource": "variables.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Code_ID"
+                        ],
+                        "reference": {
+                            "resource": "codes.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "data.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "We use the term \u201csociety\u201d to refer to cultural groups. In most cases, a society can be understood to represent a group of people at a focal location with a shared language that differs from that of their neighbors. However, in some cases multiple societies share a language.",
+            "dc:extent": 1291,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-180",
+                            "maximum": "180"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-z0-9]{4}[1-9][0-9]{3}"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "required": false,
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "dc:description": "Society names identified as pejorative have been replaced with a preferred, English-language ethnonym. The name (and ID) as given in the source dataset is kept in this field.",
+                        "name": "Name_and_ID_in_source"
+                    },
+                    {
+                        "dc:description": "\u201ccross-data-set\u201d identifier, used to link societies present in different datasets, if they share a focal location. Note: If this field is empty, other fields such as Name, Glottocode, focal year and location may be used to identify societies across datasets if appropriate.",
+                        "name": "xd_id"
+                    },
+                    {
+                        "dc:description": "A list of \u2018alternate\u2019 names for the society; includes, where available, one or more autonyms in the society\u2019s own language, as well as other commonly encountered ethnonyms.",
+                        "separator": "; ",
+                        "name": "alt_names_by_society"
+                    },
+                    {
+                        "dc:description": "Focal year specifying the time period to which the data refer, given as number of years BCE - if negative - or CE.",
+                        "datatype": "integer",
+                        "name": "main_focal_year"
+                    },
+                    {
+                        "dc:description": "Name(s) and ID(s) of the corresponding society in HRAF (the Human Relations Area Files)",
+                        "name": "HRAF_name_ID"
+                    },
+                    {
+                        "dc:description": "ID of the corresponding society in HRAF",
+                        "valueUrl": "https://ehrafworldcultures.yale.edu/cultures/{HRAF_ID}/description",
+                        "name": "HRAF_ID"
+                    },
+                    {
+                        "dc:description": "Uncorrected latitude as given in the source.",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "name": "origLat"
+                    },
+                    {
+                        "dc:description": "Uncorrected longitude as given in the source.",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-270",
+                            "maximum": "180"
+                        },
+                        "name": "origLong"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "comment"
+                    },
+                    {
+                        "dc:description": "Comment on the Glottocode assignment.",
+                        "name": "glottocode_comment"
+                    },
+                    {
+                        "dc:description": "World Geographical Scheme for Recording Plant Distributions level2 region",
+                        "name": "region"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "societies.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "Variables are cultural features or practices, or environmental descriptors.",
+            "dc:extent": 94,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[A-Za-z.0-9_]+([0-9]+)?"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    },
+                    {
+                        "dc:description": "",
+                        "separator": ", ",
+                        "name": "category"
+                    },
+                    {
+                        "dc:description": "Variables may be categorical (and then must be accompanied by a list of possible \u2018codes\u2019, i.e. rows in Codetable. Variables can also be continuous (e.g. Population size) or ordinal. Ordinal variables are accompanied by a list of codes (like categorical variables). The order of codes is encoded as `ord` column in CodeTable.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "Continuous|Categorical|Ordinal"
+                        },
+                        "name": "type"
+                    },
+                    {
+                        "dc:description": "The unit of measurement",
+                        "name": "unit"
+                    },
+                    {
+                        "dc:description": "A note about the source of this variable.",
+                        "name": "source_comment"
+                    },
+                    {
+                        "dc:description": "Notes about how a variable may have been derived from the source.",
+                        "name": "changes"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "comment"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "variables.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
+            "dc:extent": 755,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "Var_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "ord"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Var_ID"
+                        ],
+                        "reference": {
+                            "resource": "variables.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "codes.csv"
+        }
+    ]
+}

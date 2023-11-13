@@ -1,0 +1,95 @@
+{
+    "creators": [
+        {
+            "name": "Murdock, G. P."
+        },
+        {
+            "name": "R. Textor"
+        },
+        {
+            "name": "H. Barry, III"
+        },
+        {
+            "name": "D. R. White"
+        },
+        {
+            "name": "J. P. Gray"
+        },
+        {
+            "name": "W. T. Divale"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Kathryn R. Kirby",
+            "type": "Editor"
+        },
+        {
+            "name": "Russell D. Gray",
+            "type": "Editor"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Editor"
+        },
+        {
+            "name": "Fiona M. Jordan",
+            "type": "Editor"
+        },
+        {
+            "name": "Stephanie Gomes-Ng",
+            "type": "Editor"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko",
+            "type": "Editor"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi",
+            "type": "Editor"
+        },
+        {
+            "name": "Carlos A. Botero",
+            "type": "Editor"
+        },
+        {
+            "name": "Claire Bowern",
+            "type": "Editor"
+        },
+        {
+            "name": "Carol R. Ember",
+            "type": "Editor"
+        },
+        {
+            "name": "Dan Leehr",
+            "type": "Editor"
+        },
+        {
+            "name": "Bobbi S. Low",
+            "type": "Editor"
+        },
+        {
+            "name": "Joe McCarter",
+            "type": "Editor"
+        },
+        {
+            "name": "William Divale",
+            "type": "Editor"
+        },
+        {
+            "name": "Michael C. Gavin",
+            "type": "Editor"
+        }
+    ],
+    "title": "D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas'",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

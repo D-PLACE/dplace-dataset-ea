@@ -1,0 +1,1292 @@
+ID,Name,Latitude,Longitude,Glottocode,Name_and_ID_in_source,xd_id,alt_names_by_society,main_focal_year,HRAF_name_ID,HRAF_ID,origLat,origLong,comment,glottocode_comment,region
+Aa1,!Kung,-20,21,juho1239,Kung (Aa1),xd1,Kung Bushmen; !Kung (Was Nyae); Was Nyae,1950,San (FX10),FX10,-20,21,Original,,Southern Africa
+Ab1,Herero,-21,16,here1253,Herero (Ab1),xd10,Damara; Ovaherero,1900,,,-21,16,Original,,Southern Africa
+Ad31,Duruma,-4,39,duru1249,Duruma (Ad31),xd100,Waduruma,1910,,,-4,39,Original,,East Tropical Africa
+Ad32,Giriama,-3,40,giry1241,Giriama (Ad32),xd101,Kiriama; Wagiryama,1900,,,-3,40,Original,,East Tropical Africa
+Ad33,Pokomo,-1,40,poko1261,Pokomo (Ad33),xd102,Wapokomo,1900,,,-1,40,Original,,East Tropical Africa
+Na3,Copper Inuit,69,-110,copp1244,Copper Eskimo (Na3),xd1022,Kitlinermiut; Copper Eskimo,1920,Copper Eskimo (ND08),ND08,69,-110,Original,,Subarctic America
+Na22,Iglulik Inuit,70,-82,west2618,Iglulik (Na22),xd1025,Igloolik; Iglulingmiut,1920,,,70,-82,Original,,Subarctic America
+Na1,Nabesna,63,-141,uppe1437,Nabesna (Na1),xd1026,Upper Tanana Indians,1930,,,63,-141,Original,,Subarctic America
+Na10,Chugach,60.72,-146.49,chug1254,Chugach (Na10),xd1027,Chugachigmiut; Chugash,1930,South Alaskan Eskimo (NA10),NA10,60,-147,Revised,"3Oct2018 Assigned to dialect chug1254 (language does not change) to help differentiate this society from the closely related Koniag, also now mapped to language paci1278.",Subarctic America
+Na11,Sivokakmeit,63.34,-170.3,cent2128,Sivokakmeit (Na11),xd1028,St. Lawrence Island Inuit,1920,,,63,-170,Revised,"4Oct2018 - Note that while EA society Na11 has always been linked to xd1028, Binford society B379 was originally linked to xd1020 (and, thus, linked to the dialect poin1245 and language nort2943. The update to Glottolog 3.3.2 forced re-mapping of xd1028 from dialect aiwa1238 (which no longer exists) to language cent2128 (always the language-level match for this xd_id).",Subarctic America
+Na12,Nunamiut,68,-152,nort2944,Nunamiut (Na12),xd1029,Inland North Alaskan Eskimo; Nunamiut Eskimo,1950,,,68,-152,Original,"1Oct2018 - mapped to a new dialect (nort2944) of the same language (nort2943). HH: Belongs to language North Alaskan Inupiatun [nort2943] and more specifically to the North Slope Inupiatun [nort2944] dialect. Note that the subdialect to which it was previously mapped (Anaktuvuk Pass, anak1241) does not exist in Glottolog version 3.3.2. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Subarctic America
+Ad34,Kamba,-2,38,kamb1297,Kamba (Ad34),xd103,Akamba; Wakamba,1910,,,-2,38,Original,,East Tropical Africa
+Na13,Nunatsiarmiut,65.24,-64.63,baff1240,Baffinland (Na13),xd1030,Baffin Island Inuit; Baffinland,1880,,,65,-65,Revised,,Subarctic America
+Na14,Inughuit (Northern Greenland),78,-70,pola1254,Polar Eskimo (Na14),xd1031,Polar Eskimo; Arctic Highlanders; Smith Sound Inuit; Smith Sound Eskimo,1880,,,78,-70,Original,"Note 8Feb2018: Glottocode changed to [ike] based on note from HH: ""The Polar Eskimo do not speak a language intelligible to Kalaalisut and had until recent times no contact or knowledge of the Kalaalisut further south. The language is intelligible to North Baffin Inuktitut so Glottolog counts Polar Eskimo as Eastern Canadian Inuktitut [ike]. Furthermore, Oswalt 1963 is listed as a reference to Polar Eskimo but concerns a completely different people in Alaska who speak Yupik-Central [esu].""",Subarctic America
+Na15,Tlicho,63,-117,dogr1252,Dogrib (Na15),xd1032,Dogrib,1860,,,63,-117,Original,,Subarctic America
+Na16,Délįne,65,-119,nort2942,Satudene (Na16),xd1033,Bear Lake Dene; Satudene; Great Bear Lake People; Sahtu; Sahtu Dene,1860,,,65,-119,Original,,Subarctic America
+Na17,DeneTha,61,-120,sout2959,Slave (Na17),xd1034,Slave; Deh Cho (Southern Slavey); Slavey; Dene (distinguish from speakers of the Dene language),1860,,,61,-120,Original,,Subarctic America
+Na19,Dakelh,54,-124,carr1249,Carrier (Na19),xd1035,Carrier; Takulli,1880,,,54,-124,Original,,Western Canada
+Na2,Tareumiut,71,-157,nort2944,Tareumiut (Na2),xd1036,Tagiumiut; Point Barrow Eskimo; Barrow,1880,,,71,-157,Original,,Subarctic America
+Na20,Kutchin,66,-135,gwic1235,Kutchin (Na20),xd1037,Gwich'in; Loucheux,1880,,,66,-135,Original,,Subarctic America
+Na21,Caribou Inuit,63,-96,cari1277,Caribou Eskimo (Na21),xd1038,Caribou Eskimo,1900,,,63,-96,Original,,Subarctic America
+Na23,Labrador Inuit,58,-65,labr1244,Labrador Eskimo (Na23),xd1039,Sukinninmiut; Labrador Eskimo,1890,,,58,-65,Original,,Eastern Canada
+Ad35,Meru,0,35,meru1245,Meru (Ad35),xd104,,1940,,,0,35,Original,"12Nov2018 - changed back to Meru meru1245 [mer], after looking at Murdock's primary sources in more detail. While the latter two refs do focus on the ""Kikuyu"" in general terms, within the Kikuyu they clearly differentiated the Kikuyu and Meru. (Previous note, based on comment from HH: ""8Feb2018 - Note possible mix, refs appear to refer to both kik and mer; kik assigned because majority of references refer to kik. [HH: ""The latter two refs deal with Kikuyu [kik] which is a different lg from Meru [mer]"".]",East Tropical Africa
+Na24,Tasiilaq,66,-37,tunu1234,Angmagsalik (Na24),xd1040,Angmagsalik (East Greenland); Ammassalik; East Greenland Eskimo; Polar Eskimo,1880,,,66,-37,Original,Note 8Feb2018: Changed based on note from HH: East Greenlandic is Tunumiisiut [tunu1234] in Glottolog.,Subarctic America
+Na25,Kalaallit (West Greenland),68.66,-51.22,kala1399,Greenlanders (Na25),xd1041,West Greenland Eskimo; West Greenland Inuit,1910,,,69,-53,Revised,Note 8Feb2018: Glottocode updated from west2617 to kala1399,Subarctic America
+Na26,Dena'ina,62,-144,tana1289,Tanaina (Na26),xd1042,Tanaina,1870,,,62,-144,Original,,Subarctic America
+Na27,Tahltan,58,-131,tahl1239,Tahltan (Na27),xd1043,Southwestern Nahane,1870,,,58,-131,Original,,Western Canada
+Na28,Sekani,56,-123,seka1250,Sekani (Na28),xd1044,Tsek'ene; Sicauni,1880,,,56,-123,Original,,Western Canada
+Na29,Beaver,58,-117,beav1236,Beaver (Na29),xd1045,Denezaa; Tsattine,1850,,,58,-117,Original,,Western Canada
+Na30,Dene,60,-105,chip1261,Chipewyan (Na30),xd1046,Chipewyan,1880,Chipewyan (ND07),ND07,60,-105,Original,,Subarctic America
+Na31,Eastern Cree,51,-85,sout2978,Eastern Cree (Na31),xd1047,,1850,,,51,-85,Original,,Eastern Canada
+Na32,Montagnais,48,-72,mont1268,Montagnais (Na32),xd1048,Innu; Naskapi,1880,Montagnais (NH06),NH06,48,-72,Original,"Note 8Feb2018: Not changed, despite comment from HH: ""Naskapi [nsk] is a different lg from Montagnais [moe]"". KK: Decided to leave, after looking into ethnographic materials: Foci are Lake St. John Band and Mistassini band [see KK notes for geographical extent of their territories]. Speck and Heye (1921): ""[the] Pikwagami (""Flat lake,"" Lake St John), are an interior Montagnais culture intermediate between that of the coast and that of the eastern Naskapi and Mistassini. Therefore, Montagnais [moe] is more appropriate choice. ",Eastern Canada
+Na33,Northern Saulteaux,52,-98,alba1270,Northern Saulteaux (Na33),xd1049,N. Saulteaux; North Sauteaux,1870,Ojibwa (NG06),NG06,52,-98,Original,,Western Canada
+Ad36,Pare,-4,38,asut1235,Pare (Ad36),xd105,Asu; Wapare,1890,,,-4,38,Original,,East Tropical Africa
+Na34,Pekangekum,52,-94,lacs1238,Pekangekum (Na34),xd1050,,1940,Ojibwa (NG06),NG06,52,-94,Original,,Eastern Canada
+Na35,Nipigon,50,-88,cent2136,Nipigon (Na35),xd1051,Lake Nipigon Ojibway; Anishinaabek; Southern Saulteaux,1800,Ojibwa (NG06),NG06,50,-88,Original,,Eastern Canada
+Na36,Minnesota Ojibwa,49,-96,redl1238,Chippewa (Na36),xd1052,Minnesota Chippewa; Chippewa; Ojibwe; Ojibwa; Ojibway,1860,Ojibwa (NG06),NG06,49,-96,Original,,Western Canada
+Na37,Rainy River Ojibwe,49,-92,rain1239,Rainy River (Na37),xd1053,Gojijiwininiwag; Rainy River; Emo,1880,Ojibwa (NG06),NG06,49,-92,Original,,Eastern Canada
+Na38,Katikitegon,46,-92,uppe1274,Katikitegon (Na38),xd1054,Wisconsin Ojibwa,1800,,,46,-92,Original,,North-Central U.S.A.
+Na39,Eastern Ojibwa,46,-85,east2542,Eastern Ojibwa (Na39),xd1055,Kitchibuan; Kitchibuan Ojibwa; Kitchibaun Ojibwa,1870,Ojibwa (NG06),NG06,46,-85,Original,,Northeastern U.S.A.
+Na4,Kaska,59,-128,kask1239,Kaska (Na4),xd1056,Nahane,1920,Kaska (ND12),ND12,59,-128,Original,,Western Canada
+Na40,Ottawa,46,-82,otta1242,Ottawa (Na40),xd1057,Odawa; Odaawaa,1650,,,46,-82,Original,,Eastern Canada
+Na41,Mi'kmaq,47,-65,mikm1235,Micmac (Na41),xd1058,Micmac,1700,Mi'kmaq (NJ05),NJ05,47,-65,Original,,Eastern Canada
+Na42,Potawatomi,44,-85,pota1247,Potawatomi (Na42),xd1059,Neshnabé,1760,,,44,-85,Original,,Northeastern U.S.A.
+Ad37,Teita,-4,39,tait1250,Teita (Ad37),xd106,Taita; Wateita,1940,,,-4,39,Original,,East Tropical Africa
+Na43,Netsilik,69,-96,nets1241,Netsilik (Na43),xd1060,Netsilik Inuit; Netsilik Eskimo,1920,,,69,-96,Original,,Subarctic America
+Na44,Nunavimmiut,62,-76,queb1248,Taqagmiut (Na44),xd1061,Taqagmiut; Taqagmiut Eskimo; Inuit of Sugluk; Inuit of Salluit,1910,,,62,-76,Original,,Eastern Canada
+Na45,Mistissini Cree,51.75,-72.66,sout2978,Mistassini (Na45),xd1062,Mistassini Cree,1900,,,51.75,-72.66,Revised,,Eastern Canada
+Na5,Naskapi,58,-70,nask1242,Naskapi (Na5),xd1063,,1890,Montagnais (NH06),NH06,58,-70,Original,,Eastern Canada
+Na6,Nunivak,60,-166,kusk1241,Nunivak (Na6),xd1064,Nunivak Cup'ig,1930,,,60,-166,Original,,Subarctic America
+Na7,Attawapiskat Cree,53,-83,swam1239,Cree Attawapiskat (Na7),xd1065,Attawapiskat,1900,,,53,-83,Original,,Eastern Canada
+Na8,Deg Xit'an,62,-160,dege1248,Ingalik (Na8),xd1066,Ingalik,1880,Ingalik (NA08),NA08,62,-160,Original,,Subarctic America
+Na9,Aleut,53.86,-166.79,east2533,Aleut (Na9),xd1067,Unagan,1830,Aleut (NA06),NA06,54,-167,Revised,,Subarctic America
+Nb1,Haida,54,-132,nort2938,Haida (Nb1),xd1068,,1890,,,54,-132,Original,,Western Canada
+Nb10,Alkatcho,53,-126,sout2958,Alkatcho (Nb10),xd1069,Tsuu'Tina; Alkatcho Carrier; Ilgatcho; Ilgachuz,1865,,,53,-126,Original,,Western Canada
+Ad38,Kara,-2,33,kara1481,Kara (Ad38),xd107,Wakara,1910,,,-2,33,Original,,East Tropical Africa
+Nb11,Nuu chah nulth,49.16,-125.85,nuuc1236,Nootka (Nb11),xd1070,Nuu-chah-nulth; Aht; Central Nootka,1880,Nuu-chah-nulth (NE11),NE11,49,-126,Revised,,Western Canada
+Nb12,Klahoose,51,-125,slia1241,Klahuse (Nb12),xd1071,Klahuse,1880,,,51,-125,Original,,Western Canada
+Nb13,Squamish,50,-123,squa1248,Squamish (Nb13),xd1072,,1880,,,50,-123,Original,,Western Canada
+Nb14,Comox,49.72,-124.97,isla1276,Comox (Nb14),xd1073,K'ómoks,1880,,,50,-125,Revised,,Western Canada
+Nb15,Lummi,48.84,-123.27,lumm1243,Lummi (Nb15),xd1074,Lhaq'temish,1880,,,49,-123,Revised,,Western Canada
+Nb16,Klallam,48,-123,clal1241,Klallam (Nb16),xd1075,Clallum,1860,,,48,-123,Original,,Northwestern U.S.A.
+Nb17,Puyallup,47,-122,sout2965,Puyallup (Nb17),xd1076,,1870,,,47,-122,Original,,Northwestern U.S.A.
+Nb18,Quileute,47.91,-124.59,quil1240,Quileute (Nb18),xd1077,,1880,,,48,-125,Revised,,Northwestern U.S.A.
+Nb19,Lower Chinook,45.99,-123.77,chin1286,Chinook (Nb19),xd1078,Chinook,1850,Chinookans of the Lower Columbia River (NR06),NR06,46,-124,Revised,,Northwestern U.S.A.
+Nb2,Twana,48,-123,twan1247,Twana (Nb2),xd1079,,1850,,,48,-123,Original,,Northwestern U.S.A.
+Ad39,Sonjo,-3,36,temi1247,Sonjo (Ad39),xd108,,1950,,,-3,36,Original,,East Tropical Africa
+Nb20,Tillamook,44.75,-123.72,till1254,Tillamok (Nb20),xd1080,Nehalem,1870,,,45,-124,Revised,,Northwestern U.S.A.
+Nb21,Coos,43,-124,coos1249,Coos (Nb21),xd1081,,1860,,,43,-124,Original,,Northwestern U.S.A.
+Nb22,Tlingit,58.12,-133.92,tlin1245,Tlingit (Nb22),xd1082,Kolosh; Southern Tlingit,1880,Tlingit (NA12),NA12,58,-134,Revised,"9May2019 - preferred name changed to distinguish from eHRAF culture West Tibetans. Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog.",Subarctic America
+Nb23,Heiltsuk,52,-128,bell1263,Bellabella (Nb23),xd1083,Bellabella; Bella Bella,1880,,,52,-128,Original,,Western Canada
+Nb24,Makah,48.33,-124.62,maka1318,Makah (Nb24),xd1084,,1860,Nootka (NE11),NE11,48,-125,Revised,,Northwestern U.S.A.
+Nb25,Quinault,47.42,-124.16,quin1251,Quinault (Nb25),xd1085,,1860,Quinault (NR17),NR17,47,-124,Revised,,Northwestern U.S.A.
+Nb26,Cowichan,49.01,-122.73,cowi1241,Cowichan (Nb26),xd1086,Hul'q'umi'num Mustimuhw,1880,,,49,-123,Revised,,Western Canada
+Nb27,Stó:lō,49,-122,chil1281,Stalo (Nb27),xd1087,Stalo; Halkomelem; Fraser River Cowichan,1880,,,49,-122,Original,,Western Canada
+Nb28,Alsea,44,-124,alse1251,Alsea (Nb28),xd1088,,1860,,,44,-124,Original,,Northwestern U.S.A.
+Nb29,Siuslaw,44,-124,sius1254,Siuslaw (Nb29),xd1089,,1860,,,44,-124,Original,,Northwestern U.S.A.
+Ad4,Kikuyu,-1,37,kiku1240,Kikuyu (Ad4),xd109,Aikikuyu,1930,Gikuyu (FL10),FL10,-1,37,Original,,East Tropical Africa
+Nb3,Kwakwaka'wakw,51,-127.49,kwak1269,Kwakiutl (Nb3),xd1090,Southern Kwakiutl; Kwagu'ł; Kwagyewlth,1890,,,51,-128,Revised,,Western Canada
+Nb30,Takelma,42,-123,take1257,Takelma (Nb30),xd1091,Rogue River Indians; Tekelma,1860,,,42,-123,Original,,Northwestern U.S.A.
+Nb31,Tututni,42,-124,tutu1242,Tututni (Nb31),xd1092,,1870,,,42,-124,Original,,Northwestern U.S.A.
+Nb32,Shasta,41,-122,shas1239,Shasta (Nb32),xd1093,,1860,,,41,-122,Original,,Southwestern U.S.A.
+Nb33,Chimariko,41,-123,chim1301,Chimariko (Nb33),xd1094,,1860,,,41,-123,Original,,Southwestern U.S.A.
+Nb34,Karuk,42,-123,karo1304,Karok (Nb34),xd1095,Karok,1860,,,42,-123,Original,,Northwestern U.S.A.
+Nb35,Hupa,41,-123,hupa1239,Hupa (Nb35),xd1096,,1860,,,41,-123,Original,,Southwestern U.S.A.
+Nb36,Wiyot,39.81,-123.55,wiyo1248,Wiyot (Nb36),xd1097,,1860,,,40,-124,Revised,,Southwestern U.S.A.
+Nb37,Lassik,40,-123,wail1244,Lassik (Nb37),xd1098,,1860,,,40,-123,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",Southwestern U.S.A.
+Nb38,Mattole-Bear River,40.35,-123.47,matt1238,Mattole (Nb38),xd1099,Mattole; Bear River,1860,,,40,-124,Revised,,Southwestern U.S.A.
+Ab10,Pondo Xhosa,-31,30,mpon1252,Pondo (Ab10),xd11,Amapondo; Mpondo,1936,,,-31,30,Original,,Southern Africa
+Ad40,Tiriki,0,35,idak1243,Tiriki (Ad40),xd110,,1950,,,0,35,Original,,East Tropical Africa
+Nb39,Sinkyone,39.73,-123.6,wail1244,Sinkyone (Nb39),xd1100,,1860,,,40,-124,Revised,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",Southwestern U.S.A.
+Nb4,Yurok,41,-124,yuro1248,Yurok (Nb4),xd1101,,1850,Yurok (NS31),NS31,41,-124,Original,,Southwestern U.S.A.
+Nb5,Eyak,60.34,-144.85,eyak1241,Eyak (Nb5),xd1102,dAXunhyuu,1890,,,60,-145,Revised,,Subarctic America
+Nb6,Tolowa,42,-124,tolo1259,Tolowa (Nb6),xd1103,,1870,,,42,-124,Original,,Northwestern U.S.A.
+Nb7,Tsimshian,54.64,-130.25,nucl1649,Tsimshian (Nb7),xd1104,Ts’msyan,1880,,,55,-130,Revised,,Western Canada
+Nb8,Haisla,54,-129,hais1244,Haisla (Nb8),xd1105,Kitimat,1880,,,54,-129,Original,,Western Canada
+Nb9,Nuxalk,52,-127,bell1243,Bellacoola (Nb9),xd1106,Nuxalkmc; Bellacoola; Bilqula; Bella Coola,1880,Nuxalk (NE06),NE06,52,-127,Original,,Western Canada
+Nc1,Nomlaki,39,-122,noml1242,Nomlaki (Nc1),xd1107,Central Wintun,1850,,,39,-122,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu,Southwestern U.S.A.
+Nc10,Achumawi,41,-121,achu1247,Achomawi (Nc10),xd1108,Achomawi,1860,,,41,-121,Original,,Southwestern U.S.A.
+Nc11,Yana,41,-122,yana1271,Yana (Nc11),xd1109,Nozi,1860,,,41,-122,Original,,Southwestern U.S.A.
+Ad41,Vugusu,1,35,buku1249,Vugusu (Ad41),xd111,Kotosh,1930,,,1,35,Original,,East Tropical Africa
+Nc12,Maidu,40,-121,nort2952,Maidu (Nc12),xd1110,Pujunan,1850,,,40,-121,Original,,Southwestern U.S.A.
+Nc13,Nisenan,39,-121,nise1244,Nisenan (Nc13),xd1111,Southern Maidu; Nisenan Southern Maidu,1850,,,39,-121,Original,,Southwestern U.S.A.
+Nc14,Wintu,41,-122,nucl1651,Wintu (Nc14),xd1112,Northern Wintu,1860,,,41,-122,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu,Southwestern U.S.A.
+Nc15,Coast Yuki,39.34,-123.77,yuki1243,Coast Yuki (Nc15),xd1113,,1860,Yuki (NS30),NS30,39,-124,Revised,,Southwestern U.S.A.
+Nc16,Huchnom,39,-123,yuki1243,Huchnom (Nc16),xd1114,,1860,,,39,-123,Original,,Southwestern U.S.A.
+Nc17,Northern Pomo,39,-123,nort2966,Northern Pomo (Nc17),xd1115,,1860,Pomo (NS18),NS18,39,-123,Original,,Southwestern U.S.A.
+Nc18,Eastern Pomo,39,-123,east2545,Eastern Pomo (Nc18),xd1116,Clear Lake Pomo; Eastern Pomo,1860,Pomo (NS18),NS18,39,-123,Original,,Southwestern U.S.A.
+Nc19,Southern Pomo,38.55,-122.94,sout2984,Southern Pomo (Nc19),xd1117,Southern Pomo,1860,Pomo (NS18),NS18,38,-123,Revised,,Southwestern U.S.A.
+Nc2,Tübalulabal,39,-118,tuba1278,Tubatulabal (Nc2),xd1118,Tubatulabal,1850,Tubatulabal (NS22),NS22,39,-118,Original,,Southwestern U.S.A.
+Nc20,Wappo,38.22,-122.56,wapp1239,Wappo (Nc20),xd1119,,1860,,,38,-123,Revised,,Southwestern U.S.A.
+Ad42,Haya,-1,32,haya1250,Haya (Ad42),xd112,Basiba; Wahaya; Wassiba; Ziba,1900,,,-1,32,Original,"Note 8Feb2018: HH notes that the Weiss ethnography (1 of 5 references) refers to Wahima and Wanjambo, which are Kinyarwanda [kin] and Nyambo [now] respectively -- ""close to, but not the same lg as Haya [hay]"". However, given that Haya appears to be the focus of the other ethnographies, I will leave the language match as [hay]. Users may wish to look into individual data points in detail, to ensure they refer to the focal group.",East Tropical Africa
+Nc21,Lake Miwok,38.75,-123.2,lake1258,Lake Miwok (Nc21),xd1120,,1860,,,38,-123,Revised,,Southwestern U.S.A.
+Nc22,Patwin,39,-122,patw1250,Patwin (Nc22),xd1121,Southern Wintun,1850,,,39,-122,Original,,Southwestern U.S.A.
+Nc23,Western Mono,37,-119,mono1275,Monachi (Nc23),xd1122,Monachi; Western Mono; Monache,1870,,,37,-119,Original,,Southwestern U.S.A.
+Nc24,Southern Valley Yokuts,36,-120,vall1251,Lake Yokuts (Nc24),xd1123,Lake Yokuts; Tachi Yokuts; Chunut Yokuts,1860,Yokuts (NS29),NS29,36,-120,Original,,Southwestern U.S.A.
+Nc25,Wukchumni,36,-119,tule1245,Wukchumni (Nc25),xd1124,Central Foothills Yokuts,1860,Yokuts (NS29),NS29,36,-119,Original,,Southwestern U.S.A.
+Nc26,Salinan,36,-121,sali1253,Salinan (Nc26),xd1125,,1770,,,36,-121,Original,,Southwestern U.S.A.
+Nc27,Kawaiisu,35,-118,kawa1283,Kawaiisu (Nc27),xd1126,Kawaiisu Shoshoni,1860,,,35,-118,Original,,Southwestern U.S.A.
+Nc28,Chumash,34.44,-119.71,cruz1243,Chumash (Nc28),xd1127,,1800,,,34,-120,Revised,,Southwestern U.S.A.
+Nc29,Tongva,34,-118,tong1329,Gabrielo (Nc29),xd1128,Gabrielo; Gabrielino; Gabrieleno,1770,,,34,-118,Original,,Southwestern U.S.A.
+Nc3,Northern Foothill Yokuts,36,-120,nort2937,Yokuts (Nc3),xd1129,Yokuts,1850,Yokuts (NS29),NS29,36,-120,Original,,Southwestern U.S.A.
+Ad43,Kerewe,-3,33,kere1283,Kerewe (Ad43),xd113,Bakerewe; Wakerewe,1900,,,-3,33,Original,,East Tropical Africa
+Nc30,Serrano,34,-117,serr1255,Serrano (Nc30),xd1130,,1870,,,34,-117,Original,,Southwestern U.S.A.
+Nc31,Cahuilla (Desert),33,-116,cahu1264,Cahuilla (Nc31),xd1131,Desert Cahuilla,1870,,,33,-116,Original,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects",Southwestern U.S.A.
+Nc32,Cupeño,33,-117,cupe1243,Cupeno (Nc32),xd1132,Kuupangaxwichem; Cupeno,1870,,,33,-117,Original,,Southwestern U.S.A.
+Nc33,Luiseño,33,-117,luis1253,Luiseno (Nc33),xd1133,Payómkawichum; Luiseno,1860,,,33,-117,Original,,Southwestern U.S.A.
+Nc34,Kiliwa,31,-115,kili1268,Kiliwa (Nc34),xd1134,K'olew,1880,,,31,-115,Original,,Mexico
+Nc4,Atsugewi,41,-121,atsu1245,Atsugewi (Nc4),xd1135,,1860,,,41,-121,Original,,Southwestern U.S.A.
+Nc5,Central Sierra Miwok,38,-120,cent2140,Miwok (Nc5),xd1136,Miwok,1850,,,38,-120,Original,,Southwestern U.S.A.
+Nc6,Kumeyaay,32,-116,kumi1248,Diegueno (Nc6),xd1137,Diegueño; Diegueno,1850,,,32,-116,Original,"Note, previously tipa1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Mexico
+Nc7,Yuki,40,-123,yuki1243,Yuki (Nc7),xd1138,,1850,Yuki (NS30),NS30,40,-123,Original,,Southwestern U.S.A.
+Nc8,Klamath,43,-122,klam1254,Klamath (Nc8),xd1139,,1860,Klamath (NR10),NR10,43,-122,Original,,Northwestern U.S.A.
+Ad44,Konjo,-1,30,konz1239,Konjo (Ad44),xd114,,1920,,,-1,30,Original,,East Tropical Africa
+Nc9,Modoc,42,-122,klam1254,Modoc (Nc9),xd1140,,1860,,,42,-122,Original,,Northwestern U.S.A.
+Nd1,Tenino,45,-121,teni1238,Tenino (Nd1),xd1141,Warmsprings Sahaptin; Yenino,1850,,,45,-121,Original,,Northwestern U.S.A.
+Nd10,Nlaka'pamux,50,-122,thom1243,Thompson (Nd10),xd1142,Thompson; Nitlakapamuk; Thompson River Salish,1860,,,50,-122,Original,,Western Canada
+Nd11,Shuswap,51,-120,shus1248,Shuswap (Nd11),xd1143,Secwepemc,1850,,,51,-120,Original,,Western Canada
+Nd12,Bitterroot Salish,46,-113,kali1309,Flathead (Nd12),xd1144,Salish; Flathead,1860,Southeast (NR19),NR19,46,-113,Original,,Northwestern U.S.A.
+Nd13,Kalispel,49,-117,kali1309,Kalispel (Nd13),xd1145,,1860,Southeast (NR19),NR19,49,-117,Original,,Western Canada
+Nd14,Coeur d’Alene,48,-117,coeu1236,Coeur d’Alene (Nd14),xd1146,Schitsu'umsh; Skitswish,1860,Southeast (NR19),NR19,48,-117,Original,,Northwestern U.S.A.
+Nd15,Sinkaitk,49,-120,sout2963,Sinkaitk (Nd15),xd1147,Southern Okanagon,1880,Southeast (NR19),NR19,49,-120,Original,,Western Canada
+Nd16,Wenatchi,48,-121,wena1241,Wenatchi (Nd16),xd1148,,1870,,,48,-121,Original,,Northwestern U.S.A.
+Nd17,Klikitat,46,-122,nucl1237,Klikitat (Nd17),xd1149,Yakima,1870,,,46,-122,Original,,Northwestern U.S.A.
+Ad45,Nyankole,0,31,nyan1307,Nyankole (Ad45),xd115,Banyankole,1920,,,0,31,Original,,East Tropical Africa
+Nd18,Wishram,46,-121,wasc1239,Wishram (Nd18),xd1150,,1860,,,46,-121,Original,,Northwestern U.S.A.
+Nd19,Umatilla,46,-119,umat1237,Umatilla (Nd19),xd1151,,1860,,,46,-119,Original,,Northwestern U.S.A.
+Nd2,Southern Ute,38,-109,utee1244,Southern Ute (Nd2),xd1152,Wimonuntci; Weminute; Wimonantci Ute,1860,Ute (NT19),NT19,38,-109,Original,,Northwestern U.S.A.
+Nd20,Nez Perce,45,-115,nezp1238,Nez Perce (Nd20),xd1153,Nimi'ipuu; Sahaptin,1850,,,45,-115,Original,,Northwestern U.S.A.
+Nd21,Tagotoka,43,-117,nort1551,Tagotoka (Nd21),xd1154,Duck Valley Paiute,1870,,,43,-117,Original,,Northwestern U.S.A.
+Nd22,Wadadokado,43,-119,nort1551,Wadadokado (Nd22),xd1155,Paiute; Northern Paiute,1870,Northern Paiute (NR13),NR13,43,-119,Original,,Northwestern U.S.A.
+Nd23,Atsakudokwa,42,-118,nort1551,Atsakudokwa (Nd23),xd1156,Quinn River Paiute,1870,,,42,-118,Original,,Northwestern U.S.A.
+Nd24,Kidutokado,42,-120,nort1551,Kidutokado (Nd24),xd1157,Gididika; Surprise Valley Paiute,1870,Northern Paiute (NR13),NR13,42,-120,Original,,Northwestern U.S.A.
+Nd25,Sawakudokwa,41,-118,nort1551,Sawakudokwa (Nd25),xd1158,Winnemucca Paiute,1870,,,41,-118,Original,,Southwestern U.S.A.
+Ad46,Soga,1,33,soga1242,Soga (Ad46),xd116,Basoga,1950,,,1,33,Original,,East Tropical Africa
+Nd27,Kuyuidokado,40,-119,sout2967,Kuyuidokado (Nd27),xd1160,Pyramid Lake Paiute,1860,Northern Paiute (NR13),NR13,40,-119,Original,,Southwestern U.S.A.
+Nd28,Toedokado,40,-118,sout2967,Toedokado (Nd28),xd1161,Stillwater Paiute; Cattail Paiute,1870,,,40,-118,Original,,Southwestern U.S.A.
+Nd29,Tunava (Deep Springs and Fish Lake),37,-118,mono1275,Tunava (Nd29),xd1162,Deep Springs Valley Paiute; Fish Lake Valley Paiute,1870,,,37,-118,Original,,Southwestern U.S.A.
+Nd3,Havasupai,36,-112,hava1249,Havasupai (Nd3),xd1163,Plateau Yuma,1870,Plateau Yumans (NT14),NT14,36,-112,Original,,Southwestern U.S.A.
+Nd30,Eastern Mono,37,-118,mono1275,Eastern Mono (Nd30),xd1164,Owens Valley Paiute,1870,,,37,-118,Original,,Southwestern U.S.A.
+Nd31,Koso,36,-118,pana1305,Koso (Nd31),xd1165,Western Panamint; Koso Mountain Shoshoni; Little Lake Shoshoni,1850,Western (NT22),NT22,36,-118,Original,,Southwestern U.S.A.
+Nd32,Tümpisa Shoshone (Saline and Panamint),36,-117,pana1305,Panamint (Nd32),xd1166,Panamint Shoshoni; Panamint; Saline Valley Shoshoni,1850,Western (NT22),NT22,36,-117,Original,,Southwestern U.S.A.
+Nd33,Beatty,37,-116,pana1305,Beatty (Nd33),xd1167,Eastern Panamint; Beatty Shoshoni; Belted Range Shoshoni,1870,,,37,-116,Original,,Southwestern U.S.A.
+Nd34,Lida Shoshoni,37,-117,west2622,Lida Shoshoni (Nd34),xd1168,,1870,Western (NT22),NT22,37,-117,Original,,Southwestern U.S.A.
+Nd35,Mahaguaduka,39,-117,west2622,Mahaguaduka (Nd35),xd1169,Reese River Shoshoni,1870,Western (NT22),NT22,39,-117,Original,,Southwestern U.S.A.
+Ad47,Sumbwa,-4,32,sumb1240,Sumbwa (Ad47),xd117,,1900,,,-4,32,Original,,East Tropical Africa
+Nd36,Wiyambituka,39,-117,west2622,Wiyambituka (Nd36),xd1170,Morey Shoshoni; Great Smokey Valley Shoshoni; Little Smokey Valley Shoshoni,1870,Western (NT22),NT22,39,-117,Original,,Southwestern U.S.A.
+Nd37,Railroad Valley Shoshoni,39,-116,west2622,Hamilton (Nd37),xd1171,Hamilton,1870,Western (NT22),NT22,39,-116,Original,,Southwestern U.S.A.
+Nd38,Ely Shoshoni,39,-115,west2622,Ely Shoshoni (Nd38),xd1172,,1870,Western (NT22),NT22,39,-115,Original,,Southwestern U.S.A.
+Nd4,Sanpoil,48,-119,sanp1257,Sanpoil (Nd4),xd1174,,1870,Southeast (NR19),NR19,48,-119,Original,,Northwestern U.S.A.
+Nd40,Tubaduka,40,-113,west2622,Tubaduka (Nd40),xd1175,Grouse Creek Shoshoni,1870,,,40,-113,Original,,Southwestern U.S.A.
+Nd41,Wadaduka,41,-116,west2622,Wadaduka (Nd41),xd1176,Ruby Valley Shoshoni; Pine Creek Shoshoni; Diamond Valley Shoshoni; Egan Canyon Shoshoni,1870,,,41,-116,Original,,Southwestern U.S.A.
+Nd42,Elko Shoshoni,41,-116,west2622,Elko Shoshoni (Nd42),xd1177,Upper Humboldt River Shoshoni,1870,,,41,-116,Original,,Southwestern U.S.A.
+Nd43,White Knife Shoshoni,41,-117,west2622,White Knife (Nd43),xd1178,Battle Mountain Shoshoni; Tosawihi,1860,,,41,-117,Original,,Southwestern U.S.A.
+Nd44,Yahanduka,42,-115,west2622,Yahanduka (Nd44),xd1179,Snake River Shoshoni,1850,,,42,-115,Original,,Northwestern U.S.A.
+Ad48,Toro,1,31,toor1238,Toro (Ad48),xd118,Batoro,1950,,,1,31,Original,,East Tropical Africa
+Nd45,Bohogue,43,-112,nort2955,Bohogue (Nd45),xd1180,Fort Hall Shoshoni,1860,,,43,-112,Original,,Northwestern U.S.A.
+Nd47,Tukudika,44,-111,nort2955,Tukudika (Nd47),xd1181,Sheep-Eater Shoshoni; Lemhi Mountain Shoshoni,1850,,,44,-111,Original,,Northwestern U.S.A.
+Nd46,Agaiduka,44,-112,nort2955,Agaiduka (Nd46),xd1182,Salmon-Eater Shoshoni; Lemhi River Shoshoni,1860,,,44,-112,Original,,Northwestern U.S.A.
+Nd48,Gosiute,40,-114,gosi1242,Gosiute (Nd48),xd1183,Gosiute Shoshoni; Deep Creek Shoshoni,1860,Western (NT22),NT22,40,-114,Original,,Southwestern U.S.A.
+Nd49,Antarianunts,37,-110,utee1244,Antarianunts (Nd49),xd1184,Henry Mountains Paiute; Kaiparowits,1860,,,37,-110,Original,,Southwestern U.S.A.
+Nd5,Hukundika,42,-112,nort2955,Hukundika (Nd5),xd1185,Seed-Eaters; Northern Shoshoni; Hukunduka; Hukuniduica,1870,,,42,-112,Original,,Northwestern U.S.A.
+Nd50,Panguitch,38,-112,utee1244,Panguitch (Nd50),xd1186,,1860,,,38,-112,Original,,Southwestern U.S.A.
+Nd51,Moapa,36,-115,sout2969,Moapa (Nd51),xd1187,Muddy Paiute; Parano,1860,,,36,-115,Original,,Southwestern U.S.A.
+Nd52,Shivwits,36,-117,sout2969,Shivwits (Nd52),xd1188,Suwuntsu (St. George); Suwuntsu; St. George; Gunlock; Uinkaret; Southern Paiute,1860,,,36,-117,Original,,Southwestern U.S.A.
+Nd53,Southern Paiute (Kaibab),36,-113,sout2969,Kaibab (Nd53),xd1189,Kaivavwits; Southern Paiute; Kaipapicicimi; Kaibabits,1860,,,36,-113,Original,,Southwestern U.S.A.
+Nd55,Southern Paiute (Las Vegas),36,-115,sout2969,Las Vegas (Nd55),xd1189,Las Vegas; Southern Paiute,1860,,,36,-115,Original,,Southwestern U.S.A.
+Ad49,Zinza,-3,31,zinz1238,Zinza (Ad49),xd119,Basindja,1950,,,-3,31,Original,,East Tropical Africa
+Nd54,Chemehuevi,35,-115,chem1251,Chemehuevi (Nd54),xd1190,Colorado River Reservation,1860,Southern (NT16),NT16,35,-115,Original,,Southwestern U.S.A.
+Nd56,San Juan,36,-111,sout2969,San Juan (Nd56),xd1192,Kwaanitikwokets,1860,,,36,-111,Original,,Southwestern U.S.A.
+Nd57,Pahvant,39,-113,utee1244,Pahvant (Nd57),xd1193,Sevier Desert Ute,1860,,,39,-113,Original,,Southwestern U.S.A.
+Nd58,Uintah Ute,40,-112,utee1244,Uintah (Nd58),xd1194,Tompanowots; Yampa,1860,,,40,-112,Original,,Southwestern U.S.A.
+Nd59,Moanunts,39,-112,utee1244,Moanunts (Nd59),xd1195,Noanunts,1860,,,39,-112,Original,,Southwestern U.S.A.
+Nd6,Washo,39,-120,wash1253,Washo (Nd6),xd1196,,1850,Washo (NT20),NT20,39,-120,Original,,Southwestern U.S.A.
+Nd60,Moache,37,-105,utee1244,Moache (Nd60),xd1197,Moache Ute; Mowatei,1860,,,37,-105,Original,,Northwestern U.S.A.
+Nd61,Taviwatsiu,40,-105,utee1244,Taviwatsiu (Nd61),xd1198,White River Ute,1860,,,40,-105,Original,,Northwestern U.S.A.
+Nd62,Uncompahgre Ute,39,-107,utee1244,Uncompahgre (Nd62),xd1199,Mowataviwatsiu,1860,,,39,-107,Original,,Northwestern U.S.A.
+Ab11,Xhosa Ngqika,-32.89,27.91,xesi1238,Xhosa (Ab11),xd12,amaXhosa; Amakosa; Kaffirs; Xosa,1850,,,-33,28,Revised,,Southern Africa
+Ad5,Mbugwe,-4,36,mbug1242,Mbugwe (Ad5),xd120,Wambugwe,1940,,,-4,36,Original,,East Tropical Africa
+Nd63,Bannock,43,-112,bann1248,Bannock (Nd63),xd1200,Eastern Bannock,1860,,,43,-112,Original,,Northwestern U.S.A.
+Nd64,Wind River Eastern Shoshone,43,-109,nort2955,Wind River (Nd64),xd1201,Wind River; Eastern Shoshoni; Kucundika; Buffalo Hunters; Buffalo-Eater,1860,,,43,-109,Original,,Northwestern U.S.A.
+Nd65,Hualapai,36,-114,wala1270,Walapai (Nd65),xd1202,Walapai,1870,,,36,-114,Original,,Southwestern U.S.A.
+Nd66,Yavapai,35,-112,yava1252,Yavapai (Nd66),xd1203,Apache-Mojave,1870,,,35,-112,Original,,Southwestern U.S.A.
+Nd67,Tolkepaya,34,-114,yava1252,Tolkepaya (Nd67),xd1204,Apache-Yuma; Western Yavapai,1870,,,34,-114,Original,,Southwestern U.S.A.
+Nd7,Kutenai,50,-117,kute1249,Kutenai (Nd7),xd1205,Ktunaxa; Kootenay; Kootenai,1880,,,50,-117,Original,,Western Canada
+Nd8,Chilcotin,52,-122,chil1280,Chilcotin (Nd8),xd1206,Tsilhqot'in,1880,,,52,-122,Original,,Western Canada
+Nd9,Lillooet,50.02,-124.78,lill1248,Lillooet (Nd9),xd1207,St'at'imc; Stlatlum,1860,,,50,-125,Revised,,Western Canada
+Ne1,Gros Ventre,48.78,-108.98,gros1243,Gros Ventre (Ne1),xd1208,A'ani; A'aninin; Haaninin,1880,Gros Ventre (NQ13),NQ13,49,-109,Revised,,Northwestern U.S.A.
+Ne10,Arikara,46,-101,arik1262,Arikara (Ne10),xd1209,Sahnish; Ree,1860,,,46,-101,Original,,North-Central U.S.A.
+Ad50,Kaguru,-6,37,kagu1239,Kaguru (Ad50),xd121,,1900,,,-6,37,Original,,East Tropical Africa
+Ne11,Assiniboine,48,-106,assi1247,Assiniboin (Ne11),xd1210,Hohe; Nakota; Stoney,1870,Assiniboine (NF04),NF04,48,-106,Original,,Northwestern U.S.A.
+Ne12,Blackfoot,51,-112,pieg1239,Blackfoot (Ne12),xd1211,Siksika,1850,Blackfoot (NF06),NF06,51,-112,Original,,Western Canada
+Ne13,Kainai,51,-115,bloo1239,Blood (Ne13),xd1212,Blood; Kainah; Blood Tribe,1850,Blackfoot (NF06),NF06,51,-115,Original,,Western Canada
+Ne14,Bungi,51,-100,west1510,Bungi (Ne14),xd1213,Plains Ojibwa; Bungee; Manitoba Saulteaux; Ojibway; Ojibwe,1850,Ojibwa (NG06),NG06,51,-100,Original,,Western Canada
+Ne15,Hidatsa,47,-101,hida1246,Hidatsa (Ne15),xd1214,,1860,,,47,-101,Original,,North-Central U.S.A.
+Ne16,Karankawa,29,-96,kara1289,Karankawa (Ne16),xd1215,,1800,,,29,-96,Original,,South-Central U.S.A.
+Ne17,Kiowa,36,-99,kiow1266,Kiowa (Ne17),xd1216,,1860,,,36,-99,Original,,North-Central U.S.A.
+Ne18,Piegan,49,-115,pieg1239,Piegan (Ne18),xd1217,Pikuni,1850,Blackfoot (NF06),NF06,49,-115,Original,,Western Canada
+Ne19,Plains Cree,45,-94,plai1258,Plains Cree (Ne19),xd1218,,1850,,,45,-94,Original,,North-Central U.S.A.
+Ne2,Kiowa Apache,36,-99,kiow1264,Kiowa Apache (Ne2),xd1219,Naisha Dene; Na'isha,1870,,,36,-99,Original,,North-Central U.S.A.
+Ad51,Ngulu,-6,38,ngul1246,Ngulu (Ad51),xd122,Nguru; Wanguru,1930,,,-6,38,Original,,East Tropical Africa
+Ne20,Santee,45,-94,dako1258,Santee (Ne20),xd1220,Isanti; Eastern Dakota,1850,,,45,-94,Original,,North-Central U.S.A.
+Ne21,Coahuilteco,29,-99,coah1252,Coahuilteco (Ne21),xd1221,,1760,,,29,-99,Original,,South-Central U.S.A.
+Ne3,Comanche,33,-100,coma1245,Comanche (Ne3),xd1222,,1870,Comanche (NO06),NO06,33,-100,Original,,South-Central U.S.A.
+Ne4,Crow,45,-108,crow1244,Crow (Ne4),xd1223,Apsaalooké,1870,Crow (NQ10),NQ10,45,-108,Original,,Northwestern U.S.A.
+Ne5,Cheyenne,39,-104,chey1247,Cheyenne (Ne5),xd1224,,1860,,,39,-104,Original,,Northwestern U.S.A.
+Ne6,Mandan,47,-101,mand1446,Mandan (Ne6),xd1225,,1830,Mandan (NQ17),NQ17,47,-101,Original,,North-Central U.S.A.
+Ne7,Sarcee,54,-110,sars1236,Sarsi (Ne7),xd1226,Tsuu; Sarci,1880,,,54,-110,Original,,Western Canada
+Ne8,Teton,43,-103,lako1247,Teton (Ne8),xd1227,,1870,,,43,-103,Original,,North-Central U.S.A.
+Ne9,Arapaho,40,-103,arap1274,Arapaho (Ne9),xd1228,Hinono'eiteen; Arapahoe,1860,Arapaho (NQ06),NQ06,40,-103,Original,,Northwestern U.S.A.
+Ad6,Nyakyusa,-9,34,nyak1261,Nyakyusa (Ad6),xd123,,1930,Nyakyusa and Ngonde (FN17),FN17,-9,34,Original,,East Tropical Africa
+Nf10,Iowa,41,-95,iowa1246,Iowa (Nf10),xd1230,Bah Kho-je; Baxoje,1870,,,41,-95,Original,,North-Central U.S.A.
+Nf11,Otoe,40,-95,otoo1241,Oto (Nf11),xd1231,Oto,1870,,,40,-95,Original,,North-Central U.S.A.
+Nf12,Ponca,43,-99,ponc1241,Ponca (Nf12),xd1232,,1850,Dhegiha (NQ12),NQ12,43,-99,Original,,North-Central U.S.A.
+Nf13,Shawnee,37,-85,shaw1249,Shawnee (Nf13),xd1233,,1820,,,37,-85,Original,,Southeastern U.S.A.
+Nf14,Caddo,33,-93,cadd1256,Caddo (Nf14),xd1234,Kadohadacho,,,,33,-93,Original,,Southeastern U.S.A.
+Nf15,Kickapoo,43,-90,kick1244,Kickapoo (Nf15),xd1235,Kiikaapoi,1870,,,43,-90,Original,,North-Central U.S.A.
+Nf2,Ho Chunk,44,-88,hoch1243,Winnebago (Nf2),xd1236,Winnebago,1850,Winnebago/Ho-Chunk (NP12),NP12,44,-88,Original,,North-Central U.S.A.
+Nf3,Omaha,41,-96,omah1248,Omaha (Nf3),xd1237,Dhegiha,1850,Omaha (NQ21),NQ21,41,-96,Original,,North-Central U.S.A.
+Nf4,Myaamia,40,-86,miam1252,Miami (Nf4),xd1238,Miami,1720,,,40,-86,Original,,Northeastern U.S.A.
+Nf5,Wichita,34,-98,wich1260,Wichita (Nf5),xd1239,,1860,,,34,-98,Original,,North-Central U.S.A.
+Ad7,Ganda,1,32,gand1255,Ganda (Ad7),xd124,Baganda,1880,Ganda (FK07),FK07,1,32,Original,,East Tropical Africa
+Nf6,Pawnee,42,-100,pawn1254,Pawnee (Nf6),xd1240,,1867,Pawnee (NQ18),NQ18,42,-100,Original,,North-Central U.S.A.
+Nf7,Fox,45,-95,mesk1242,Fox (Nf7),xd1241,Meskwaki,1830,Fox (NP05),NP05,45,-95,Original,,North-Central U.S.A.
+Nf8,Hasinai,31,-95,cadd1256,Hasinai (Nf8),xd1242,Southwestern Caddo; Texas,1770,,,31,-95,Original,,South-Central U.S.A.
+Nf9,Menominee,46,-88,meno1252,Menomini (Nf9),xd1243,Menomini,1870,,,46,-88,Original,,Northeastern U.S.A.
+Ng1,Huron,44,-78,wyan1247,Huron (Ng1),xd1244,Bear and Cord Peoples; Wendat; Ouendat; Attignaouantan; Attinniaoenten; Attigneenongnahac; Hatingeennonniahak,1640,,,44,-78,Original,,Eastern Canada
+Ng10,Seneca,43,-77,sene1264,Iroquois (Ng10),xd1245,O-non-dowa-gah; Iroquois,1750,Iroquois (NM09),NM09,43,-77,Original,,Northeastern U.S.A.
+Ng11,Yuchi,35,-86,yuch1247,Yuchi (Ng11),xd1246,Euchee; Uchee,1750,,,35,-86,Original,,Southeastern U.S.A.
+Ng12,Choctaw,33,-88,choc1276,Choctaw (Ng12),xd1247,,1760,,,33,-88,Original,,Southeastern U.S.A.
+Ng13,Abenaki,46,-70,peno1243,Abnaki (Ng13),xd1248,Abnaki,,,,46,-70,Original,,Northeastern U.S.A.
+Ng14,Chickasaw,35,-85,chic1270,Chickasaw (Ng14),xd1249,,,,,35,-85,Original,,Southeastern U.S.A.
+Ad8,Hehe,-8,35,hehe1240,Hehe (Ad8),xd125,Wahehe,1910,,,-8,35,Original,,East Tropical Africa
+Ng15,Chitimacha,30,-90,chit1248,Chitimacha (Ng15),xd1250,,1750,,,30,-90,Original,,Southeastern U.S.A.
+Ng2,Seminole,27,-81,mika1239,Seminole (Ng2),xd1251,,1940,Seminole (NN16),NN16,27,-81,Original,,Southeastern U.S.A.
+Ng3,Muscogee,33,-84,cree1270,Creek (Ng3),xd1252,Creek; Taskigi Creek,1750,Creek (NN11),NN11,33,-84,Original,,Southeastern U.S.A.
+Ng4,Penobscot,45,-68,peno1243,Penobscot (Ng4),xd1253,,1900,,,45,-68,Original,,Northeastern U.S.A.
+Ng5,Cherokee,36,-83,cher1273,Cherokee (Ng5),xd1254,,1750,Cherokee (NN08),NN08,36,-83,Original,,Southeastern U.S.A.
+Ng6,Delaware,41,-75,unam1242,Delaware (Ng6),xd1255,Lenape,1700,Delaware (NM07),NM07,41,-75,Original,Note 8Feb2018: Changed based on note from HH: Pidgin Delaware was not the mother tongue of the Lenape. The mother tongue was Unami [unm].,Northeastern U.S.A.
+Ng7,Natchez,32,-91,natc1249,Natchez (Ng7),xd1256,,1700,,,32,-91,Original,,Southeastern U.S.A.
+Ng8,Timucua,27,-82,timu1245,Timucua (Ng8),xd1257,,1560,,,27,-82,Original,,Southeastern U.S.A.
+Ng9,Catawba,35,-80,cata1286,Catawba (Ng9),xd1258,Issa,1920,,,35,-80,Original,,Southeastern U.S.A.
+Nh1,Chiricahua,31,-108,mesc1238,Chiricahua (Nh1),xd1259,Chiricahua Apache; Eastern Apache,1880,Eastern Apache (NT08),NT08,31,-108,Original,,Mexico
+Ad9,Gisu,1,34,masa1299,Gisu (Ad9),xd126,Bagesu; Gishu,1900,Bagisu (FK13),FK13,1,34,Original,,East Tropical Africa
+Nh10,Isleta,35,-107,sout2961,Isleta (Nh10),xd1260,,1920,,,35,-107,Original,,South-Central U.S.A.
+Nh11,San Ildefonso,36,-106,sani1273,Tewa (Nh11),xd1261,Tewa; San Ildefonso Pueblo,1900,Tewa (NT18),NT18,36,-106,Original,"Note 8Feb2018: Not changed, as focus is the pueblo of San Ildefonso, despite comment from HH: ""Hopi Tewa now has its own language-level glottocode Arizona Tewa ariz1237"". However, ariz1237 now linked to another society in EA.",South-Central U.S.A.
+Nh12,Santa Ana,35,-107,sant1426,Santa Ana (Nh12),xd1262,,1920,,,35,-107,Original,,South-Central U.S.A.
+Nh13,Acoma,35,-108,acom1246,Acoma (Nh13),xd1263,,1920,,,35,-108,Original,,South-Central U.S.A.
+Nh14,Laguna,35,-107,acom1246,Laguna (Nh14),xd1264,,1920,,,35,-107,Original,,South-Central U.S.A.
+Nh15,Mescalero,33,-103,mesc1238,Mescalero (Nh15),xd1265,,1870,,,33,-103,Original,,South-Central U.S.A.
+Nh16,Jicarilla,36,-104,jica1244,Jicarilla (Nh16),xd1266,,1870,Jicarilla (NT26),NT26,36,-104,Original,,South-Central U.S.A.
+Nh17,Western Apache,34,-110,west2615,Western Apache (Nh17),xd1267,Ndee,1870,Western (NT21),NT21,34,-110,Original,,Southwestern U.S.A.
+Nh18,Hopi,36,-111,hopi1249,Hopi (Nh18),xd1268,Hopi of Old Oraiibi,1920,Hopi (NT09),NT09,36,-111,Original,,Southwestern U.S.A.
+Nh19,Cocopa,32,-115,coco1261,Cocopa (Nh19),xd1269,Cocopah,1850,,,32,-115,Original,,Mexico
+Ae1,Amba,1,30,amba1263,Amba (Ae1),xd127,Awamba; Baamba; Bamba,1950,,,1,30,Original,,West-Central Tropical Africa
+Nh2,Hano,36,-111,ariz1237,Hano (Nh2),xd1270,,1950,,,36,-111,Original,Note 8Feb2018: Glottocode updated based on note from HH: Hopi Tewa now has its own language-level glottocode Arizona Tewa,Southwestern U.S.A.
+Nh20,Kamia,33,-115,kumi1248,Kamia (Nh20),xd1271,,1860,,,33,-115,Original,"Note, previously kimi1238 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Southwestern U.S.A.
+Nh21,Mojave,35,-114,moha1256,Mohave (Nh21),xd1272,Mohave,1850,Mohave (NT28),NT28,35,-114,Original,,Southwestern U.S.A.
+Nh22,Quechan,33,-114,quec1382,Yuma (Nh22),xd1273,Yuma,1860,,,33,-114,Original,,Southwestern U.S.A.
+Nh23,Kewyipaya,34,-111,yava1252,Kewyipaya (Nh23),xd1274,Southeastern Yavapai,1870,,,34,-111,Original,,Southwestern U.S.A.
+Nh24,Lipan Apache,30,-100,lipa1241,Lipan (Nh24),xd1275,Lipan,1880,,,30,-100,Original,,South-Central U.S.A.
+Nh25,Sia,36,-107,ziaa1251,Sia (Nh25),xd1276,Tsiya; Zia,1920,Zia Pueblo (NT38),NT38,36,-107,Original,,South-Central U.S.A.
+Nh26,Santa Clara,36,-106,sant1421,Santa Clara (Nh26),xd1277,,1910,,,36,-106,Original,,South-Central U.S.A.
+Nh27,Kewa,36,-105,sant1425,Santo Domingo (Nh27),xd1278,Santo Domingo; Santo Domingo Pueblo,1930,,,36,-105,Original,,South-Central U.S.A.
+Nh3,Navajo,37,-110,nava1243,Navaho (Nh3),xd1279,Diné Bizaad; Navaho,1930,Navaho (NT13),NT13,37,-110,Original,,Southwestern U.S.A.
+Ae10,Banyaruanda,-2,30,kiny1244,Ruanda (Ae10),xd128,Ruanda,1910,Rwandans (FO57),FO57,-2,30,Original,,West-Central Tropical Africa
+Nh4,Zuni,35,-109,zuni1245,Zuni (Nh4),xd1280,,1910,Zuni (NT23),NT23,35,-109,Original,,South-Central U.S.A.
+Nh5,Maricopa,33,-113,mari1440,Maricopa (Nh5),xd1281,Piipash,1850,River (NT15),NT15,33,-113,Original,,Southwestern U.S.A.
+Nh6,Taos,37,-106,taos1236,Taos (Nh6),xd1282,,1890,Taos (NT17),NT17,37,-106,Original,,Northwestern U.S.A.
+Nh7,Cochiti,36,-106,coch1273,Cochiti (Nh7),xd1283,,1890,,,36,-106,Original,,South-Central U.S.A.
+Nh8,Jemez,36,-107,jeme1245,Jemez (Nh8),xd1284,Walatowa; Towa,1920,,,36,-107,Original,,South-Central U.S.A.
+Nh9,Picuris,36,-106,picu1248,Picuris (Nh9),xd1285,,1920,,,36,-106,Original,"Note 8Feb2018: Glottocode updated based on note from HH: Picuris Northern Tiwa [picu1248] now has its own separate language-level glottocode.; Note, previously picu1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",South-Central U.S.A.
+Ni1,Tarahumara,28,-107,cent2131,Tarahumara (Ni1),xd1286,Rarámuri,1930,Tarahumara (NU33),NU33,28,-107,Original,,Mexico
+Ni2,Tohono O'odham,31,-112,toho1246,Papago (Ni2),xd1287,Papago,1930,O'Odham (NU79),NU79,31,-112,Original,,Mexico
+Ni3,Huichol,22,-105,huic1243,Huichol (Ni3),xd1288,Wixárika,1920,Huichol (Nu19),,23,-104,Revised 22-July-2021 by KK based on review of map - replaced with lat long for the matched SCCS society (SCCS152),,Mexico
+Ni4,Seri,29,-112,seri1257,Seri (Ni4),xd1289,Comcaac,1900,Seri (NU31),NU31,29,-112,Original,,Mexico
+Ae11,Songola,-4,26,song1300,Songola (Ae11),xd129,Basongola; Wasongola,1900,,,-4,26,Original,,West-Central Tropical Africa
+Ni5,Chichimeca,22,-100,chic1272,Chichimec (Ni5),xd1290,Chichimec,1570,,,22,-100,Original,,Mexico
+Ni6,Pima,31,-111,akim1239,Pima (Ni6),xd1291,Akimel O'Odham,1840,,,31,-111,Original,,Mexico
+Ni7,Yaqui,28,-110,yaqu1251,Yaqui (Ni7),xd1292,Yoeme,1870,,,28,-110,Original,,Mexico
+Ni8,Opata,30,-110,opat1246,Opata (Ni8),xd1293,,1550,,,30,-110,Original,,Mexico
+Ni9,Tepehuán,27,-107,nort2959,Tepehuan (Ni9),xd1294,Tepehuan,1920,,,27,-107,Original,,Mexico
+Nj1,Chinantec,18,-96,ojit1237,Chinantec (Nj1),xd1295,,1940,,,18,-96,Original,"Note 8Feb2018: Updated based on comment by HH: ""The references described Ojitlán Chinantec [chj] and Palantla Chinantec [cpa] rather than Chiltepec [csa]""; KK: indeed, subcase is specified as ""Ojitlán""",Mexico
+Nj10,Zapotec,17,-96,yala1267,Zapotec (Nj10),xd1296,,1940,Zapotec (NU44),NU44,17,-96,Original,"Note 8Feb2018: HH notes that Parsons ref (1 of 3 references) describes Mitla Zapotec [zaw]. KK: Not changed, as EA focus is ""mountain village of Yalagag""; perhaps Parsons ref is used for context/complementary information.",Mexico
+Nj11,Huastec,22,-99,huas1242,Huastec (Nj11),xd1297,,,,,22,-99,Original,,Mexico
+Nj12,Mixtec,18,-98,juxt1235,Mixtec (Nj12),xd1298,,1950,,,18,-98,Original,Note 8Feb2018: Changed based on note from HH: The ref describes Juxtlahuaca Mixtec [vmc] unclear why NW Oaxaca Mixtec [mxa] is assigned.,Mexico
+Nj13,Otomí,20,-99,mezq1235,Otomi (Nj13),xd1299,Otomi,1900,,,20,-99,Original,,Mexico
+Ab12,Zulu,-29,31,zulu1248,Zulu (Ab12),xd13,Amazulu,1830,Zulu (FX20),FX20,-29,31,Original,,Southern Africa
+Ae12,Duala,4,10,dual1243,Duala (Ae12),xd130,Diwala; Koelle,1940,,,4,10,Original,,West-Central Tropical Africa
+Nj14,Tequistlatec,16,-96,high1242,Tequistlatec (Nj14),xd1300,,1960,,,16,-96,Original,,Mexico
+Nj2,Aztec,19,-99,clas1250,Aztec (Nj2),xd1301,Aztec of Tenochtitlan,1520,Aztec (NU07),NU07,19,-99,Original,,Mexico
+Nj3,Sierra Popoluca,18,-95,high1276,Popoluca (Nj3),xd1302,Popoluca; Soteapanec Zoque; Soteapan Zoque; Soteapaneco; Soteapan Soke,1940,,,18,-95,Original,,Mexico
+Nj4,Totonac,20,-97,papa1238,Totonac (Nj4),xd1303,,1940,,,20,-97,Original,"Note 8Feb2018: Glottocode changed based on comment by HH: The Kelly ref describes Tajin which is Totonac-Papantla [top]. Indeed, Kelly and Palerm focus on Tajin Totonac, while Krickeberg appears to be a more general survey of the Totonac, including the main dialect groups, one of which is [top].",Mexico
+Nj5,Mazateco,18,-97,huau1238,Mazateco (Nj5),xd1304,,1940,,,18,-97,Original,,Mexico
+Nj6,Huave,16.22,-95.02,sanm1287,Huave (Nj6),xd1305,,1950,,,16,-95,Revised,,Mexico
+Nj7,Mixe,17,-95,isth1238,Mixe (Nj7),xd1306,,1930,,,17,-95,Original,,Mexico
+Nj8,Tarasco,19,-101,pure1242,Tarasco (Nj8),xd1307,,1500,Tarasco (NU34),NU34,19,-101,Original,,Mexico
+Nj9,Tlaxcalans,19,-98,cent2132,Tlaxdalans (Nj9),xd1308,,1960,,,19,-98,Original,,Mexico
+Sa1,Guna,9,-78,sanb1242,Cuna (Sa1),xd1309,Dule; Tule; Cuna; Kuna,1940,Cuna (SB05),SB05,9,-78,Original,Note 22July2021: Glottocode changed by KK to sanb1242 from bord1248,Central America
+Ae13,Bashi,-2,29,shii1238,Bashi (Ae13),xd131,Baniabungu; Wanyabungu,1920,,,-2,29,Original,,West-Central Tropical Africa
+Sa10,Lacandon,16.9,-91,laca1243,Lacandon (Sa10),xd1310,,1900,,,17,-92,Revised 22-July-2021 by KK based on web research and review of location in GIS,,Central America
+Sa11,Kaqchikel,14,-91,kaqc1270,Cakchiquel (Sa11),xd1311,Cakchiquel,1880,,,14,-91,Original,,Central America
+Sa12,Lenca,14,-88,lenc1242,Lenca (Sa12),xd1312,,1948,,,14,-88,Original,"Note, previously lenc1244, but glottocode is considered a ""bookkeeping"" code (because extinct?), so chose Lencan-Honduras instead (note that point is in Honduras)",Central America
+Sa13,K'iche',15,-91,kich1262,Quiche (Sa13),xd1313,Quiche,1930,,,15,-91,Original,,Central America
+Sa14,Ngäbe,8,-81,ngab1239,Guaymi (Sa14),xd1314,Guaymi,,,,8,-81,Original,,Central America
+Sa15,Jakaltek,14,-90,popt1235,Jacaltec (Sa15),xd1315,Jacaltec,1920,,,14,-90,Original,,Central America
+Sa16,Tolupan,15,-87,toll1241,Jicaque (Sa16),xd1316,Jicaque; Xicaque,,,,15,-87,Original,,Central America
+Sa17,Poqomam,15,-91,poqo1253,Pokomam (Sa17),xd1317,Pokomam,1950,,,15,-91,Original,,Central America
+Sa2,Tzeltal,17,-92,tzel1254,Tzeltal (Sa2),xd1318,,1940,Tzeltal (NV09),NV09,17,-92,Original,,Mexico
+Sa3,Ch'orti',14,-89,chor1273,Chorti (Sa3),xd1319,Chorti,1930,,,14,-89,Original,,Central America
+Ae14,Ha,-5,30,haaa1252,Ha (Ae14),xd132,Abaha; Waha,1950,,,-5,30,Original,,East Tropical Africa
+Sa4,Emberá,8,-78,nort2972,Choco (Sa4),xd1320,Choco,1960,,,8,-78,Original,"Note 8Feb2018: Note: this case was flagged by HH as combining ethnographic data for Wounaan [noa] and Northern Embera [emp]. KK has left language as [emp] (Northern Embera) for now, based on facts that Faron, who worked with Embera, is the author of 2 of the 4 ethnographic references for the case, and that at least one of the others (Reichel-Dolmatoff, 1960) is known to have combined information on the two groups, assuming they were essentially the same (Velásquez Runk 2004) [Excerpt from Velásquez Runk (2004), who has worked extensively with Embera and especially Wounaan communities in Panama: ""Much literature on Emberá and Wounaan, both in Panama and Colombia, have combined information on both groups [...]. In Colombia, Emberá* have historically been called Chocó Indians whereas Wounaan have been differentiated as Noanama or more recently Waunana Indians: it is only in Panama that both groups are called Chocó"". [...] ""Emberá bed’ea (the Emberá language) and Wounmeu are linguistically related, sharing about thirty-five (Binder pers. comm.) to fifty percent (Loewen 1960a) cognate roots, and belong to what linguists now acknowledge to be a separate linguistic group [e.g., Chocoan] (Aguirre Licht), Binder, pers. comm.; Mortensen, pers. comm.), but are mutually unintelligible. *Emberá have a number of subgroups also, at least nine according to Loewen (1960) and six according to Mortensen’s current linguistic work (pers.comm.). There has been a small group of Emberá Catio in Panama (Binder, pers. comm.) but the remainder of Panama’s Emberá is Northern Emberá (Mortensen pers. comm.)."" ",Central America
+Sa5,Bribri,9,-83,brib1243,Bribri (Sa5),xd1321,Talamanca,1950,Talamancans (SA19),SA19,9,-83,Original,,Central America
+Sa6,Yucatec Maya,18,-90,yuca1254,Yucatec Maya (Sa6),xd1322,,1520,Yucatec Maya (NV10),NV10,18,-90,Original,,Mexico
+Sa7,Garifuna,16,-89,gari1256,Black Carib (Sa7),xd1323,Black Carib; Garif,1940,Garifuna (SA12),SA12,16,-89,Original,,Central America
+Sa8,Mam,15,-92,mamm1241,Mam (Sa8),xd1324,,1930,Mam Maya (NW08),NW08,15,-92,Original,,Central America
+Sa9,Miskito,14.766,-84.089,misk1235,Miskito (Sa9),xd1325,Mískitu; Mosquito,1920,Miskito (SA15),SA15,13,-85,Revised 22-July-2021 by KK based on web research and review of location in GIS,,Central America
+Sb1,Callinago,15.41,-61.27,isla1278,Callinago (Sb1),xd1326,,1650,Island Carib (ST13),ST13,15,-61,Revised,"Note 8Feb2018: Changed to crb from car as focus is reported in White SCCS pinpointing sheet as ""Dominica Island"" (See also note from HH: Most of the refs refer to Island Carib [crb] not Galibi Carib on the mainland.)",Caribbean
+Sb2,Cágaba,11,-74,cogu1240,Cagaba (Sb2),xd1327,Cagaba; Kagaba; Kogi,1940,Kogi (SC07),SC07,11,-74,Original,,Western South America
+Sb3,Barí (Motilon),9,-72,yukp1241,Motilon (Sb3),xd1328,Bari; Motilon; Yuko; Motilones; Barí,1940,,,9,-72,Original,"Note 8Feb2018: Changed after note by HH:""The Motilon described by Reichel-Dolmatoff is Yukpa [yup] (a Cariban lg) not the Chibchan Bari [mot]""; KK: indeed, the focus is on the ""Iroka"", who are described as a ""Yukpa subtribe"" by Ruddle (1974:29, in Halbmayer 2013). References for case are Holder and Reichel-Dolmatoff, and both seem to have attempted to contact the Bari in 1946 (according to Beckerman and Lizarralde 2013), but may have been unsuccsessful. In any case, both anthropologists, and certainly R-D, worked with the Iroka [Yukpa]. Note from Beckerman and Lizarralde (2013): ""the forest-dwelling Bari (and their traditional and ongoing enemies, the Carib-speaking Yukpa) constituted a recognized obstacle to colonization of the forested land remaining to [the small-scale colonists]"". Both Yukpa and Bari seem to have been known as ""Motilones"" (e.g., see http://www.native-languages.org/definitions/motilone.htm).",Northern South America
+Sb4,Cariña,9,-64,taba1267,Carinya (Sb4),xd1329,Carinya,1950,,,9,-64,Original,"Note 24Sept2018 - dialect Tabajari assigned (language does not change). KK is confident in this assignment; there is an Etnologue point for Carib here (9,-64 approx.). This URL gives the relative location of Carib dialects: https://www.mona.uwi.edu/dllp/jlu/ciel/pages/kalihna.htm. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Northern South America
+Ae15,Hunde,-2,28,hund1239,Hunde (Ae15),xd133,Bahunde,1940,,,-2,28,Original,,West-Central Tropical Africa
+Sb5,Paraujano,11,-72,para1316,Paraujano (Sb5),xd1330,Onoto,1950,,,11,-72,Original,,Northern South America
+Sb6,Wayuu,12,-72,wayu1243,Goajiro (Sb6),xd1331,Goajiro,1940,Goajiro (SC13),SC13,12,-72,Original,,Western South America
+Sb7,Yupa,9,-72,yukp1241,Yupa (Sb7),xd1332,,1950,,,9,-72,Original,,Northern South America
+Sb8,Taíno,19.94,-75.37,tain1254,Taino (Sb8),xd1333,Taino,1520,,,19,-75,Revised,,Caribbean
+Sb9,Haitians,18.41,-72.17,hait1244,Haitians (Sb9),xd1334,,1930,Haitians (SV03),SV03,18,-72,Revised,,Caribbean
+Sc1,Warao,9,-62,wara1303,Warrau (Sc1),xd1335,Warrau,1950,Warao (SS18),SS18,9,-62,Original,,Northern South America
+Sc10,Lokono,5.95,-56.98,araw1276,Locono (Sc10),xd1336,Locono; Arawak,1900,,,6,-57,Revised,,Northern South America
+Sc11,Camaracoto,6,-63,cama1252,Camaracoto (Sc11),xd1337,Pemon,1930,Pemon (SS16),SS16,6,-63,Original,,Northern South America
+Sc12,Macushi,4,-59,macu1259,Macusi (Sc12),xd1338,Macusi,1910,,,4,-59,Original,"Note 8Feb2018: Note, HH notes that ethnographic references most relevant to Makushi [Sc12] are listed under ""Taulipang"" [Sc15] (Soares Diniz & Ule are on Macushi [mbc] rather than Pemon [aoc]). However, other aspects of case description (name, alternate names) line up with [mbc]. For that reason, I will leave as [mbc], but user should ensure that cultural traits of interest are properly assigned to Macushi vs. Pemon. See Halbmayer, E. 2013. ""Contemporary Carib-speaking Amerindians. A bibliography of social anthropological and linguistic resources for discussion"". For succinct overview and reference lists.",Northern South America
+Sc13,Panare,6,-66,enap1235,Panare (Sc13),xd1339,,1950,,,6,-66,Original,,Northern South America
+Ae16,Lulua,-6,23,luba1249,Lulua (Ae16),xd134,Bena Lulua,1910,,,-6,23,Original,,West-Central Tropical Africa
+Sc14,Rucuyen,3,-55,waya1269,Rucuyen (Sc14),xd1340,,1890,,,3,-55,Original,,Northern South America
+Sc15,Taulípang,4,-62,taul1252,Taulipang (Sc15),xd1341,Taulipang; Arecuna; Arekuna,1910,,,4,-62,Original,"Note 8Feb2018: Note, HH notes that ethnographic references most relevant to Makushi [Sc12] are listed here; it is possible that the more general references currently listed under Sc12 are most appropriate to Taulipang [Sc15] (Farabee 1922 & Kirchoff 1943). However, other aspects of case description (name, alternate names) line up with [aoc]. For that reason, I will leave as [aoc] but user should ensure that cultural traits of interest are properly assigned to Macushi vs. Pemon. See Halbmayer, E. 2013. ""Contemporary Carib-speaking Amerindians. A bibliography of social anthropological and linguistic resources for discussion"". For succinct overview and reference lists.",Brazil
+Sc16,Ye'kuana,3,-65,maqu1238,Yekuana (Sc16),xd1342,So'to; Yekuana,1920,,,3,-65,Original,,Northern South America
+Sc17,Piapoco,6,-68,piap1246,Piapoco (Sc17),xd1343,,1950,,,6,-68,Original,,Western South America
+Sc18,Ndyuka,5,-54,ndyu1242,Djuka (Sc18),xd1344,Djuka; Bush Negroes; Ndjuka,1960,,,5,-54,Original,,Northern South America
+Sc2,Pumé,7,-68,pume1238,Yaruro (Sc2),xd1345,Yaruro,1950,Pumé (SS19),SS19,7,-68,Original,,Northern South America
+Sc3,Barama River Carib,5,-59,mura1272,Barama Carib (Sc3),xd1346,Barama Carib; Carib,1930,Barama River Carib (SR09),SR09,5,-59,Original,"Note 24Sept2018 - KK has high confidence in this dialect assignment (mura1272). The Barama carib location is in Guyana; there is an Etnologue point for Carib here (7.42,-60.17 approx.). This URL gives the relative location of Carib dialects: https://www.mona.uwi.edu/dllp/jlu/ciel/pages/kalihna.htm.",Northern South America
+Sc4,Guahibo,5,-69,guah1255,Guahibo (Sc4),xd1347,,1950,,,5,-69,Original,,Western South America
+Sc5,Wapishana,3,-60,wapi1253,Wapishana (Sc5),xd1348,,1900,,,3,-60,Original,,Brazil
+Sc6,Saramaccan ,4,-56,sara1340,Saramacca (Sc6),xd1349,Saramaccan of Suriname; Saramacca; Bush Negroes,1920,Saramaka (SR15),SR15,4,-56,Original,,Northern South America
+Ae17,Rega,-3,28,lega1249,Rega (Ae17),xd135,Balegga; Barega; Valega; Warega,1900,,,-3,28,Original,,West-Central Tropical Africa
+Sc7,Yabarana,5,-66,yaba1248,Yabarana (Sc7),xd1350,,1950,,,5,-66,Original,,Northern South America
+Sc8,Piaroa,5,-67,piar1243,Piaroa (Sc8),xd1351,,1950,,,5,-67,Original,,Northern South America
+Sc9,Curripaco,5,-67,curr1243,Curipaco (Sc9),xd1352,Curipaco,1950,,,5,-67,Original,,Northern South America
+Sd1,Munduruku,-6,-58,mund1330,Mundurucu (Sd1),xd1353,Wuy Jugu; Mundurucu,1950,Mundurucu (SQ13),SQ13,-6,-58,Original,,Brazil
+Sd2,Tapirapé,-11,-52,tapi1254,Tapirape (Sd2),xd1354,Tapirape,1930,Tapirape (SP22),SP22,-11,-52,Original,,Brazil
+Sd3,Palikur,3,-52,pali1279,Palikur (Sd3),xd1355,Wasa,1920,,,3,-52,Original,,Brazil
+Sd4,Guaica,2,-65,yano1262,Waica (Sd4),xd1356,Waica; Guiaika,1950,Yanoama (SQ18),SQ18,2,-65,Original,,Northern South America
+Sd5,Sateré Mawé,-4,-57,sate1243,Maue (Sd5),xd1357,Maue,1950,,,-4,-57,Original,,Brazil
+Sd6,Shiriana,4,-63,nina1238,Shiriana (Sd6),xd1358,Kirishana; Xiriana,1960,Yanoama (SQ18),SQ18,4,-63,Original,,Northern South America
+Sd7,Wai-wai,1,-59,waiw1244,Waiwai (Sd7),xd1359,Waiwai,1950,,,1,-59,Original,,Brazil
+Ae18,Songye,-6,25,song1303,Songe (Ae18),xd136,Songe; Basonge; Bassongo,1900,,,-6,25,Original,,West-Central Tropical Africa
+Sd8,Sanema,4,-66,sanu1240,Sanema (Sd8),xd1360,,1950,Yanoama (SQ18),SQ18,4,-66,Original,,Northern South America
+Sd9,Yanomami,2,-65,yano1261,Yanomamo (Sd9),xd1361,Yanomamo; Yanoama,1965,Yanoama (SQ18),SQ18,2,-65,Original,,Northern South America
+Se1,Sirionó,-16,-64,siri1273,Siriono (Se1),xd1362,Miá; Siriono,1940,Siriono (SF21),SF21,-16,-64,Original,,Western South America
+Se10,Cocama,1,-79,coca1259,Cocama (Se10),xd1363,Ucayali,1670,,,1,-79,Original,,Western South America
+Se11,Chácobo,-12,-67,chac1251,Chacobo (Se11),xd1364,Nóʔciria; Chacobo,1960,,,-12,-67,Original,,Western South America
+Se12,Tucano,0,-70,tuca1252,Tucano (Se12),xd1365,Tukano,1950,Tucano (SQ19),SQ19,0,-70,Original,,Brazil
+Se2,Ticuna,-3,-70,ticu1245,Tucuna (Se2),xd1366,Tucuna; Tikuna,1940,Tucuna (SQ20),SQ20,-3,-70,Original,,Western South America
+Se3,Shuar,-3,-78,shua1257,Jivaro (Se3),xd1367,Jivaro,1930,Jivaro (SD09),SD09,-3,-78,Original,,Western South America
+Se4,Yagua,-3,-72,yagu1244,Yagua (Se4),xd1368,,1940,,,-3,-72,Original,,Western South America
+Se5,Cubeo,1,-71,cube1242,Cubeo (Se5),xd1369,Jiwa; Tucano,1940,Tucano (SQ19),SQ19,1,-71,Original,,Western South America
+Ae19,Garanganze,-11,28,sang1331,Yeke (Ae19),xd137,Yeke; Bayeke,1930,,,-11,28,Original,,West-Central Tropical Africa
+Se6,Witoto,-1,-74,muru1274,Witoto (Se6),xd1370,Ouitoto; Uitoto,1910,,,-1,-74,Original,,Western South America
+Se7,Camba,-18,-63,chiq1248,Camba (Se7),xd1371,,1950,,,-18,-63,Original,"Note, previously xba and kamb1287 (Camba). ISO code retired, considered a duplicate of [cax] Chiquitano. Chiquitano glottocode is chiq1248",Western South America
+Se8,Amahuaca,-10,-72,amah1246,Amahuaca (Se8),xd1372,,1950,,,-10,-72,Original,,Brazil
+Se9,Shipibo-Conibo,-9,-74,ship1254,Conibo (Se9),xd1373,Conibo,1920,,,-9,-74,Original,,Western South America
+Sf1,Inca,-13,-72,cusc1236,Inca (Sf1),xd1374,,1530,Inca (SE13),SE13,-13,-72,Original,,Western South America
+Sf2,Aymara,-16,-69,cent2142,Aymara (Sf2),xd1375,,1940,Aymara (SF05),SF05,-16,-69,Original,,Western South America
+Sf3,Chachi,1,-79,chac1249,Cayapa (Sf3),xd1376,Cayapa,1910,Chachi (SD06),SD06,1,-79,Original,,Western South America
+Sf4,U'wa,7,-72,cent2150,Tunebo (Sf4),xd1377,Tunebo; Tabe,1950,,,7,-72,Original,,Western South America
+Sf5,Páez,3,-76,paez1247,Paez (Sf5),xd1378,Paez,1900,Paez (SC15),SC15,3,-76,Original,,Western South America
+Sf6,Muisca,5,-72,chib1270,Chibcha (Sf6),xd1379,Chibcha,1540,,,5,-72,Original,,Western South America
+Ae2,Kpe,4.22,9.27,mokp1239,Kpe (Ae2),xd138,Bakwedi; Bakwiri; Kpeli; Kwiri,1950,,,4,9,Revised,,West-Central Tropical Africa
+Sf7,Asháninka,-8,-75,ajyi1238,Campa (Sf7),xd1380,Campa; Ande; Anti; Kampa,1900,,,-8,-75,Original,"Note 8Feb2018: Glottocode changed to ajyi1238 based on note from HH: ""The Campa described by Craig is Shira Mountain Campa = Ajyíninka"" [all other references appear to describe the ""Campa"" generally].",Western South America
+Sf8,Piro,-12,-73,yine1238,Piro (Sf8),xd1381,Nomole,1950,,,-12,-73,Original,,Western South America
+Sf9,Uru,-16,-69,uruu1244,Uru (Sf9),xd1382,,1930,Uru (SF24),SF24,-16,-69,Original,,Western South America
+Sg1,Yahgan,-55.02,-68.98,yama1264,Yahgan (Sg1),xd1383,,1870,Yahgan (SH06),SH06,-55,-69,Revised,,Southern South America
+Sg2,Mapuche,-39,-68,mapu1245,Mapuche (Sg2),xd1384,,1880,Aracuanians (SG04),SG04,-39,-68,Original,,Southern South America
+Sg3,Ona,-54,-69,onaa1245,Ona (Sg3),xd1385,,1880,Ona (SH04),SH04,-54,-69,Original,,Southern South America
+Sg4,Tehuelche,-46,-70,tehu1242,Tehuelche (Sg4),xd1386,Patagon,1870,Tehuelche (SH05),SH05,-46,-70,Original,,Southern South America
+Sg5,Alacaluf,-52,-74,qawa1238,Alacaluf (Sg5),xd1387,Kawésqar,1900,,,-52,-74,Original,,Southern South America
+Sh1,Wichí,-24,-63,wich1264,Mataco (Sh1),xd1388,Mataco; Nocten,1860,Mataco (SI07),SI07,-24,-63,Original,Note 8Feb2018: Changed based on note from HH: Pelleschi is Wichí Lhamtés Güisnay [mzh],Southern South America
+Sh2,Terena,-21,-58,tere1279,Terena (Sh2),xd1389,Poké,1850,Terena (SK07),SK07,-21,-58,Original,,Southern South America
+Ae20,Ekonda,-2,18,ekon1238,Ekonda (Ae20),xd139,,1940,,,-2,18,Original,,West-Central Tropical Africa
+Sh3,Abipón,-29,-61,abip1241,Abipon (Sh3),xd1390,Abipon; Abipones,1800,Abipon (SI04),SI04,-29,-61,Original,,Southern South America
+Sh4,Kadiwéu,-22,-57,kadi1248,Caduveo (Sh4),xd1391,Caduveo,1940,,,-22,-57,Original,,Brazil
+Sh5,Choroti,-22,-62,iyow1239,Choroti (Sh5),xd1392,Zolota,1910,Choroti (SK06),SK06,-22,-62,Original,,Southern South America
+Sh6,Chamacoco,-20,-59,cham1315,Chamacoco (Sh6),xd1393,Ishír,1890,,,-20,-59,Original,,Southern South America
+Sh7,Guaraní,-20,-63,east2555,Chiriguano (Sh7),xd1394,Chiriguano; Guarani,1900,Chiriguano (SF10),SF10,-20,-63,Original,,Western South America
+Sh8,Toba,-25,-60,toba1269,Toba (Sh8),xd1395,Qom-lik; Qom; Tacshic; Toqoit,1964,Toba (SI12),SI12,-25,-60,Original,,Southern South America
+Sh9,Lengua,-23,-59,nort2971,Lengua (Sh9),xd1396,,1890,,,-23,-59,Original,,Southern South America
+Si1,Bororo,-16,-55,boro1282,Bororo (Si1),xd1397,,1920,Bororo (SP08),SP08,-16,-55,Original,,Brazil
+Si10,Kuikuru,-13,-54,kuik1246,Kuikuru (Si10),xd1398,Ukuge,1950,,,-13,-54,Original,,Brazil
+Si2,Trumai,-12,-53,trum1247,Trumai (Si2),xd1399,Ho kod ke,1930,Trumai (SP23),SP23,-12,-53,Original,,Brazil
+Ab13,Tswana,-24,27,tswa1253,Tswana (Ab13),xd14,Batswana; Bechuana,1880,,,-24,27,Original,,Southern Africa
+Ae21,Kela,-3,23,yela1238,Kela (Ae21),xd140,Akela; Bakela; Ekela; Ikela,1920,,,-3,23,Original,"Note, previously kela1254 but changed by non-KK DPLACE editor in early 2016 (before 8April2016); earlier KK note: ISO recognized by SIL, but considered bookkeeping by Glottolog",West-Central Tropical Africa
+Si3,Bacairi,-14,-55,baka1277,Bacairi (Si3),xd1400,,1940,Bakairi (SP07),SP07,-14,-55,Original,,Brazil
+Si4,Nambikwara,-12,-59,sout2994,Nambicura (Si4),xd1401,Nambicura,1940,Nambicuara (SP17),SP17,-12,-59,Original,,Brazil
+Si5,Kamayurá,-12,-54,kama1373,Camayura (Si5),xd1402,Camayura,1940,,,-12,-54,Original,,Brazil
+Si6,Guató,-19,-58,guat1253,Guato (Si6),xd1403,Guato,1900,,,-19,-58,Original,,Western South America
+Si7,Paresi,-15,-58,pare1272,Paressi (Si7),xd1404,Paressi,1910,,,-15,-58,Original,,Brazil
+Si8,Umotina,-15,-57,umot1240,Umotina (Si8),xd1405,,1940,,,-15,-57,Original,,Brazil
+Si9,Aweti,-12,-54,awet1244,Aueto (Si9),xd1406,Aueto; Aueti,1940,,,-12,-54,Original,,Brazil
+Sj1,Carajá,-12,-50,kara1500,Caraja (Sj1),xd1407,Caraja,1950,Karaja (SP09),SP09,-12,-50,Original,,Brazil
+Sj10,Cayua,-26,-54,mbya1239,Cayua (Sj10),xd1408,Abá; Cayua; Caingua; Guaraní; Guarani,1950,Cayua (SM04),SM04,-26,-54,Original,,Southern South America
+Sj11,Shavante,-14,-52,xava1240,Shavante (Sj11),xd1409,,1958,,,-14,-52,Original,,Brazil
+Ae22,Kutsu,-4,22,kusu1252,Kutshu (Ae22),xd141,Kutshu; Ankutshu; Bankutshu; Wankutshu,1900,,,-4,22,Original,,West-Central Tropical Africa
+Sj2,Sherente,-9,-48,xere1240,Sherente (Sj2),xd1410,Cherente,1850,,,-9,-48,Original,,Brazil
+Sj3,Aweikoma,-28,-50,xokl1240,Aweikoma (Sj3),xd1411,Xokleng; Shokleng; Botocudo of Santa Catarina; Bugre; Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups),1910,Xokleng (SM03),SM03,-28,-50,Original,,Brazil
+Sj4,Canela,-7,-45,cane1242,Ramcocamecra (Sj4),xd1412,Ramcocamecra; Timbira; Canella,1930,Canela (SO08),SO08,-7,-45,Original,,Brazil
+Sj5,Aimoré,-18,-42,kren1239,Botocudo (Sj5),xd1413,Nac-nanuk; Nac-poruk; Botocudo,1880,,,-18,-42,Original,,Brazil
+Sj6,Tenetehara,-3,-46,temb1276,Tenetehara (Sj6),xd1414,,1930,,,-3,-46,Original,,Brazil
+Sj7,Apinaye,-6,-49,apin1244,Apinaye (Sj7),xd1415,,1920,,,-6,-49,Original,,Brazil
+Sj8,Tupinambá,-8,-35,tupi1273,Tupinamba (Sj8),xd1416,Tupinamba,1600,Tupinamba (SO09),SO09,-8,-35,Original,,Brazil
+Sj9,Kayapo,-8,-52,kaya1330,Coroa (Sj9),xd1417,Coroa; Northern Cayapo,1950,,,-8,-52,Original,Note 8Feb2018: Changed based on note from HH: Unclear why this is not simply Kayapó [txu]?!,Brazil
+Ae23,Lalia,-1,23,ngan1302,Lalia (Ae23),xd142,Dzalia; Lolia,1930,,,-1,23,Original,"Note, previously lali1242 but changed by non-KK DPLACE editor in early 2016 (before 8April2016); earlier KK note: ISO recognized by SIL, but considered bookkeeping by Glottolog; could POTENTIALLY be linked to nxd - ngan1302, as a few online sources suggest that Lalia people speak ""Longando"" (Ngando, nxd), which wikipedia reports is a sister(?) langage of Lalia (lal).",West-Central Tropical Africa
+Ae24,Mongo,1,22,long1393,Mongo (Ae24),xd143,Balolo; Bamongo; Lolo; Mbongo,1920,,,1,22,Original,"Note, dialect should be that spoken in Opala territory.",West-Central Tropical Africa
+Ae25,Tetela,-4,25,tete1250,Tetela (Ae25),xd144,Batetela,1920,,,-4,25,Original,,West-Central Tropical Africa
+Ae26,Topoke,0,24,poke1238,Topoke (Ae26),xd145,Foma; Tofoke,1910,,,0,24,Original,,West-Central Tropical Africa
+Ae27,Lokele,1,25,kele1255,Lokele (Ae27),xd146,Likile; Lukelle,1910,,,1,25,Original,,West-Central Tropical Africa
+Ae28,Ngala,1,18,ling1263,Ngala (Ae28),xd147,Bangala; Boloki; Gens d'Eau,1900,,,1,18,Original,,West-Central Tropical Africa
+Ae29,Poto,2,22,luse1252,Poto (Ae29),xd148,Bapoto; Foto; Mafoto; Upoto,1900,,,2,22,Original,,West-Central Tropical Africa
+Ae3,Fang,1,11,fang1246,Fang (Ae3),xd149,Fan; Pahouin; Pangwe,1910,Fang (FH09),FH09,1,11,Original,,West-Central Tropical Africa
+Ab14,Lovedu,-24,31,lobe1242,Lovedu (Ab14),xd15,Balovedu,1930,Lovedu (FX14),FX14,-24,31,Original,,Southern Africa
+Ae30,Bira,1,29,bila1255,Bira (Ae30),xd150,Babeyru; Babira; Babila; Wabira,1920,,,1,29,Original,,West-Central Tropical Africa
+Ae31,Budu,2,28,budu1250,Budu (Ae31),xd151,Babudu; Banabuddu; Mabudu; Wabuddu,1920,,,2,28,Original,,West-Central Tropical Africa
+Ae32,Kumu,-1,27,komo1260,Kumu (Ae32),xd152,Bakumu; Wakumu,1920,,,-1,27,Original,,West-Central Tropical Africa
+Ae33,Ndaka Babali,1,27,bali1274,Ndaka Babali (Ae33),xd153,Bandaka; Bali; Babali; Mabali; Mobale (formerly erroneously called Ndaka),1920,,,1,27,Original,,West-Central Tropical Africa
+Ae34,Plains Bira,1,30,bera1259,Plains Bira (Ae34),xd154,Babira,1920,,,1,30,Original,,West-Central Tropical Africa
+Ae35,Rumbi,0,28,lomb1254,Rumbi (Ae35),xd155,Barumbi; Warumbi,1900,,,0,28,Original,,West-Central Tropical Africa
+Ae36,Bombesa,1,23,mbes1238,Bombesa (Ae36),xd156,Mbesa; Mombesa,1920,,,1,23,Original,,West-Central Tropical Africa
+Ae37,Budja,3,23,budz1238,Budja (Ae37),xd157,Babudza; Mbudja,1930,,,3,23,Original,,West-Central Tropical Africa
+Ae38,Ndoko,2,21,doko1244,Ndoko (Ae38),xd158,Doko,1920,,,2,21,Original,,West-Central Tropical Africa
+Ae39,Ngombe,2,20,binj1250,Ngombe (Ae39),xd159,Gombe,1920,,,2,20,Original,,West-Central Tropical Africa
+Ab15,Pedi,-25,30,tswe1238,Pedi (Ab15),xd16,Bapedi,1860,,,-25,30,Original,,Southern Africa
+Ae4,Nkundo,0,20,nkun1238,Nkundo (Ae4),xd160,,1930,Mongo (FO32),FO32,0,20,Original,,West-Central Tropical Africa
+Ae40,Dzem,3,14,njye1238,Dzem (Ae40),xd161,Djem; Ndjem; Nyem,1910,,,3,14,Original,,West-Central Tropical Africa
+Ae41,Kota,1,14,ndas1238,Kota (Ae41),xd162,Bakota; Ikota; Kuta,1940,,,1,14,Original,"Note 8Feb2018: Changed based on note from HH: The Kota (""Kota Sud"") described by Andersson matches better with Ndasa [nda].",West-Central Tropical Africa
+Ae42,Ngumba,3,11,kwas1243,Ngumba (Ae42),xd163,Mvumba,1900,,,3,11,Original,,West-Central Tropical Africa
+Ae43,Sanga,2,16,bomw1238,Sanga (Ae43),xd164,Basanga; Bosanga; Masanga; Missanga,1900,,,2,16,Original,,West-Central Tropical Africa
+Ae44,Bubi,3.54,8.72,bube1242,Bubi (Ae44),xd165,Adija; Ediya,1920,,,4,9,Revised,,West-Central Tropical Africa
+Ae45,Kundu,10,9,orok1266,Kundu (Ae45),xd166,Bakundu,1900,,,10,9,Original,,West Tropical Africa
+Ae46,Mpongwe,-2,10,myen1241,Mpongwe (Ae46),xd167,Empongwe; Pongo,1870,,,-2,10,Original,,West-Central Tropical Africa
+Ae47,Puku,2,10,bata1285,Puku (Ae47),xd168,Bapuku,1900,,,2,10,Original,,West-Central Tropical Africa
+Ae48,Bafia,5,11,bafi1243,Bafia (Ae48),xd169,Bekpa; Fia,1930,,,5,11,Original,,West-Central Tropical Africa
+Ab16,Lenge,-25,34,leng1257,Lenge (Ab16),xd17,Valenge,1930,,,-25,34,Original,,South Tropical Africa
+Ae49,Bali Nyonga,6,10,mung1266,Bali (Ae49),xd170,Bali; Bulu; Bani; Li,1900,,,6,10,Original,,West-Central Tropical Africa
+Ae5,Bamileke,5,10,fefe1239,Bamileke (Ae5),xd171,,1910,,,5,10,Original,,West-Central Tropical Africa
+Ae50,Bamum,6,11,bamu1253,Bamum (Ae50),xd172,Bamun; Mum,1920,,,6,11,Original,,West-Central Tropical Africa
+Ae51,Banen,5,11,tune1261,Banen (Ae51),xd173,,1940,,,5,11,Original,,West-Central Tropical Africa
+Ae52,Fungom,7,10,mmen1238,Fungom (Ae52),xd174,,1950,,,7,10,Original,,West Tropical Africa
+Ae53,Koko,4,11,bako1249,Koko (Ae53),xd175,Bakoko; Betjek; Mwele,1920,,,4,11,Original,,West-Central Tropical Africa
+Ae54,Kom,6,10,komc1235,Kom (Ae54),xd176,Bahom; Bamekom; Bikom,1950,,,6,10,Original,,West-Central Tropical Africa
+Ae55,Ndob,6,10,band1349,Ndob (Ae55),xd177,Bandob; Mburukem; Ndop,1950,,,6,10,Original,,West-Central Tropical Africa
+Ae56,Nsaw,6,11,lamn1239,Nsaw (Ae56),xd178,Bansaw,1950,,,6,11,Original,,West-Central Tropical Africa
+Ae57,Nsungli,6,11,limb1268,Nsungli (Ae57),xd179,Dzungle,1930,,,6,11,Original,,West-Central Tropical Africa
+Ab17,Ndau,-20,34,ndau1241,Ndau (Ab17),xd18,Vandau,1920,,,-20,34,Original,,South Tropical Africa
+Ae58,Tikar,6,12,tige1238,Tikar (Ae58),xd180,,1910,,,6,12,Original,,West-Central Tropical Africa
+Ae59,Widikum,6,10,meta1238,Eidekum (Ae59),xd181,Eidekum; Widekum,1950,,,6,10,Original,,West-Central Tropical Africa
+Ae6,Luba,-8,26,luba1250,Luba (Ae6),xd182,Baluba,1930,,,-8,26,Original,,West-Central Tropical Africa
+Ae7,Baboa,3,25,bwaa1238,Babwa (Ae7),xd183,Babwa; Ababwa; Bobua,1910,,,3,25,Original,Note 8Feb2018: Changed based on note from HH: These refs refer to Bwa [bww] not Kwa' [bko] (a completely different lg in Cameroon).,West-Central Tropical Africa
+Ae8,Rundi,-3,30,rund1242,Rundi (Ae8),xd184,Barundi; Warundi,1910,Barundi (FO58),FO58,-3,30,Original,,West-Central Tropical Africa
+Ae9,Fut,6,10,bafu1246,Fut (Ae9),xd185,Bafut; Fu,1950,,,6,10,Original,,West-Central Tropical Africa
+Af1,Fon,7,2,fonn1241,Fon (Af1),xd186,Dahomey; Dahomeans,1890,Fon (FA18),FA18,7,2,Original,,West Tropical Africa
+Af10,Igbo,6,7,nucl1417,Ibo (Af10),xd187,Ibo,1930,Igbo (FF26),FF26,6,7,Original,,West Tropical Africa
+Af11,Toma,11,-9,toma1245,Toma (Af11),xd188,,1920,,,11,-9,Original,,West Tropical Africa
+Af12,Akyem,7,-1,akye1239,Akyem (Af12),xd189,Akwahu,1930,Twi (FE12),FE12,7,-1,Original,,West Tropical Africa
+Ab18,Shona,-19,31,shon1251,Shona (Ab18),xd19,Mashona,1920,Shona (FS05),FS05,-19,31,Original,"Note 8Feb2018: Note: HH notes that one of the cited ethnographic references (Prost 1956) refers to a completely different West African linguistic group. The assignment of Shona here appears to be correct. Focus is on ""Zezuru"", which is listed as a dialect of ""Shona"" (zezu1238 <- shon1251).",South Tropical Africa
+Af13,Ebira,8,7,ebir1243,Igbira (Af13),xd190,Igbira; Egbiri; Kotokori,1920,,,8,7,Original,,West Tropical Africa
+Af14,Sherbro,7.52,-12.69,sher1258,Sherbro (Af14),xd191,Mampua,1930,,,7,-13,Revised,,West Tropical Africa
+Af15,Kpelle,7,-9,libe1247,Kpelle (Af15),xd192,Guerse; Kpese,1920,Kpelle (FD06),FD06,7,-9,Original,,West Tropical Africa
+Af16,Banyang,6,9,keny1279,Banyang (Af16),xd193,Banjangi; Konguan; Manyang; Nyangi,1910,,,6,9,Original,,West Tropical Africa
+Af17,Boki,6,9,boky1238,Boki (Af17),xd194,Nki,1900,,,6,9,Original,,West Tropical Africa
+Af18,Ekoi,6,8,ejag1239,Ekoi (Af18),xd195,,1900,,,6,8,Original,,West Tropical Africa
+Af19,Efik,5,8,efik1245,Efik (Af19),xd196,Riverain Ibibio,1950,,,5,8,Original,,West Tropical Africa
+Af2,Kissi,9,-10,nort2765,Kissi (Af2),xd197,Ghizi,1950,,,9,-10,Original,,West Tropical Africa
+Af20,Ibibio,5,8,ibib1240,Ibibio (Af20),xd198,,1910,,,5,8,Original,,West Tropical Africa
+Af21,Ijaw,4.37,6.58,kala1381,Ijaw (Af21),xd199,Ijo,1920,,,2,6,Revised,,West Tropical Africa
+Aa2,Dorobo,0,36,okie1245,Dorobo (Aa2),xd2,Andorobo; Okiek; Wandorobbo,1920,Okiek (FL20),FL20,0,36,Original,,East Tropical Africa
+Ab19,Ambo,-17,16,ndon1254,Ambo (Ab19),xd20,Ovambo,1910,,,-17,16,Original,,South Tropical Africa
+Af22,Itsekiri,6,5,isek1239,Itsekiri (Af22),xd200,Awerri; Jekri; Warri,1940,,,6,5,Original,,West Tropical Africa
+Af23,Afikpo,6,8,afik1238,Afikpo (Af23),xd201,,1950,Igbo (FF26),FF26,6,8,Original,,West Tropical Africa
+Af24,Edo,6,6,bini1246,Edo (Af24),xd202,Bini,1900,,,6,6,Original,,West Tropical Africa
+Af25,Isoko,5,6,isok1239,Isoko (Af25),xd203,,1930,,,5,6,Original,,West Tropical Africa
+Af26,Kukuruku,7,6,yekh1238,Kukuruku (Af26),xd204,,1900,,,7,6,Original,,West Tropical Africa
+Af27,Eloyi,8,8,eloy1241,Afo (Af27),xd205,Eloyi; Afo,1950,,,8,8,Original,,West Tropical Africa
+Af28,Gbagyi,10,10,gbar1246,Gbari (Af28),xd206,Gbari; Gwali,1910,,,10,10,Original,,West Tropical Africa
+Af29,Idoma,7,8,idom1241,Idoma (Af29),xd207,,1950,,,7,8,Original,,West Tropical Africa
+Af3,Ashanti,7,-2,asan1239,Ashanti (Af3),xd208,Twi,1900,Twi (FE12),FE12,7,-2,Original,,West Tropical Africa
+Af30,Igala,7,7,igal1242,Igala (Af30),xd209,Igara,1920,,,7,7,Original,,West Tropical Africa
+Ab2,Swazi,-27,32,swat1243,Swazi (Ab2),xd21,Amaswazi,1880,,,-27,32,Original,,Southern Africa
+Af31,Koro,18,8,ashe1269,Koro (Af31),xd210,,1960,,,18,8,Original,,West Tropical Africa
+Af32,Egba,7,3,egba1238,Egba (Af32),xd211,,1920,Yoruba (FF62),FF62,7,3,Original,,West Tropical Africa
+Af33,Ekiti,8,5,ekit1244,Ekiti (Af33),xd212,,1950,Yoruba (FF62),FF62,8,5,Original,,West Tropical Africa
+Af34,Ife,7,5,ifee1241,Ife (Af34),xd213,,1930,Yoruba (FF62),FF62,7,5,Original,,West Tropical Africa
+Af35,Adangme,6,0,adan1247,Adangme (Af35),xd214,Adampe,1940,,,6,0,Original,,West Tropical Africa
+Af36,Ewe,7,1,aguu1242,Ewe (Af36),xd215,,1900,,,7,1,Original,,West Tropical Africa
+Af37,Buem,7.22,0.46,siwu1238,Buem (Af37),xd216,,1900,,,3,1,Revised,"Note 8Feb2018: HH notes that ""Buem"" may not be an appropriate name for the group (""HH: Buem (the name) usually refers to Lelemi [lef], I don't know the refs but if they refer to Siwu, it's not clear why the name Buem is used as the name for this society.""). Indeed, focus is ""Akpafu"", which is a Siwu speaking group. KK suggests considering renaming group to ""Mawu"" -- see next: From Wikipedia (appears to be reliable, based on additional reading by KK): ""The speakers of Siwu call themselves the ""Mawu"". Siwu is spoken in a total of eight villages scattered about in the mountains north of Hohoe. [The land is divided into] Akpafu (West) [akpa1243] and Lolobi (East) [lolo1260], corresponding to a dialectal division. [...] Within the Ghana-Togo Mountain Languages, the closest relatives of Siwu are Lεlεmi (Buem), Sεlε (Santrokofi), and Sεkpεlε (Likpe); with Siwu, these languages form a group that has been called the Buem group (Heine 1969). (https://en.wikipedia.org/wiki/Siwu_language).""",West Tropical Africa
+Af38,Abron,7.53,-2.15,abro1238,Abron (Af38),xd217,Brong,1900,,,5,-3,Revised,,West Tropical Africa
+Af39,Anyi,7,-4,anyi1245,Anyi (Af39),xd218,,1900,,,7,-4,Original,,West Tropical Africa
+Af4,Yako,6,8,loka1252,Yako (Af4),xd219,,1930,,,6,8,Original,,West Tropical Africa
+Ab20,Ngumbi,-15,15,nkhu1238,Ngumbi (Ab20),xd22,Bangumbi; Humbe; Khumbi; Nkumbe; Ovakumbe; Vankumbe,1880,,,-15,15,Original,,South Tropical Africa
+Af40,Assini,5.27,-3.58,abur1243,Assini (Af40),xd220,Issinese,1890,,,5,-4,Revised,,West Tropical Africa
+Af41,Attie,6,-4,atti1239,Attie (Af41),xd221,,1890,,,6,-4,Original,,West Tropical Africa
+Af42,Fante,6,-1,fant1241,Fanti (Af42),xd222,Fanti,1900,Twi (FE12),FE12,6,-1,Original,,West Tropical Africa
+Af43,Ga,6,0,gaaa1244,Ga (Af43),xd223,,1930,,,6,0,Original,,West Tropical Africa
+Af44,Alagya,5.22,-4.42,alla1248,Alagya (Af44),xd224,Jackjack,1900,,,5,-4,Revised,,West Tropical Africa
+Af45,Avikam,5.15,-5.25,avik1243,Avikam (Af45),xd225,Brignan; Kwakwa,1900,,,5,-5,Revised,,West Tropical Africa
+Af46,Bakwe,5,-7,bakw1243,Bakwe (Af46),xd226,,1900,,,5,-7,Original,,West Tropical Africa
+Af47,Krahn,6,-8,west2488,Kran (Af47),xd227,Kran; Bush Kru,1940,,,6,-8,Original,,West Tropical Africa
+Af48,Kru,5,-9,klao1243,Kru (Af48),xd228,Krao,1850,,,5,-9,Original,,West Tropical Africa
+Af49,Sapo,6,-9,sapo1251,Sapo (Af49),xd229,Pahn; Sapahn,1940,,,6,-9,Original,,West Tropical Africa
+Ab21a,Kisama,-10,14,sama1300,Kisama (Ab21a),xd23,Cisama; Quissama,1930,,,-10,14,Original,,South Tropical Africa
+Af5,Mende,8,-11,mend1266,Mende (Af5),xd230,,1930,Mende (FC07),FC07,8,-11,Original,,West Tropical Africa
+Af50,Dan,8,-8,dann1241,Dan (Af50),xd231,,1920,,,8,8,Original,,West Tropical Africa
+Af51,Gagu,7,-6,gagu1242,Gagu (Af51),xd232,Gban,1920,,,7,-6,Original,,West Tropical Africa
+Af52,Guro,7,-6,guro1248,Guro (Af52),xd233,,1920,,,7,-6,Original,,West Tropical Africa
+Af53,Tura,8,-7,tour1242,Tura (Af53),xd234,Wen,1950,,,8,-7,Original,,West Tropical Africa
+Af54,Gbande,8,-10,band1352,Gbande (Af54),xd235,,1930,,,8,-10,Original,,West Tropical Africa
+Af55,Gola,7,-11,gola1255,Gola (Af55),xd236,,1950,,,7,-11,Original,,West Tropical Africa
+Af56,Ngere,7,-8,dann1241,Ngere (Af56),xd237,Guere,1930,,,7,-8,Original,,West Tropical Africa
+Af57,Temne,8.46,-12.64,timn1235,Temne (Af57),xd238,Time,1910,,,8,-13,Revised,,West Tropical Africa
+Af58,Vai,6.89,-11.2,vaii1241,Vai (Af58),xd239,Gallina,1900,,,7,-12,Revised,,West Tropical Africa
+Ab21b,Bomvana,-32.17,28.93,bomv1238,Bomvana (Ab21b),xd24,,1925,,,-32,28,Revised_2Aug2021,,Southern Africa
+Af6,Oyo Yoruba,8,4,oyoo1238,Oyo Yoruba (Af6),xd240,,1950,Yoruba (FF62),FF62,8,4,Original,2Aug2021 Dialect match updated by KK,West Tropical Africa
+Af7,Bete,6,-7,dalo1238,Bete (Af7),xd241,,1950,,,6,-7,Original,Note 8Feb2018: Changed based on note from HH: Bete of Hallouin and Paulme is Bété-Daloa [bev],West Tropical Africa
+Af8,Nupe,9,6,nupe1254,Nupe (Af8),xd242,,1930,Nupe (FF52),FF52,9,6,Original,,West Tropical Africa
+Af9,Baule,8,-5,baou1238,Baule (Af9),xd243,,1900,,,8,-5,Original,,West Tropical Africa
+Ag1,Bambara,13,-7,bamb1269,Bambara (Ag1),xd244,Bamana,1920,Bambara (FA08),FA08,13,-7,Original,,West Tropical Africa
+Ag10,Konkomba,10,0,konk1269,Konkomba (Ag10),xd245,Bekpokpak; Konko; Kpankpam; Lekpokpam; Pangpana; Tyopo,1940,,,10,0,Original,,West Tropical Africa
+Ag11,Lobi,10,-4,lobi1245,Lobi (Ag11),xd246,,1910,,,10,-4,Original,,West Tropical Africa
+Ag12,Nankanse,10,-1,nank1249,Nankanse (Ag12),xd247,Nankana,1910,,,10,-1,Original,,West Tropical Africa
+Ag13,Kasena,11,-1,kase1253,Kasena (Ag13),xd248,Kasem; Kasuna,1910,,,11,-1,Original,,West Tropical Africa
+Ag14,Baga,10,-14,mbul1258,Baga (Ag14),xd249,,1950,,,10,-14,Original,"Note 8Feb2018: Glottocode changed to mbul1258 [mbv] based on note from HH: Paulme deals with Baga Sitemou = Baga Sitemu[bsp] and Baga Foré = Mbulungish [mbv] rather than Baga Koga. KK: In fact, these two languages are not sisters. However, a third reference refers to Nalu (nalu1240/[naj]) which IS a sister to mbv. THerefore, mbv was selected over bsp. [ALSO note that some references appear to refer to ""Baga Dörbed"" (Kalmyk), a Mongol people, and need to be re-assigned to society ""Kalmyk"" (aberle1953; krader1963; vladimirtsov1948). ",West Tropical Africa
+Ab22,Chopi,-24.76,34.47,copi1238,Chopi (Ab22),xd25,Vachopi,1920,,,-25,35,Revised,,South Tropical Africa
+Ag15,Balanta,12,-16,bala1301,Balante (Ag15),xd250,Balante,1930,,,12,-16,Original,,West Tropical Africa
+Ag16,Banyun,12,-16,bain1259,Banyune (Ag16),xd251,Bainuk; Banhun; Banyune,1930,,,12,-16,Original,,West Tropical Africa
+Ag17,Biafada,12,-15,biaf1240,Biafada (Ag17),xd252,,1940,,,12,-15,Original,,West Tropical Africa
+Ag18,Bijogo,11.1,-16.15,bidy1244,Bijogo (Ag18),xd253,Bijago,1930,,,11,-16,Revised,,West Tropical Africa
+Ag19,Diola,12.88,-16.19,ejam1238,Diola (Ag19),xd254,Jola-Felupe,1930,,,12,-17,Revised,Note 8Feb2018: Changed based on note from HH: Cunha Taborde deals with Jola-Felupe [eja] rather than Diola-Fonyi,West Tropical Africa
+Ag2,Mossi (Yatenga),13,-2,moss1236,Yatenga (Ag2),xd255,Yatenga; Massi; Moshi; Mossi,1950,Mossi (FA28),FA28,13,-2,Original,"I think this should be the ""Ouahigouya"" dialect of Mossi (mos), though there is no such dialect in Glottolog.",West Tropical Africa
+Ag20,Papel,12,-16,pape1239,Pepel (Ag20),xd256,Pepel,1930,,,12,-16,Original,,West Tropical Africa
+Ag21,Bassari,12,-13,bass1258,Bassari (Ag21),xd257,Biyan,1910,,,12,-13,Original,,West Tropical Africa
+Ag22,Serer,14,-12,sere1260,Serer (Ag22),xd258,Kegueme,1920,,,14,-12,Original,,West Tropical Africa
+Ag23,Kasonke,13,-11,xaas1235,Kasonke (Ag23),xd259,,1910,,,13,-11,Original,,West Tropical Africa
+Ab3,Lozi,-15,23,lozi1239,Lozi (Ab3),xd26,,1890,Lozi (FQ09),FQ09,-15,23,Original,,South Tropical Africa
+Ag24,Koranko,9,-11,kura1250,Koranko (Ag24),xd260,,1910,,,9,-11,Original,,West Tropical Africa
+Ag25,Soninke,15,10,soni1259,Soninke (Ag25),xd261,Sarakole,1900,,,15,10,Original,,West Tropical Africa
+Ag26,Susu,15,-13,susu1250,Susu (Ag26),xd262,Soso,1930,,,15,-13,Original,,West Tropical Africa
+Ag27,Diula,9,-4,dyul1238,Diula (Ag27),xd263,Dyoura,1910,,,9,-4,Original,,West Tropical Africa
+Ag28,Nononke,14,-4,jena1242,Nono (Ag28),xd264,Nono; Marka; Marka-Dafing; Dafi,1930,,,14,-4,Original,,West Tropical Africa
+Ag29,Samo,13,-3,sout2844,Samo (Ag29),xd265,Samako,1910,,,13,-3,Original,,West Tropical Africa
+Ag3,Dogon,15,-3,bank1259,Dogon (Ag3),xd266,Dagom; Habbe; Kado; Tombo,1930,Dogon (FA16),FA16,15,-3,Original,,West Tropical Africa
+Ag30,Bobo,13,-4,nort2819,Bobo (Ag30),xd267,,1910,,,13,-4,Original,,West Tropical Africa
+Ag31,Minianka,12,-6,mama1271,Minianka (Ag31),xd268,,1910,,,12,-6,Original,,West Tropical Africa
+Ag32,Senufo,10,-6,ceba1235,Senufo (Ag32),xd269,Sene; Siena,1900,,,10,-6,Original,,West Tropical Africa
+Ab4,Tsonga,-24,32,tson1249,Thonga (Ab4),xd27,Thonga; Tonga; Vatsonga,1920,Tsonga (FT06),FT06,-24,32,Original,,South Tropical Africa
+Ag33,Dyan,11,-3,dyan1251,Dian (Ag33),xd270,Dian; Dya,1920,,,11,-3,Original,,West Tropical Africa
+Ag34,Dorosie,11,-4,dogo1295,Dorosie (Ag34),xd271,Dorho,1930,,,11,-4,Original,,West Tropical Africa
+Ag35,Kulango,7,-3,boun1243,Kulango (Ag35),xd272,Parkhalla,1910,,,7,-3,Original,,West Tropical Africa
+Ag36,Lowiili,11,-3,sout2790,Lowiili (Ag36),xd273,,1950,,,11,-3,Original,Note 8Feb2018: Changed based on note from HH: LoWiili or Goody is Birifor-Southern [biv],West Tropical Africa
+Ag37,Awuna,11,-2,angl1262,Awuna (Ag37),xd274,Atyulo; Frafra; Kassonfra; Yulu,1910,,,11,-2,Original,,West Tropical Africa
+Ag38,Builsa,11,-2,buli1254,Builsa (Ag38),xd275,Bura; Kanjaga,1910,,,11,-2,Original,,West Tropical Africa
+Ag39,Dagara,11,-3,sout2789,Dagari (Ag39),xd276,Dagari; Dagaba,1910,,,11,-3,Original,,West Tropical Africa
+Ag4,Tallensi,11,-1,taln1239,Tallensi (Ag4),xd277,,1930,Tallensi (FE11),FE11,11,-1,Original,,West Tropical Africa
+Ag40,Isala,10,-2,tumu1242,Isala (Ag40),xd278,Debe; Gelebagu; Hisala; Pasala,1910,,,10,-2,Original,,West Tropical Africa
+Ag41,Kusasi,11,0,kusa1250,Kusasi (Ag41),xd279,Kusal,1920,,,11,0,Original,,West Tropical Africa
+Ab5,Mbundu,-12,16,umbu1257,Mbundu (Ab5),xd28,Banano; Mbari; Nano; Ovimbundu,1930,Mbundu (FP13),FP13,-12,16,Original,,South Tropical Africa
+Ag42,Nunuma,12,-3,sout2795,Nunuma (Ag42),xd280,Gurunsi,1910,,,12,-3,Original,,West Tropical Africa
+Ag43,Vagala,8,-2,vagl1239,Vagala (Ag43),xd281,Siti,1920,,,8,-2,Original,,West Tropical Africa
+Ag44,Dagomba,9,0,dagb1246,Dagomba (Ag44),xd282,Dagbamba,1910,,,9,0,Original,,West Tropical Africa
+Ag45,Gurma,12,2,gour1243,Gurma (Ag45),xd283,bigourmantcheba; Gourmantche,1930,,,12,2,Original,,West Tropical Africa
+Ag46,Manprusi,10,-1,mamp1244,Manprusi (Ag46),xd284,Mampelle,1920,,,10,-1,Original,,West Tropical Africa
+Ag47,Mossi (Ouagadougou),12,-2,moss1236,Mossi Ouagadou (Ag47),xd285,Mossi Ouagadou; Massi; Moshi,1900,Mossi (FA28),FA28,12,-2,Original,,West Tropical Africa
+Ag48,Basari,9,1,ntch1242,Basari (Ag48),xd286,,1890,,,9,1,Original,,West Tropical Africa
+Ag49,Kabre,10,2,kabi1261,Kabre (Ag49),xd287,Bekaburum; Kabure,1930,,,10,2,Original,,West Tropical Africa
+Ag5,Birifor,10,-3,sout2790,Birifor (Ag5),xd288,Birifon,1930,,,10,-3,Original,,West Tropical Africa
+Ag50,Moba,11,1,moba1244,Moba (Ag50),xd289,Bmoba; Moab,1910,,,11,1,Original,,West Tropical Africa
+Ab6,Venda,-23,30,vend1245,Venda (Ab6),xd29,Bavenda; Bawenda,1900,,,-23,30,Original,,Southern Africa
+Ag51,Somba,11,1,dita1238,Somba (Ag51),xd290,Betammadibe; Tamprusi,1940,,,11,1,Original,,West Tropical Africa
+Ag52,Tem,11,1,temm1241,Tem (Ag52),xd291,Chancho; Kotokoli,1950,,,11,1,Original,,West Tropical Africa
+Ag53,Bisa,12,0,biss1248,Bisa (Ag53),xd292,Busanse,1960,,,12,0,Original,,West Tropical Africa
+Ag54,Yalunka,10,-12,yalu1240,Yalunka (Ag54),xd293,Dialonke,1910,,,10,-12,Original,,West Tropical Africa
+Ag6,Futajalonke,11,-13,pula1262,Futajalonke (Ag6),xd294,Foutadjallonke,1890,,,11,-13,Original,,West Tropical Africa
+Ag7,Bozo,14,-5,tiey1235,Bozo (Ag7),xd295,,1930,,,14,-5,Original,,West Tropical Africa
+Ag8,Coniagui,13,-13,wame1240,Coniagui (Ag8),xd296,Awunlen; Koniagi,1910,,,13,-13,Original,,West Tropical Africa
+Ag9,Malinke,11,-9,kita1249,Malinke (Ag9),xd297,Mandingo; Wangara,1930,,,11,-9,Original,"Note 8Feb2018: Glottocode changed to kita1249 [mwk], which is hte focus of Sidibe's work, and also has ""Central Malinke"" listed as an alternative language name. Another reference for this society is focused (according to HH's notes on the closely related [mnk], but whether it also touches on mwk, and/or might have been used for context/depth, should be verified.",West Tropical Africa
+Ah1,Katab,10,8,kata1265,Katab (Ah1),xd298,,1930,Katab (FF38),FF38,10,8,Original,,West Tropical Africa
+Ah10,Chawai,10,9,atsa1241,Chawai (Ah10),xd299,Atsam,1920,,,10,9,Original,,West Tropical Africa
+Aa3,Nama,-26,18,nama1265,Nama Hottentot (Aa3),xd3,Khoekhoe; Namaqua; Nama Hottentot,1840,Khoi (FX13),FX13,-26,18,Original,,Southern Africa
+Ab7,Nyaneka,-15,14,nyan1305,Nyaneka (Ab7),xd30,Banianeka; Munyaneka; Ovanyaneka; Vanyaneka,1920,,,-15,14,Original,,South Tropical Africa
+Ah11,Basa,8,8,basa1282,Basa (Ah11),xd300,Bassa,1950,,,8,8,Original,,West Tropical Africa
+Ah12,Basakomo,8,7,basa1282,Basakomo (Ah12),xd301,Bassa-Komo,1920,,,8,7,Original,,West Tropical Africa
+Ah13,Dakakari,12,5,clel1238,Dakakari (Ah13),xd302,,1930,,,12,5,Original,,West Tropical Africa
+Ah14,Kamuku,11,6,cind1241,Kamuku (Ah14),xd303,,1920,,,11,6,Original,,West Tropical Africa
+Ah15,Reshe,11,5,resh1242,Reshe (Ah15),xd304,Bareshe; Gungawa; Yauri,1920,,,11,5,Original,,West Tropical Africa
+Ah16,Angas,9,9,ngas1240,Angas (Ah16),xd305,,1900,,,9,9,Original,,West Tropical Africa
+Ah17,Birom,10,9,bero1242,Birom (Ah17),xd306,Burum; Kibo,1930,,,10,9,Original,,West Tropical Africa
+Ah18,Burmawa,10,10,bogh1241,Borrom (Ah18),xd307,Borrom,1930,,,10,10,Original,,West Tropical Africa
+Ah19,Adara,10,8,kada1284,Kadara (Ah19),xd308,Kadara,1930,,,10,8,Original,,West Tropical Africa
+Ah2,Jukun,8,10,juku1254,Jukun (Ah2),xd309,Juko,1920,,,8,10,Original,,West Tropical Africa
+Ab8,Sotho,-29,28,sout2807,Sotho (Ab8),xd31,Basuto,1860,,,-29,28,Original,,Southern Africa
+Ah20,Kagoro,10,8,kago1246,Kagoro (Ah20),xd310,,1920,Katab (FF38),FF38,10,8,Original,,West Tropical Africa
+Ah21,Kurama,10,9,kura1249,Kurama (Ah21),xd311,,1920,,,10,9,Original,,West Tropical Africa
+Ah22,Yergum,9,10,taro1263,Yergum (Ah22),xd312,,1900,,,9,10,Original,,West Tropical Africa
+Ah23,Jibu,8,11,jibu1239,Jibu (Ah23),xd313,Jubu,1920,,,8,11,Original,,West Tropical Africa
+Ah24,Kentu,7,10,etky1238,Kentu (Ah24),xd314,,1920,,,7,10,Original,,West Tropical Africa
+Ah25,Tigon,17,11,tigo1236,Tigon (Ah25),xd315,Tukum; Thgon,1920,,,17,11,Original,,West Tropical Africa
+Ah26,Ndoro,7,11,ndoo1241,Ndoro (Ah26),xd316,,1920,,,7,11,Original,,West Tropical Africa
+Ah27,Zuande,7,11,bita1251,Zuande (Ah27),xd317,Bitare; Yukutare,1920,,,7,11,Original,,West Tropical Africa
+Ah28,Chamba,8,11,samb1305,Chamba (Ah28),xd318,Tsamba,1920,,,8,11,Original,,West Tropical Africa
+Ah29,Daka,8,11,samb1311,Daka (Ah29),xd319,Dekka,1920,,,8,11,Original,,West Tropical Africa
+Ab9,Ndebele,-20,28,nort2795,Ndebele (Ab9),xd32,Amandebele; Matabele,1870,,,-20,28,Original,,South Tropical Africa
+Ah3,Tiv,7,9,tivv1240,Tiv (Ah3),xd320,Munshi,1920,Tiv (FF57),FF57,7,9,Original,,West Tropical Africa
+Ah30,Longuda,10,12,long1389,Longuda (Ah30),xd321,Nunguda,1920,,,10,12,Original,,West Tropical Africa
+Ah31,Mumuye,9,12,nucl1240,Mumuye (Ah31),xd322,,1910,,,9,12,Original,,West Tropical Africa
+Ah32,Vere,9,13,momj1237,Vere (Ah32),xd323,Were,1920,,,9,13,Original,,West-Central Tropical Africa
+Ah33,Yungur,10,12,bena1260,Yungur (Ah33),xd324,Binna,1920,,,10,12,Original,Note 8Feb2018: HH: Yungur usually refers to Bena [yun] rather than its sister Voro [vor].,West Tropical Africa
+Ah34,Bata,10,13,bata1314,Bata (Ah34),xd325,,1920,,,10,13,Original,,West Tropical Africa
+Ah35,Bura,10,12,bura1292,Bura (Ah35),xd326,,1920,,,10,12,Original,,West Tropical Africa
+Ah36,Gude,10,13,gude1246,Gude (Ah36),xd327,Cheke,1920,,,10,13,Original,,West Tropical Africa
+Ah37,Hwana,10,13,hwan1240,Hona (Ah37),xd328,Hona,1920,,,10,13,Original,,West Tropical Africa
+Ah38,Kapsiki,11,14,psik1239,Kapsiki (Ah38),xd329,Hiji; Hill Margi,1930,,,11,14,Original,,West-Central Tropical Africa
+Ac1,Ila,-16,27,ilaa1246,Ila (Ac1),xd33,Baila,1920,Ila (FQ06),FQ06,-16,27,Original,,South Tropical Africa
+Ah39,Podokwo,11,14,park1239,Podokwo (Ah39),xd330,Podogo,1950,,,11,14,Original,,West-Central Tropical Africa
+Ah4,Mambila,7,12,came1252,Mambila (Ah4),xd331,Torbi,1920,,,7,12,Original,,West-Central Tropical Africa
+Ah5,Margi,11,13,marg1265,Margi (Ah5),xd332,Marghi,1930,,,11,13,Original,,West Tropical Africa
+Ah6,Gure,10,8,gbir1241,Gure (Ah6),xd333,Agbiri,1920,,,10,8,Original,,West Tropical Africa
+Ah7,Mafa,11,14,mafa1239,Matakam (Ah7),xd334,Matakam,1940,,,11,14,Original,,West-Central Tropical Africa
+Ah8,Bafute,6,12,vute1244,Wute (Ah8),xd335,Wute; Bafute; Bute; Mfute,1910,,,6,12,Original,,West-Central Tropical Africa
+Ah9,Anaguta,10,9,igut1238,Anaguta (Ah9),xd336,Naguta,1920,,,10,9,Original,,West Tropical Africa
+Ai1,Banda,7,22,west2458,Banda (Ai1),xd337,,1920,,,7,22,Original,,West-Central Tropical Africa
+Ai10,Otoro,12,31,otor1240,Otoro (Ai10),xd338,Otoro Nuba; Nuba,1940,,,12,31,Original,,Northeast Tropical Africa
+Ai11,Mangbetu,3,28,nucl1420,Mangbetu (Ai11),xd339,Monbuttu,1900,,,3,28,Original,,West-Central Tropical Africa
+Ac10,Chewa,-14,33,chew1246,Chewa (Ac10),xd34,Achewa; Cewa; Sheva,1920,,,-14,33,Original,,South Tropical Africa
+Ai12,Fali,10,14,sout2782,Fali (Ai12),xd340,,1950,,,10,14,Original,Note 8Feb2018: Changed based on note from HH: Fali of Malzy is Fali from Tingelin = South Fali [fal],West-Central Tropical Africa
+Ai13,Laka,8,16,laka1254,Laka (Ai13),xd341,,1920,,,8,16,Original,"Note 8Feb2018: Changed based on note from HH: Lakka of Tessmann refers to the Sara language Laka [lap] in Tchad/CAR, not Nigeria!",Northeast Tropical Africa
+Ai14,Mbum,7,14,mbum1254,Mbum (Ai14),xd342,,1920,,,7,14,Original,,West-Central Tropical Africa
+Ai15,Mundang,10,14,mund1325,Mundang (Ai15),xd343,Moundan,1900,,,10,14,Original,,West-Central Tropical Africa
+Ai16,Namshi,9,13,doya1240,Namshi (Ai16),xd344,Doayo,1910,,,9,13,Original,,West-Central Tropical Africa
+Ai17,Gisiga,10,14,sout3051,Gisiga (Ai17),xd345,Guissiga,1930,,,10,14,Original,,West-Central Tropical Africa
+Ai18,Kotoko,12,15,lagw1237,Kotoko (Ai18),xd346,Logone; Makari,1880,,,12,15,Original,,West-Central Tropical Africa
+Ai19,Musgu,11,15,musg1254,Musgu (Ai19),xd347,Muzuk,1910,,,11,15,Original,,West-Central Tropical Africa
+Ai2,Nyaro,11,31,kooo1244,Nyaro (Ai2),xd348,,1940,,,11,31,Original,,Northeast Tropical Africa
+Ai20,Tupuri,10,15,tupu1244,Tuburi (Ai20),xd349,Tuburi; Toupouri,1910,,,10,15,Original,,West-Central Tropical Africa
+Ac11,Luvale,-12,22,luva1239,Luvale (Ac11),xd35,Aluena; Balovale; Lobare; Luena,1930,,,-12,22,Original,,South Tropical Africa
+Ai21,Bagirmi,11,17,bagi1246,Bagirmi (Ai21),xd350,,1880,,,11,17,Original,,Northeast Tropical Africa
+Ai22,Sara,9,18,sarr1246,Sara (Ai22),xd351,,1890,,,9,18,Original,,Northeast Tropical Africa
+Ai23,Bwaka,3,19,ngba1284,Bwaka (Ai23),xd352,Gbwaka; Mbaka; Ngbaka,1920,,,3,19,Original,,West-Central Tropical Africa
+Ai24,Mandja,6,18,manz1243,Mandja (Ai24),xd353,,1900,,,6,18,Original,,West-Central Tropical Africa
+Ai25,Mbandja,4,21,mban1263,Mbandja (Ai25),xd354,Banza,1950,,,4,21,Original,,West-Central Tropical Africa
+Ai26,Ngbandi,4,22,nort2774,Ngbandi (Ai26),xd355,Gbandi; Mogwandi,1920,,,4,22,Original,,West-Central Tropical Africa
+Ai27,Abarambo,4,27,bara1361,Abarambo (Ai27),xd356,,1890,,,4,27,Original,,West-Central Tropical Africa
+Ai28,Popoi,2,26,popo1291,Popoi (Ai28),xd357,Bagunda; Bapopoie,1910,,,2,26,Original,,West-Central Tropical Africa
+Ai29,Lendu,2,30,lend1245,Lendu (Ai29),xd358,Bale; Walega; Walendu,1920,,,2,30,Original,,West-Central Tropical Africa
+Ai3,Azande,5,27,zand1248,Azande (Ai3),xd359,Niam-Niam,1920,Azande (FO07),FO07,5,27,Original,,West-Central Tropical Africa
+Ac12,Chokwe,-10,21,chok1245,Chokwe (Ac12),xd36,Badjok; Kioko; Tsokwe,1920,,,-10,21,Original,,South Tropical Africa
+Ai30,Lese,2,29,lese1243,Lese (Ai30),xd360,Balese; Walese,1920,,,2,29,Original,,West-Central Tropical Africa
+Ai31,Logo,3,30,logo1259,Logo (Ai31),xd361,,1920,,,3,30,Original,,West-Central Tropical Africa
+Ai32,Lugbara,3,32,lugb1240,Lugbara (Ai32),xd362,Lugware,1920,,,3,32,Original,,East Tropical Africa
+Ai33,Madi,4,32,madi1260,Madi (Ai33),xd363,,1940,,,4,32,Original,,Northeast Tropical Africa
+Ai34,Moru,5,30,moru1253,Moru (Ai34),xd364,,1880,,,5,30,Original,,Northeast Tropical Africa
+Ai35,Bongo,7,29,bong1285,Bongo (Ai35),xd365,Dor,1870,,,7,29,Original,,Northeast Tropical Africa
+Ai36,Jur,8,28,luwo1239,Jur (Ai36),xd366,Gour; Jo-Luo,1920,,,8,28,Original,"Changed again on 09Nov2018: Further reading suggests this Luo speaking group from South Sudan should actually be matched to language luwo1239 ""Dhe Luo"", not to luok1236. See Tucker (1931) “The tribal confusion around Wau [Sudan]” (Sudan Notes and Records 14(1): 49-60 for further disambiguation. Note 8Feb2018: Changed based on note from HH: Crazzolara and Santandrea (and probably the others) is about the Nilotic Luo [luo] which is a completely different language than SBB Jur Modo [bex]",Northeast Tropical Africa
+Ai37,Koalib,12,31,koal1240,Koalib (Ai37),xd367,,1940,,,12,31,Original,,Northeast Tropical Africa
+Ai38,Korongo,10,30,kron1241,Korongo (Ai38),xd368,,1930,,,10,30,Original,,Northeast Tropical Africa
+Ai39,Mesakin,11,30,ngil1242,Mesakin (Ai39),xd369,,1940,,,11,30,Original,,Northeast Tropical Africa
+Ac13,Tonga,-12,34,tong1321,Lake Tonga (Ac13),xd37,Lake Tonga; Batonga; Matoka,1950,Lakeshore Tonga (FR07),FR07,-12,34,Original,,South Tropical Africa
+Ai4,Ingassana,11,34,gaam1241,Ingassana (Ai4),xd370,Engassana; Metabe; Tabi,1920,,,11,34,Original,,Northeast Tropical Africa
+Ai40,Moro,11,30,moro1285,Moro (Ai40),xd371,,1940,,,11,30,Original,,Northeast Tropical Africa
+Ai41,Tira,11,30,tira1254,Tira (Ai41),xd372,,1930,,,11,30,Original,,Northeast Tropical Africa
+Ai42,Tullishi,12,29,tuli1249,Tullishi (Ai42),xd373,,1940,,,12,29,Original,,Northeast Tropical Africa
+Ai43,Nyimang,12,29,amas1236,Nyima (Ai43),xd374,Nyima; Nyamang,1930,,,12,29,Original,,Northeast Tropical Africa
+Ai44,Anuak,8,34,anua1242,Anuak (Ai44),xd375,Yambo,1920,,,8,34,Original,,Northeast Tropical Africa
+Ai45,Meban,10,34,maba1273,Meban (Ai45),xd376,Gura; Maban,1930,,,10,34,Original,,Northeast Tropical Africa
+Ai46,Koma,9,35,komo1258,Koma (Ai46),xd377,Gwama; Coma,1930,,,9,35,Original,,Northeast Tropical Africa
+Ai47,Mao,9,35,hozo1236,Mao (Ai47),xd378,,1939,,,9,35,Original,,Northeast Tropical Africa
+Ai5,Mamvu,3,29,mamv1243,Mamvu (Ai5),xd379,Mornvu,1920,,,3,29,Original,,West-Central Tropical Africa
+Ac14,Bakongo,-7,15,sans1272,Kongo (Ac14),xd38,Kongo,1900,,,-7,15,Original,,South Tropical Africa
+Ai6,Shilluk,10,32,shil1265,Shilluk (Ai6),xd380,,1900,Shilluk (FJ23),FJ23,10,32,Original,,Northeast Tropical Africa
+Ai7,Gbaya,6,16,nort2775,Baya (Ai7),xd381,Baya; Baja,1910,,,6,16,Original,,West-Central Tropical Africa
+Ai8,Dilling,12,30,dill1242,Dilling (Ai8),xd382,,1930,,,12,30,Original,,Northeast Tropical Africa
+Ai9,Masa,10,16,masa1322,Masa (Ai9),xd383,Massa,1910,,,10,16,Original,,Northeast Tropical Africa
+Aj1,Teso,2,34,teso1249,Teso (Aj1),xd384,Bateso; Iteso; Kedi,1950,,,2,34,Original,,East Tropical Africa
+Aj10,Acholi,3,32,dhop1238,Acholi (Aj10),xd385,Acooli,1920,,,3,32,Original,,East Tropical Africa
+Aj11,Dinka,9,29,sout2832,Dinka (Aj11),xd386,Denkawi,1900,,,9,29,Original,"Note 8Feb2018: Glottocode left as sout2832, as most of the refs seem to refer to [dik]. Users should be aware that ethnographies relating to different Dinka languages are all listed as sources here, hopefully those not focused on the target group help provide context etc.",Northeast Tropical Africa
+Aj12,Lotuko,4,33,otuh1238,Lotuko (Aj12),xd387,Latuka,1920,,,4,33,Original,,Northeast Tropical Africa
+Aj13,Pojulu,4,31,poju1239,Fajulu (Aj13),xd388,Fajulu,1930,,,4,31,Original,,Northeast Tropical Africa
+Aj14,Kakwa,4,31,kakw1240,Kakwa (Aj14),xd389,Kakuak,1931,,,4,31,Original,,Northeast Tropical Africa
+Ac15,Mbala,-5,18,mbal1257,Mbala (Ac15),xd39,Ambala; Bambala,1900,,,-5,18,Original,,West-Central Tropical Africa
+Aj15,Kuku,4,32,kuku1285,Kuku (Aj15),xd390,,1900,,,4,32,Original,,Northeast Tropical Africa
+Aj16,Mondari,6,31,mand1425,Mondari (Aj16),xd391,Mandari,1930,,,6,31,Original,,Northeast Tropical Africa
+Aj17,Alur,2,31,alur1250,Alur (Aj17),xd392,Aloro; Lur,1890,,,2,31,Original,,West-Central Tropical Africa
+Aj18,Bodi,5,35,meen1242,Bodi (Aj18),xd393,,1950,,,5,35,Original,,Northeast Tropical Africa
+Aj19,Didinga,4,34,didi1258,Didinga (Aj19),xd394,Birra; Karoko; Toi,1920,,,4,34,Original,,East Tropical Africa
+Aj2,Maasi,-2,36,masa1300,Masai (Aj2),xd395,Masai,1900,Masai (FL12),FL12,-2,36,Original,,East Tropical Africa
+Aj20,Suri,6,35,suri1267,Suri (Aj20),xd396,Churi; Kichepo; Thauk; Thuri,1940,,,6,35,Original,,Northeast Tropical Africa
+Aj21,Jie,3,34,jiee1239,Jie (Aj21),xd397,,1930,,,3,34,Original,,East Tropical Africa
+Aj22,Labwor,3,34,labw1238,Labwor (Aj22),xd398,,1930,,,3,34,Original,,East Tropical Africa
+Aj23,Plains Suk,1,36,east2420,Plains Suk (Aj23),xd399,Pokot,1950,,,1,36,Original,,East Tropical Africa
+Aa4,Bergdama,-22,16,dama1270,Bergdama (Aa4),xd4,Hakouin; Mountain Damara,1920,,,-22,16,Original,,Southern Africa
+Ac16,Mitsogho,-1,12,tsog1243,Shogo (Ac16),xd40,Shogo; Ashogo; Issogo; Mitsogo,1940,,,-1,12,Original,,West-Central Tropical Africa
+Aj24,Toposa,5,34,topo1242,Topotha (Aj24),xd400,Topotha; Dabosa,1930,,,5,34,Original,,Northeast Tropical Africa
+Aj25,Keyu,0,36,keiy1238,Keyu (Aj25),xd401,Elgeyu,1920,,,0,36,Original,,East Tropical Africa
+Aj26,Hill Suk,1,36,west2492,Hill Suk (Aj26),xd402,Pokot,1910,,,1,36,Original,,East Tropical Africa
+Aj27,Sapei,1,35,kups1238,Sapei (Aj27),xd403,Sabei,1920,,,1,35,Original,,East Tropical Africa
+Aj28,Tatoga,-5,35,dato1239,Tatoga (Aj28),xd404,Datoga; Mangati; Taturu,1940,,,-5,35,Original,,East Tropical Africa
+Aj29,Samburu,1,37,samb1315,Samburu (Aj29),xd405,Lokop; Loikop,1950,,,1,37,Original,,East Tropical Africa
+Aj3,Nuer,8,32,nuer1246,Nuer (Aj3),xd406,Nath,1930,Nuer (FJ22),FJ22,8,32,Original,,Northeast Tropical Africa
+Aj30,Karamojong,2,34,nucl1430,Karamojong (Aj30),xd407,,1950,,,2,34,Original,,East Tropical Africa
+Aj31,Pari,5,33,pari1256,Pari (Aj31),xd408,Jo-Pari; Beri; Fori,1920,,,5,33,Original,,Northeast Tropical Africa
+Aj4,Lango,2,33,lang1324,Lango (Aj4),xd409,Umiro,1920,,,2,33,Original,,East Tropical Africa
+Ac17,Suku,-6,18,suku1259,Suku (Ac17),xd41,,1910,Suku (FO46),FO46,-6,18,Original,,West-Central Tropical Africa
+Aj5,Turkana,4,35,turk1308,Turkana (Aj5),xd410,ŋiTurkana; Elgume,1920,Turkana (FL17),FL17,4,35,Original,,East Tropical Africa
+Aj6,Luo,-1,34,luok1236,Luo (Aj6),xd411,Jaluo; Luwo; Nilotic Kavirondo; Nyifwa,1940,Luo (FL11),FL11,-1,34,Original,,East Tropical Africa
+Aj7,Nandi,0,35,nand1266,Nandi (Aj7),xd412,,1910,,,0,35,Original,,East Tropical Africa
+Aj8,Bari,5,32,ligo1238,Bari (Aj8),xd413,,1920,,,5,32,Original,,Northeast Tropical Africa
+Aj9,Kipsigis,-1,36,kips1239,Kipsigis (Aj9),xd414,Lumbwa; Sikisi,1920,,,-1,36,Original,,East Tropical Africa
+Ca1,Konso,6,37,kons1243,Konso (Ca1),xd415,,1930,Konso (MP17),MP17,6,37,Original,,Northeast Tropical Africa
+Ca10,Somali (Esa),10,43,nort3051,Esa (Ca10),xd416,Eissa; Isa,1880,Somali (MO04),MO04,10,43,Original,,Northeast Tropical Africa
+Ca11,Arusi,8,40,bora1271,Arusi (Ca11),xd417,,1890,,,8,40,Original,,Northeast Tropical Africa
+Ca12,Gibe,8,37,west2721,Gibe (Ca12),xd418,Oromo of Gibe Region,1880,,,8,37,Original,"Note 8Feb2018: Changed after note from HH: ""Haven't checked the details of the refs but very difficult to see how Gibe (= a region) best matches with Koorete rather than Oromo or Kaffa"". KK: indeed, an alt_name for this group is ""Oromo of Gibe Region"".",Northeast Tropical Africa
+Ca13,Macha,9,37,west2721,Macha (Ca13),xd419,Mecca,1950,,,9,37,Original,,Northeast Tropical Africa
+Ac18,Sundi,-5,14,koon1244,Sundi (Ac18),xd42,Basundi,1910,,,-5,14,Original,Note 8Feb2018: Changed based on note from HH: Hutereau's Kimanyanga refers to Koongo [kng],West-Central Tropical Africa
+Ca14,Burji,5,38,burj1242,Burji (Ca14),xd420,,1950,,,5,38,Original,,Northeast Tropical Africa
+Ca15,Darasa,6,38,gede1246,Darasa (Ca15),xd421,,1930,,,6,38,Original,,Northeast Tropical Africa
+Ca16,Sidama,7,38,sida1246,Sidamo (Ca16),xd422,Sidamo,1930,,,7,38,Original,,Northeast Tropical Africa
+Ca17,Tsamai,5,37,tsam1247,Tsamai (Ca17),xd423,Tsamako,1950,,,5,37,Original,,Northeast Tropical Africa
+Ca18,Arbore,5,37,arbo1245,Arbore (Ca18),xd424,Harbora,1940,,,5,37,Original,,Northeast Tropical Africa
+Ca19,Banna,6,36,hame1242,Banna (Ca19),xd425,Bunna,1950,,,6,36,Original,,Northeast Tropical Africa
+Ca2,Somali (Dolbahanta),8,48,nort3051,Somali (Ca2),xd426,,1950,Somali (MO04),MO04,8,48,Original,,Northeast Tropical Africa
+Ca20,Galab,5,36,daas1238,Galab (Ca20),xd427,Darthanaic; Geleba; Reshiat,1890,,,5,36,Original,,Northeast Tropical Africa
+Ca21,Hamar,5,36,hame1242,Hammar (Ca21),xd428,Hammar; Amar; Amarcocche; Hamarkoke,1950,,,5,36,Original,,Northeast Tropical Africa
+Ca22,Male,6,37,male1284,Male (Ca22),xd429,Maale,1950,,,6,37,Original,,Northeast Tropical Africa
+Ac19,Teke,-3,15,teke1278,Teke (Ac19),xd43,Bateke,1880,,,-3,15,Original,"Note, previously nzu and teke1279, but glottocode teke1279 is considered ""bookkeeping"", and SIL says nzu and ebo are said to be neighbouring dialects. Therefore, switched to ebo.",West-Central Tropical Africa
+Ca23,Bako,6,37,aari1239,Bako (Ca23),xd430,Ari; Baka,1950,,,6,37,Original,,Northeast Tropical Africa
+Ca24,Dime,6,36,dime1235,Dime (Ca24),xd431,,1950,,,6,36,Original,,Northeast Tropical Africa
+Ca25,Shangama,6,37,aari1239,Shangama (Ca25),xd432,,1950,,,6,37,Original,,Northeast Tropical Africa
+Ca26,Ubamer,6,37,aari1239,Ubamer (Ca26),xd433,Wubahamer,1950,,,6,37,Original,,Northeast Tropical Africa
+Ca27,Anfillo,9,35,anfi1235,Anfillo (Ca27),xd434,Southern Mao,1930,,,9,35,Original,,Northeast Tropical Africa
+Ca28,Basketo,6,37,bask1236,Basketo (Ca28),xd435,,1950,,,6,37,Original,,Northeast Tropical Africa
+Ca29,Yem,8,38,toba1264,Janjero (Ca29),xd436,Janjero,1920,,,8,38,Original,,Northeast Tropical Africa
+Ca3,Tigrinya,14,39,tigr1271,Tigrinya (Ca3),xd437,,1950,,,14,39,Original,,Northeast Tropical Africa
+Ca30,Kafa,7,36,kafa1242,Kafa (Ca30),xd438,Kafecho; Kaffa,1890,Kaffa (MP14),MP14,7,36,Original,,Northeast Tropical Africa
+Ca31,Beta Israel,12,37,qima1242,Falasha (Ca31),xd439,Falasha; Black Jews,1860,,,12,37,Original,,Northeast Tropical Africa
+Ac2,Pende,-6,20,phen1239,Pende (Ac2),xd44,Bapende,1920,,,-6,20,Original,,West-Central Tropical Africa
+Ca32,Nara,16,38,nara1262,Barea (Ca32),xd440,Barea; Baria,1860,,,16,38,Original,,Northeast Tropical Africa
+Ca33,Kunama,15,37,kuna1268,Kunama (Ca33),xd441,Cunama,1860,,,15,37,Original,,Northeast Tropical Africa
+Ca34,Ababda,24,34,abab1239,Ababda (Ca34),xd442,,1920,,,24,34,Original,,Northern Africa
+Ca35,Amarar,20,36,amar1281,Amarar (Ca35),xd443,,1930,,,20,36,Original,,Northeast Tropical Africa
+Ca36,Beni-Amer,18,38,mans1267,Beni Amer (Ca36),xd444,Beni Amer,1860,,,18,38,Original,,Northeast Tropical Africa
+Ca37,Blin,16,36,bili1260,Bogo (Ca37),xd445,Bogo; Belen; Bilin,1850,,,16,36,Original,,Northeast Tropical Africa
+Ca38,Tigre,17,39,mans1267,Tigre (Ca38),xd446,,1860,,,17,39,Original,,Northeast Tropical Africa
+Ca39,Jimma,8,37,west2721,Jimma (Ca39),xd447,,1930,,,8,37,Original,Change 15Dec2017: fuga1235 replaced with west2721 [gaz] based on comment by HH: Lewis (1965) refers to ethnographic data from the Jimma kingdom I guess it should be attributed to Mec'a Galla = Western Oromo [gaz]. Maybe there are facts in there about Giangero also but it merely mentions the Fuga without giving any data on them.,Northeast Tropical Africa
+Ca4,Iraqw,-4,35,iraq1241,Iraqw (Ca4),xd448,Erokh; Mbulu; Wambulu,1950,,,-4,35,Original,,East Tropical Africa
+Ca40,Baditu,6,38,koor1239,Baditu (Ca40),xd449,Amarro; Koira,1950,,,6,38,Original,,Northeast Tropical Africa
+Ac20,Yaka,-7,17,yaka1269,Yaka (Ac20),xd45,Bayaka; Giaka; Maiaca,1920,,,-7,17,Original,,West-Central Tropical Africa
+Ca41,Dorse,6,38,dorz1235,Dorse (Ca41),xd450,Dorze,1950,,,6,38,Original,,Northeast Tropical Africa
+Ca42,Shako,7,36,shek1245,Shako (Ca42),xd451,Chako; Shekke; Tschako,1950,,,7,36,Original,,Northeast Tropical Africa
+Ca43,Hadendowa,18,36,hade1248,Hadendowa (Ca43),xd452,Hendawa,1930,,,18,36,Original,,Northeast Tropical Africa
+Ca5,Bisharin,20,35,bish1251,Bisharin (Ca5),xd453,,1930,,,20,35,Original,,Northeast Tropical Africa
+Ca6,Afar,12,42,afar1241,Afar (Ca6),xd454,Danakil; Dankali,1880,,,12,42,Original,,Northeast Tropical Africa
+Ca7,Amhara,13,38,amha1245,Amhara (Ca7),xd455,,1950,Amhara (MP05),MP05,13,38,Original,,Northeast Tropical Africa
+Ca8,Gurage,8,38,seba1251,Gurage (Ca8),xd456,,1940,,,8,38,Original,,Northeast Tropical Africa
+Ca9,Goroa,-4,36,goro1270,Goroa (Ca9),xd457,Fiome; Guruma,1890,,,-4,36,Original,,East Tropical Africa
+Cb1,Maguzawa,12,10,kano1249,Maguzawa (Cb1),xd458,Pagan Hausa,1940,Hausa (MS12),MS12,12,10,Original,,West Tropical Africa
+Cb10,Karekare,12,11,kare1348,Karekare (Cb10),xd459,,1920,,,12,11,Original,,West Tropical Africa
+Ac21,Bunda,-5,19,mpuo1241,Bunda (Ac21),xd46,Ambundu; Babunda,1910,,,-5,19,Original,,West-Central Tropical Africa
+Cb11,Midobi,16,27,mido1240,Midobi (Cb11),xd460,Meidob,1900,,,16,27,Original,,Northeast Tropical Africa
+Cb12,Gimma,13,32,nort3133,Gimma (Cb12),xd461,Gimaa,1920,,,13,32,Original,,Northeast Tropical Africa
+Cb13,Habbaniya,11,25,nort3133,Habbania (Cb13),xd462,Habbania,1930,,,11,25,Original,,Northeast Tropical Africa
+Cb14,Hemat,11,20,bath1248,Hemat (Cb14),xd463,Baggara; Heimad,1910,,,11,20,Original,,Northeast Tropical Africa
+Cb15,Messiria Humr,11,28,tama1331,Messiria Humr (Cb15),xd464,,1940,,,11,28,Original,Note 8Feb2018: Changed based on note from HH: This may/may not be the intended attribution. Messiria are switching towards Sudanese Arabic but their ancestral language is Tama [tma].,Northeast Tropical Africa
+Cb16,Shuwa,13,15,char1283,Shuwa (Cb16),xd465,Chiwa; Shoa,1920,,,13,15,Original,,Northeast Tropical Africa
+Cb17,Fur,12,24,furr1244,Fur (Cb17),xd466,Darfur,1880,,,12,24,Original,,Northeast Tropical Africa
+Cb18,Kanembu,14,14,kane1243,Kanembu (Cb18),xd467,,1930,,,14,14,Original,,Northeast Tropical Africa
+Cb19,Kanuri,12,13,cent2050,Kanuri (Cb19),xd468,,1870,Kanuri (MS14),MS14,12,13,Original,Note 8Feb2018: Changed based on note from HH: Cohen's works refer to the Kanuri of Bornu = Central Kanuri [knc],West Tropical Africa
+Cb2,Wolof,15,-17,nucl1347,Wolof (Cb2),xd469,,1950,Wolof (MS30),MS30,15,-17,Original,,West Tropical Africa
+Ac22,Dzing,-4,20,ding1239,Dzing (Ac22),xd47,Badinga; Dinga,1930,,,-4,20,Original,,West-Central Tropical Africa
+Cb20,Zerma,13,3,zarm1239,Zerma (Cb20),xd470,Dyerma,1920,,,13,3,Original,,West Tropical Africa
+Cb21,Djafun,8,13,adam1253,Djafun (Cb21),xd471,Djafun Fulani,1930,,,8,13,Original,,West-Central Tropical Africa
+Cb22,Liptako,14,0,west2454,Liptako (Cb22),xd472,,1920,,,14,0,Original,,West Tropical Africa
+Cb23,Tukulor,14.73,-14.32,pula1263,Tukulor (Cb23),xd473,Tekrur; Torado,1930,,,1,-14,Revised,,West Tropical Africa
+Cb24,Wodaabe Fulani,12,12,boro1274,Wodaabe Fulani (Cb24),xd474,Pastoral Fulani; Wodaabe,1950,,,12,12,Original,,West Tropical Africa
+Cb25,Tazarawa Hausa,14,8,arew1238,Tazarawa (Cb25),xd475,,1930,,,14,8,Original,"Note 22Jul2021 - language match changed by KK to dialect arew1238 (from haus1257). The Tazarawa Hausa are a northern group of Hausa, and this dialect seems a good match.",West Tropical Africa
+Cb26,Zazzagawa Hausa,11,8,haus1257,Zazzagawa Hausa (Cb26),xd476,Hausa; Zazzagawa; Hausa of Zaria; Hausa of Zazzau,1950,Hausa (MS12),MS12,11,8,Original,"Note 22Jul2021 - matched to language haus1257, replacing previous match to dialect araw1280 (this match was deemed inaccurate - according to Wikipedia, araw1280 is a northern dialect, when instead the best match would be a southern dialect. No southern dialect was found in Glottolog, hence the language-level match.) Suggestion: Glottolog should add a southern dialect. According to wikipedia page for Hausa Language,  ""Zazzaganci in Zazzau is the major Southern dialect""; according to SCCS pinpointing sheets, Zazzagawa Hausa are those in the Zaria (also known as the 'Zazzau Emirate') region.",West Tropical Africa
+Cb27,Bachama,10,12,baca1246,Bachama (Cb27),xd477,,1920,,,10,12,Original,,West Tropical Africa
+Cb28,Dera,10,12,dera1248,Dera (Cb28),xd478,Kanakuru,1920,,,10,12,Original,,West Tropical Africa
+Cb29,Ngizim,12,10,ngiz1242,Ngizim (Cb29),xd479,,1920,,,12,10,Original,,West Tropical Africa
+Ac23,Lele,-5,21,lele1265,Lele (Ac23),xd48,Bashilele; Wongo,1950,,,-5,21,Original,,West-Central Tropical Africa
+Cb3,Songhai,17,-1,koyr1242,Songhai (Cb3),xd480,,1940,Songhai (MS20),MS20,17,-1,Original,"Changed to koyr1242 from zarm1239 on 3Oct2018. Reason: The SCCS focus is on the ""Bamba, or central division"" Songhai. The Bamba dialect of Koyraboro Senni Songhai appears to dominate in the Bamba area. (""The major dialectal differences [in Koyraboro Senni Songhai] involve the Bamba area in the west versus the mainstream dialect (from the Gao area to the border). [...] Bamba [dialect] is represented by 66 pages of texts [in Heath's ""Texts in Koroboro Senni Songhay of Gao, Mali""] , enough to bring out the grammatical particularities of this variety."") (Note previous D-PLACE changes include a change on 8Feb2018 from Humburi Senni Songhay (humb1243) to Zarma-Kaado-Dendi (zarm1239). This change was incorrect, and is superceded by the change to koyr1242). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",West Tropical Africa
+Cb4,Hasania,14,32,khar1296,Hasania (Cb4),xd481,Hassanyeh,1920,,,14,32,Original,,Northeast Tropical Africa
+Cb5,Buduma,13,15,budu1265,Buduma (Cb5),xd482,Yedina; Yedina,1910,,,13,15,Original,,Northeast Tropical Africa
+Cb6,Tera,11,12,tera1251,Tera (Cb6),xd483,,1920,,,11,12,Original,,West Tropical Africa
+Cb7,Bolewa,11,11,nucl1695,Bolewa (Cb7),xd484,Bole; Borlawa; Fika,1920,,,11,11,Original,,West Tropical Africa
+Cb8,Bororo Fulani,13,5,boro1274,Bororo Fulani (Cb8),xd485,Fulbe; Fuel,1920,,,13,5,Original,,West Tropical Africa
+Cb9,Hausa Kanawa,12,9,kano1249,Hausa Kanawa (Cb9),xd486,Hausa,1940,Hausa (MS12),MS12,12,9,Original,,West Tropical Africa
+Cc1,Regeibat,22,-13,hass1238,Regeibat (Cc1),xd487,Rgibat,1950,,,22,-13,Original,,West Tropical Africa
+Cc10,Asben,18,8,taya1257,Asben (Cc10),xd488,Air Tuareg; Kel Air,1900,,,18,8,Original,"Note 8Feb2018: Glottocode changed to [thz] (Tayart Tamajeq) based on note from HH. At least 3 of the references refer to the Air Tuareg (=[thz], and the society name itself is ""Asben"", which some googling suggests was a synonym for Air/Tuareg Kingdom (p. 125 of Robinson and Smith 1979). However, at least one reference refers to the ""Kel Tadele"" in its title; Wikipedia lists the Kel Tadele as a group ""to the west of Aïr [i.e., thz] in the Tamesna plain"". Thus, the user may wish to investigate whether cultural descriptions combine the practices of more than one Touareg language group.",West Tropical Africa
+Cc11,Azjer,25,10,ghat1242,Azjer (Cc11),xd489,Adjeur,1860,,,25,10,Original,,Northern Africa
+Ac24,Sakata,-3,18,saka1287,Sakata (Ac24),xd49,Balesa; Basakata; Lesa,1910,,,-3,18,Original,,West-Central Tropical Africa
+Cc12,Ifora,20,2,tadh1242,Ifora (Cc12),xd490,,1944,,,20,2,Original,,West Tropical Africa
+Cc13,Udalan Tuareg,16,0,timb1263,Udalan (Cc13),xd491,Udalan,1920,,,16,0,Original,,West Tropical Africa
+Cc14,Daza,17,18,daza1242,Daza (Cc14),xd492,Dasa; Dazagada,1880,,,17,18,Original,,Northeast Tropical Africa
+Cc15,Drawa,31,-7,susi1238,Drawa (Cc15),xd493,,1920,,,31,-7,Original,,Northern Africa
+Cc16,Chaambra,32,3,algi1247,Chaambra (Cc16),xd494,Schanba,1930,,,32,3,Original,,Northern Africa
+Cc17,Delim,22,-15,hass1238,Delim (Cc17),xd495,Oulad Delim,1930,,,22,-15,Original,,Northern Africa
+Cc18,Kunta,19,-1,hass1238,Kunta (Cc18),xd496,Kounta,1910,,,19,-1,Original,,West Tropical Africa
+Cc19,Trarza,18,-15,hass1238,Trarza (Cc19),xd497,,1950,,,18,-15,Original,,West Tropical Africa
+Cc2,Teda,21,17,teda1241,Teda (Cc2),xd498,Toubou,1950,Teda (MS22),MS22,21,17,Original,,Northeast Tropical Africa
+Cc20,Zenaga,18,-8,zena1248,Zenaga (Cc20),xd499,,1910,,,18,-8,Original,,West Tropical Africa
+Aa5,Mbuti,2,28,bila1255,Mbuti (Aa5),xd5,Sua; BaSua; Kango; BaKango; Bambuti; BaMbuti Pygmies,1930,Mbuti (FO04),FO04,2,28,Original,"Note 8Feb2018: Changed. Focus is ""Epulu net-hunters, Ituri forest"". From White pinpointing sheets: ""The Pygmies and Pygmoid peoples of the Congo have been pushed into smaller and smaller areas of the tropical forest since the invasions of Bantu and Sudanic tribes in the 16-17th centuries, and most of the groups have adopted the languages of invading tribes with whom they allied themselves. Mbuti pygmies have adopted the languages of the Bira to the south of them, the Lese to the east, the Mangbetu and Azande to the northwest, and the Mamvu-Mangutu to the north. The [...] Epulu group studied by Turnbull situated to the north of the Ituri and Epulu Rivers, and the majority of the other groups to the south of the Ituri River [...] are net-hunters, and speak a language largely influenced by the Forest Bira."" Note, though, that Ember concordance lists the language as Lese.",West-Central Tropical Africa
+Ac25,Songo,-5,18,song1299,Songo (Ac25),xd50,Basongo,1930,,,-5,18,Original,,West-Central Tropical Africa
+Cc3,Siwans,29,26,siwi1239,Siwans (Cc3),xd500,,1920,Siwans (MR14),MR14,29,26,Original,,Northern Africa
+Cc4,Mzab,33,4,tumz1238,Mzab (Cc4),xd501,Beni Mzab; Mozabites,1920,,,33,4,Original,,Northern Africa
+Cc5,Kel Antessar,18,-3,timb1263,Antessar (Cc5),xd502,Antessar; Kel Antessar; Tuareg north of Timbuctoo,1910,,,18,-3,Original,,West Tropical Africa
+Cc6,Kababish,17,31,nort3133,Kababish (Cc6),xd503,Kubbabish,1910,,,17,31,Original,,Northeast Tropical Africa
+Cc7,Barabish,20,-5,hass1238,Barabish (Cc7),xd504,,1950,,,20,-5,Original,,West Tropical Africa
+Cc8,Aulliminden,8,2,ioul1238,Aulliminden (Cc8),xd505,Oulliminden,1890,,,8,2,Original,,West Tropical Africa
+Cc9,Tuareg Ahaggar,23,6,hogg1238,Tuareg Ahaggar (Cc9),xd506,Tuareg,1920,Tuareg (MS25),MS25,23,6,Original,,Northern Africa
+Cd1,Barabra,23,33,kenu1236,Barabra (Cd1),xd507,Kenuzi Nubians,1920,,,23,33,Original,,Northern Africa
+Cd10,Zekara,34,-2,tari1263,Zekara (Cd10),xd508,Zkara,1900,,,34,-2,Original,"Changed 2Aug2021: After additional research, this cultural data appears to a group speaking tari1263, even though one of the references refers to Beni Snous (previously changed on 8Feb2018 based on note from HH: Beni Snous = Western Algerian Berber [cnu] chen1266).",Northern Africa
+Cd11,Guanche,27.99,-15.62,guan1277,Guanche (Cd11),xd509,,1500,,,28,-16,Revised,,Macaronesia
+Ac26,Yanzi,-4,18,yans1239,Yanzi (Ac26),xd51,Bayansi; Wachanzi,1920,,,-4,18,Original,,West-Central Tropical Africa
+Cd12,Algerians,31,2,algi1247,Algerians (Cd12),xd510,,1870,,,31,2,Original,,Northern Africa
+Cd13,Hamama,30,9,sout3114,Hamama (Cd13),xd511,,1930,,,30,9,Original,,Northern Africa
+Cd14,Hamyan,35,2,oran1236,Hamyan (Cd14),xd512,Hamian,1870,,,35,2,Original,,Northern Africa
+Cd15,Jebala,35,-5,jebl1238,Jebala (Cd15),xd513,Djebala,1910,,,35,-5,Original,,Northern Africa
+Cd16,Moroccans,33,-8,sout3117,Moroccans (Cd16),xd514,,1930,,,33,-8,Original,,Northern Africa
+Cd17,Nail,35,5,cons1245,Nail (Cd17),xd515,Ulad Nail,1920,,,35,5,Original,,Northern Africa
+Cd18,Saadi,30,28,said1239,Saadi (Cd18),xd516,,1920,Libyan Bedouin (MT09),MT09,30,28,Original,,Northern Africa
+Cd19,Sahel,35,10.94,sahi1245,Sahel (Cd19),xd517,Eastern Tunisians (Sahel Region),1920,,,35,11,Revised,,Northern Africa
+Cd2,Egyptians,25,33,egyp1253,Egyptians (Cd2),xd518,Fellahin; Fellaheen,1950,Fellahin (MR13),MR13,25,33,Original,,Northern Africa
+Cd20,Sanusi,31,22,liby1240,Sanusi (Cd20),xd519,Cyrenaican Bedouin,1940,Libyan Bedouin (MT09),MT09,31,22,Original,,Northern Africa
+Ac27,Luchazi,-13,23,luch1239,Luchazi (Ac27),xd52,Balochasi; Kaluchazi; Valuchazi,1930,,,-13,23,Original,,South Tropical Africa
+Cd21,Tunisians,37,10,tuni1260,Tunisians (Cd21),xd520,,1930,,,37,10,Original,,Northern Africa
+Cd3,Riffians,35,-4,tari1263,Riffians (Cd3),xd521,,1920,Berbers of Morocco (MX03),MX03,35,-4,Original,,Northern Africa
+Cd4,Kabyle,36,4,kaby1243,Kabyle (Cd4),xd522,,1890,,,36,4,Original,,Northern Africa
+Cd5,Shluh,30,-9,susi1238,Shluh (Cd5),xd523,Shilha; Islhiyn; Chleuch,1920,Shluh (MW11),MW11,30,-9,Original,,Northern Africa
+Cd6,Ancient Egyptians,30,31,egyp1246,Ancient Egypt (Cd6),xd524,Ancient Egypt,-1400,,,30,31,Original,,Northern Africa
+Cd7,Beraber,33,-7,cent2194,Beraber (Cd7),xd525,,1910,,,33,-7,Original,,Northern Africa
+Cd8,Shawiya,36,7,tach1249,Shawiya (Cd8),xd526,Chaouia,1910,,,36,7,Original,,Northern Africa
+Cd9,Tekna,28,-11,hass1238,Tekna (Cd9),xd527,Tekena,1900,,,28,-11,Original,,Northern Africa
+Ce1,Gheg,42,20,gheg1238,Gheg (Ce1),xd528,Albanians,1900,Albanians (EG01),EG01,42,20,Original,,Southeastern Europe
+Ce2,Portuguese,42,-7,gali1257,Portuguese (Ce2),xd529,,1950,,,42,-7,Original,,Southwestern Europe
+Ac28,Luimbe,-12,18,luim1238,Luimbe (Ac28),xd53,Baluimbi; Valuimbe,1930,,,-12,18,Original,,South Tropical Africa
+Ce3,Ancient Romans,42,12,lati1261,Romans (Ce3),xd530,Romans,100,Imperial Romans (EI09),EI09,42,12,Original,,Southeastern Europe
+Ce4,French Basques,43,-1,labo1236,Basques (Ce4),xd531,Euskaldunak; Basques; French Basques,1930,Basques (EX08),EX08,43,-1,Original,,Southwestern Europe
+Ce5,Neapolitans,40.89,14.25,neap1235,Neapolitians (Ce5),xd532,Neapolitians,1960,,,41,13,Revised,,Southeastern Europe
+Ce6,Spaniards,37,-6,stan1288,Spaniards (Ce6),xd533,,1950,,,37,-6,Original,,Southwestern Europe
+Ce7,Greeks,39,23,mode1248,Greeks (Ce7),xd534,Hellenes,1950,Greece (EH01),EH01,39,23,Original,,Southeastern Europe
+Ce8,Spanish Basques,43,-2,west1508,Spanish Basques (Ce8),xd535,Spanish Basques,1934,Basques (EX08),EX08,43,-2,Original,,Southwestern Europe
+Cf1,New Englanders,42,-73,stan1293,New England (Cf1),xd536,New England,1920,,,42,-73,Original,"Note, should probably be matched to a dialect other than 'standard english'",Northeastern U.S.A.
+Cf2,Boers,-16,28,afri1274,Boers (Cf2),xd537,Afrikanders,1850,,,-16,28,Original,,South Tropical Africa
+Cf3,Tristan da Cunha,-37.11,-12.27,stan1293,Tristan da Cunha (Cf3),xd538,,1930,,,-37,-12,Revised,"Note, should probably be matched to a dialect other than 'standard english'",Subantarctic Islands
+Cf4,Brazilians,-23.68,-46.64,braz1246,Brazilians (Cf4),xd539,,1940,,,-43,-47,Revised,,Brazil
+Ac29,Luwa,-7,19,sond1250,Luwa (Ac29),xd54,Balua,1930,,,-7,19,Original,,West-Central Tropical Africa
+Cf5,French Canadians,47,-72,queb1247,French Canadians (Cf5),xd540,,1930,,,47,-72,Original,stan1290 replaced with queb1247 in Oct 2017 because it is a better match,Eastern Canada
+Cg1,Dutch,53,7,dutc1256,Dutch (Cg1),xd541,,1950,,,53,7,Original,,Middle Europe
+Cg2,Icelanders,64,-20,icel1247,Icelanders (Cg2),xd542,,1100,Early Icelanders (EQ02),EQ02,64,-20,Original,,Northern Europe
+Cg3,Irish,53,-9,iris1253,Irish (Cg3),xd543,Gaelic,1930,Rural Irish (ER06),ER06,53,-9,Original,,Northern Europe
+Cg4,Sami,68,22,nort2671,Lapps (Cg4),xd544,Lapps,1950,Lapps (EP04),EP04,68,22,Original,"25Sept2018 - glotto id changed from nort2671 to lule1254 on 25Sept2018 as previous change was only applied to ISO code. 8April2017 - Changed from smj to sme based on comment from H. Hammarström: Haglund worked with Karesuando Saami, which is Northern Sami [sme]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Northern Europe
+Cg5,Walloons,50,5,wall1255,Walloons (Cg5),xd545,,1950,,,50,5,Original,,Middle Europe
+Ch1,Serbs,44,20,serb1264,Serbs (Ch1),xd546,Serbians,1950,Serbs (EF06),EF06,44,20,Original,,Southeastern Europe
+Ch10,Romanians,45,26,baya1255,Romanians (Ch10),xd547,,1910,,,45,26,Original,"Note, previously baya1254 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Southeastern Europe
+Ch11,Russians,53,41,russ1263,Russians (Ch11),xd548,,1955,,,53,41,Original,,Eastern Europe
+ch12,Bashkir,54,56,bash1264,Bashkir (ch12),xd549,Basquort; Bashkort; Bashkiry,1899,,,54,56,Original,,Eastern Europe
+Ac3,Bemba,-11,31,town1238,Bemba (Ac3),xd55,Awemba,1900,Bemba (FQ05),FQ05,-11,31,Original,,South Tropical Africa
+ch13,Besermyan,58,52,nort2676,Besermyan (ch13),xd550,Beserman; Besermen; Besermyane,1894,,,58,52,Original,,Eastern Europe
+ch14,Chuvash,57,53,chuv1255,Chuvash (ch14),xd551,Chavash; Chuvashy,1908,,,57,53,Original,,Eastern Europe
+ch15,Erzya Mordvins,53,50,erzy1239,Erzia mordva (ch15),xd552,Erzia mordva; Erzia Mordvins; Erzja Mordvins; Mordva; Mordvinians; Mordovians; erzät,1895,,,53,50,Original,,Eastern Europe
+ch16,Estonians,59,26,esto1258,Estonians (ch16),xd553,Eestlased; Maarahvas; Hiumaases; Saaremaased; Setu; Estontsy; Chud,1908,,,59,26,Original,,Eastern Europe
+ch17,Gagauz,45.44,29.32,gaga1249,Gagauz (ch17),xd554,Christian Bulgars; Hıristiyan-Bulgar; Gagauzi; Gagauzy,1894,,,45,29,Revised,,Eastern Europe
+ch18,Ingrians,59,29,ingr1248,Ingrians (ch18),xd555,Izhorians; Izhora; Inkerilainen; Inkeroine; Izhoralaine; Karjalain; Inkerin Suomalainen; Ingrian Finns; Izhortsy,1927,,,59,29,Original,,Eastern Europe
+ch19,Karelians,64,33,livv1243,Karelians (ch19),xd556,Karjalaizet; Karjalaini; Karely; Livgilyajne; Livvikjoj; Lyuudilaine; Lyuudikjo,1874,,,64,33,Original,,Eastern Europe
+Ch2,Hutsuls,49,24,sout2604,Hutsul (Ch2),xd557,Hutsul; Hucul; Huzul,1890,,,49,24,Original,,Eastern Europe
+ch20,Kazan tatar,55,50,midd1325,Kazan tatar (ch20),xd558,Kazanskie Tatary; Kazanly; Tatarlar,1910,,,55,50,Original,,Eastern Europe
+ch21,Latvians,57,24,latv1249,Latvians (ch21),xd559,Latvieshi; Latyshi,1881,,,57,24,Original,,Eastern Europe
+Ac30,Plateau Tonga,-18,28,tong1318,Plateau Tonga (Ac30),xd56,Batonga,1940,Tonga (FQ12),FQ12,-18,28,Original,,South Tropical Africa
+ch22,Lithuanian Karaim,55,23,kara1464,Lithuanian Karaim (ch22),xd560,Karaites; Karaila,1895,,,55,23,Original,,Eastern Europe
+ch23,Lithuanian Tatar,55,24,west2405,Lithuanian Tatar (ch23),xd561,,1905,,,55,24,Original,,Eastern Europe
+ch24,Livs,57,23,livv1244,Livs (ch24),xd562,Livians; Livonians; Liivod; Liibod; Liivnikad; Liivlist; Kalamied; Raandalis,1847,,,57,23,Original,,Eastern Europe
+ch25,Moldovans,47,29,mold1248,Moldovans (ch25),xd563,Moldoven; Moldavans; Moldavane,1900,,,47,29,Original,"Note, previously mold1247 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Eastern Europe
+ch26,Udmurt,57,53,sout2681,Udmurt (ch26),xd564,Utmort; Ukmort; Udmurty; Votiak; Votyak; Votjaki,1890,,,57,53,Original,,Eastern Europe
+ch27,Veps,61,35,veps1250,Veps (ch27),xd565,Vepsians; Chudy; Chukhari; Chuhari; Bepsya; Bepsja; Veps' Lyudinikad; Tyagalazhet; Tjagalazhet,1900,,,61,35,Original,,Eastern Europe
+ch28,Votes,59,29,voti1245,Votes (ch28),xd566,Vod'; Maavaitchi; Vod,1900,,,59,29,Original,,Eastern Europe
+Ch3,Czechs,50,16,czec1258,Czechs (Ch3),xd567,,1940,,,50,16,Original,,Middle Europe
+Ch4,Mari,43,46,east2328,Cheremis (Ch4),xd568,Cheremis,1900,,,43,46,Original,,Caucasus
+Ch5,Bulgarians,43,24,bulg1262,Bulgarians (Ch5),xd569,,1940,Bulgarians (EE01),EE01,43,24,Original,,Southeastern Europe
+Ac31,Buye,-7,28,buyu1239,Buye (Ac31),xd57,Babui,1910,,,-7,28,Original,,West-Central Tropical Africa
+Ch6,Byelorussians,55,28,bela1254,Byelorussians (Ch6),xd570,White Russians,1910,,,55,28,Original,,Eastern Europe
+Ch7,Ukrainians,48,36,east2270,Ukrainians (Ch7),xd571,Ukranians,1930,Ukraine (RD01),RD01,48,36,Original,,Eastern Europe
+Ch8,Magyar,47,20,hung1274,Hungarian (Ch8),xd572,Magyarok; Hungarian,1940,Hungary (EC01),EC01,47,20,Original,,Middle Europe
+Ch9,Lithuanians,55,24,lith1251,Lithuanians (Ch9),xd573,,1930,,,55,24,Original,,Eastern Europe
+Ci1,Kalmyk,46,46,kalm1243,Kalmyk (Ci1),xd574,Kalmuck,1920,,,46,46,Original,"Note 8Feb2018: Note that some of the references that are almost certainly associated with this case (focus is ""Baga Dorbed"") were originally listed after Ag14 ""Baga"" (aberle1953; krader1963; vladimirtsov1948)",Eastern Europe
+Ci10,Armenians,40,45,nucl1235,Armenians (Ci10),xd575,,1900,,,40,45,Original,,Caucasus
+Ci11,Kurd,32,44,cent1972,Kurd (Ci11),xd576,,1940,Kurd (MA11),MA11,32,44,Original,,Western Asia
+Ci12,Abkhaz,43,41,abkh1244,Abkhaz (Ci12),xd577,,1880,Abkhaz (RI03),RI03,43,41,Original,,Caucasus
+Ci2,Khevsur,43,45,xevs1238,Khevsur (Ci2),xd578,Chevsur,1930,,,43,45,Original,,Caucasus
+Ci3,Kumyk,42,48,kumy1244,Kumyk (Ci3),xd579,Kumuk,1900,,,42,48,Original,,Caucasus
+Ac32,Kaonde,-13,26,kaon1241,Kaonde (Ac32),xd58,Bakaonde,1920,,,-13,26,Original,,South Tropical Africa
+Ci4,Cherkess,44,42,kaba1278,Cherkess (Ci4),xd580,Circassians,1920,,,44,42,Original,,Caucasus
+Ci5,Turks,38,30,nucl1301,Turks (Ci5),xd581,,1950,Turks (MB01),MB01,38,30,Original,,Western Asia
+Ci6,Ossetians,43,44,digo1242,Osset (Ci6),xd582,Osset; Ossete,1880,,,43,44,Original,,Caucasus
+Ci7,Chechen,43,46,chec1245,Chechen (Ci7),xd583,,1900,,,43,46,Original,,Caucasus
+Ci8,Georgians,42,45,imer1248,Georgians (Ci8),xd584,Kartvelebi; Grusians; Kartveli,1850,Georgia (RI01),RI01,42,45,Original,,Caucasus
+Ci9,Svan,43,43,svan1243,Svan (Ci9),xd585,Mushüan,1910,,,43,43,Original,,Caucasus
+Cj1,Syrians,36,36,nort3142,Syrians (Cj1),xd586,,1950,Syria (MD01),MD01,36,36,Original,"Note, previously matched to a dialect of nort3139 (nort3140); corrected to [nort3142][ayp] on 5Sept2018. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Western Asia
+Cj10,Madan,31,47,meso1252,Madan (Cj10),xd587,Marsh Arabs; Ma'dan; Ma'adan,1950,,,31,47,Original,,Western Asia
+Cj2,Rwala,33,37,east2690,Rwala (Cj2),xd588,Rwala Bedouin,1920,Rwala (MD04),MD04,33,37,Original,"Changed from ars to avl on 8 April 2017 based on comment from H. Hammarström: The sources pertain to edouin tribes of the Sinai (like the Rwala) they are covered in the Eastern Egyptian Bedawi Arabic entry in Ethnologue [avl]. April 2019: Note that HRAF summary suggests a link to najd1235 (ars) is more appropriate, however najd1235 is spoken further East than the territory described by the same HRAF summary (which reports Rwala Bedouin as grazing their livestock along the Jordan-Saudia Arabia border, North to Damascus (or even Homs), South to the Nafud desert, east (sometimes) to Karbala, Iraq).",Western Asia
+Cj3,Hebrews,32,35,anci1244,Hebrews (Cj3),xd589,,-800,,,32,35,Original,Changed from hebr [hbr] to anci1244 [hbo] in Nov 2018 based on date of cultural observations,Western Asia
+Ac33,Lala,-15,31,lala1264,Lala (Ac33),xd59,Balala,1940,,,-15,31,Original,,South Tropical Africa
+Cj4,Babylonians,32,45,akka1240,Babylonians (Cj4),xd590,,-2000,,,32,45,Original,Changed from tmr to akk on 8 April 2017 based on comment from H. Hammarström: several [of the sources] deal with Babylonia in Hammurabi's time. The language spoken by this culture was Akkadian [akk].,Western Asia
+Cj5,Mutair,28,47,sout3119,Mutair (Cj5),xd591,,1930,,,28,47,Original,,Arabian Peninsula
+Cj6,Jordanians,32,36,sout3123,Jordanians (Cj6),xd592,,1950,Jordan (MG01),MG01,32,36,Original,,Western Asia
+Cj7,Lebanese,34,36,nort3139,Lebanese (Cj7),xd593,,1950,Lebanon (ME01),ME01,34,36,Original,"Note, previously matched to a dialect of nort3139 (nort3141); rematched to [nort3139] after ""Syrians"" linked to a different language (so no longer sharing tip of nort3139 with ""Lebanese"" (5Sept2018). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Western Asia
+Cj8,Druze,32.77,35.03,sunn1238,Druze (Cj8),xd594,,1930,,,33,35,Revised,,Western Asia
+Cj9,Yemeni,15,45,sana1295,Yemeni (Cj9),xd595,,1950,Yemen (ML01),ML01,15,45,Original,,Arabian Peninsula
+Ea1,Sindhi,25,68,sind1272,Sindhi (Ea1),xd596,Hindu Sindhi,1950,,,25,68,Original,,Indian Subcontinent
+Ea10,Marri,30,69,east2304,Marri (Ea10),xd597,,1950,,,30,69,Original,,Indian Subcontinent
+Ea11,Ghilzai,33,68,ghil1238,Afghans (Ea11),xd598,Pashtuns; Pushtun; Afghans,1950,,,33,68,Original,,Western Asia
+Ea12,Qashqui,30,52,qash1240,Quahgai (Ea12),xd599,Quahgai; Qashgai,1940,,,30,52,Original,,Western Asia
+Aa6,Sandawe,-5,36,sand1273,Sandawe (Aa6),xd6,Wasandaui,1920,,,-5,36,Original,,East Tropical Africa
+Ac34,Luapula,-10,29,luun1238,Luapula (Ac34),xd60,Bena Kazembe,1940,,,-10,29,Original,,South Tropical Africa
+Ea13,Punjabi,32,73,west2386,"Punjabi, West (Ea13)",xd600,Punjabi (West),1950,,,32,73,Original,"Note 8Feb2018: Changed based on note by HH: ""References look more like Western Panjabi [pnb] in Pakistan"". Focus does indeed seem to be in Western Pakistan. Note that there is an unclear note in the White SCCS pinpointing sheet for this society: ""Representative of West Punjabi (not in the Ethnographic Atlas) [sic]; Focus: Village of Mohla, Punjabi of southern Rawalpindi and northern Lahore Divisions, 32°30N and 74°E, about 1952 [...] The village of Mohla, studied by Eglar, is the most fully described, and represents the less developed form of agriculture, lacking irrigation. Coders should be careful in inferring from other village studies, since each village is highly distinctive in terms of caste composition and economic position. Honigmann's village, in the desert of southwest Rawalpindi, was founded very recently by East Punjabi are close [sic]; this village utilizes newly constructed irrigation works. The village surveys by Dass and Ghulam Yasim have not been evaluated.""",Indian Subcontinent
+Ea2,Yusufzai,35,72,yusu1238,Pathan (Ea2),xd601,Pukhtun; Pathan; Yusufsai; Yūsufzai; Yousafzai,1950,Pashtun (AU04),AU04,35,72,Original,,Indian Subcontinent
+Ea3,Hazara,35,66,haza1239,Hazara (Ea3),xd602,,1930,,,35,66,Original,,Western Asia
+Ea4,Kohistani,35,73,indu1241,Kohistani (Ea4),xd603,Kohistei; Mayan,1950,,,35,73,Original,,Indian Subcontinent
+Ea5,Nuristani,36,71,kamv1242,Nuri (Ea5),xd604,Nuri; Kafirs; Kafiristanis,1890,,,36,71,Original,Changed to Kamviri (xvi) from pbu based on village in which one of two main sources spent most of his time (Kamdesh),Western Asia
+Ea6,Basseri,30,34,bass1257,Basseri (Ea6),xd605,,1958,Basseri (MA10),MA10,30,34,Original,,Western Asia
+Ea7,Moghol,34,63,mogh1245,Moghol (Ea7),xd606,Mongols of Afghanistan,1950,,,34,63,Original,,Western Asia
+Ea8,Bakhtiari,33,48,bakh1245,Bakhtiari (Ea8),xd607,,1920,,,33,48,Original,,Western Asia
+Ea9,Iranians,36,52,tehr1242,Iranians (Ea9),xd608,,1950,,,36,52,Original,,Western Asia
+Eb1,Kazakh,48,70,kaza1248,Kazak (Eb1),xd609,Kazak,1910,Kazakh (RQ02),RQ02,48,70,Original,,Middle Asia
+Ac35,Shila,-10,28,luba1250,Shila (Ac35),xd61,Awasira; Bashila; Wasira,1900,,,-10,28,Original,Note 8Feb2018: Changed based on note from HH: References indicate Bashila i.e. Luba-Katanga [lub] rather than Taabwa,West-Central Tropical Africa
+Eb2,Tu,39,100,tuuu1240,Monguor (Eb2),xd610,Monguor,1920,Monguor (AE09),AE09,39,100,Original,,China
+Eb3,Khalka,46,97,halh1238,Khalka (Eb3),xd611,Xanx; Khalka Mongols,1940,Mongolia (AH01),AH01,46,97,Original,,Mongolia
+Eb4,Dagur,49,125,daur1238,Dagur (Eb4),xd612,Dagor,1940,,,49,125,Original,,China
+Eb5,Turkmen,38,62,turk1304,Turkmen (Eb5),xd613,,1910,,,38,62,Original,,Middle Asia
+Eb6,Buryat,52,107,russ1264,Buryat (Eb6),xd614,,1900,,,52,107,Original,,Siberia
+Eb7,Chahar,41,115,peri1253,Chahar (Eb7),xd615,,1930,,,41,115,Original,,China
+Eb8,Uzbek,43,60,nort2690,Uzbek (Eb8),xd616,,1800,,,43,60,Original,,Middle Asia
+Ec1,Nivkh,53,142,gily1242,Gilyak (Ec1),xd617,Gilyak,1920,Nivkh (RX02),RX02,53,142,Original,,Russian Far East
+Ec10,Ob Ostyak,62,74,khan1273,Ob Ostyak (Ec10),xd618,,1880,,,62,74,Original,,Siberia
+Ec11,Selkup,59,90,selk1253,Selkup (Ec11),xd619,Ostyak Samoyed,1900,,,59,90,Original,,Siberia
+Ac36,Tumbuka,-12,34,tumb1250,Tumbuka (Ac36),xd62,Atimbuka; Batumbaka; Watumbaka,1920,,,-12,34,Original,,South Tropical Africa
+ec12,Nganasan,72,90,ngan1291,Nganasan (ec12),xd620,Tavgi Samoyed,1930,Samoyed_with_notes_on_Nganasan (RU04),RU04,72,90,Original,,Siberia
+ec13,Itelmen,54.98,161.79,itel1242,Itelmen (ec13),xd621,Itelymem; Kamchadal,1710,,,55,168,Revised,,Russian Far East
+ec14,Ungazikmit,64,-173,cent2128,Ungazikmit (ec14),xd622,Eskaleut; Asian Eskimo,1880,,,64,173,Revised,"9May2019 - longitude updated to place society in western rather than eastern hemisphere. 1Oct2018 - the update to Glottolog 3.3.2 forced re-mapping from dialect chap1266 (which no longer exists) to language (cent2128) (always the language-level match for this society). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Russian Far East
+ec15,Mansi,63,62,mans1258,Mansi (ec15),xd623,Vogul; Gogulich; Mansiy; Voguly,1880,,,63,62,Original,,Siberia
+ec16,Evenk,55,112,even1259,Evenk (ec16),xd624,Ewenki; Tungus; Chapogir; Avanki; Avankil; Solon; Khamnigan,1890,,,55,112,Original,,Siberia
+ec17,Negidal,52,134,negi1245,Negidal (ec17),xd625,Negidaly; Neghidal,1890,,,52,134,Original,,Russian Far East
+ec18,Ulch,50,136,ulch1241,Ulch (ec18),xd626,Ulchi; Ulcha; Ulych; Olch; Olcha; Olchis; Hoche; Hol-Chih.,1890,,,50,136,Original,,Russian Far East
+ec19,Orok,54.01,142.71,orok1265,Orok (ec19),xd627,Uilta; Ul'ta; Nani; Oroki; Oroc; Ulta; Ujlta,1890,,,54,142,Revised,,Russian Far East
+Ec2,Yakut,65,125,yaku1245,Yakut (Ec2),xd628,Sakha,1900,Yakut (RV02),RV02,65,125,Original,,Siberia
+ec20,Oroch,51,138,oroc1248,Oroch (ec20),xd629,Orochi,1890,,,51,138,Original,,Russian Far East
+Ac37,Kunda,-15,32,kund1255,Kunda (Ac37),xd63,Achikunda,1950,,,-15,32,Original,,South Tropical Africa
+ec21,Udihe,47,136,udih1248,Udihe (ec21),xd630,Udeghes; Udyhe; Udekhe; Udegeis,1890,,,47,136,Original,,Russian Far East
+Ec3,Chukchi,66,177,chuk1273,Chukchee (Ec3),xd631,lygoravetlyan; Ankalyn; Chavchu; Chukchee,1900,Chukchee (RY02),RY02,66,177,Original,,Russian Far East
+Ec4,Yurak-Samoyeds,68,75,nene1249,Yurak (Ec4),xd632,Nenets; Yurak,1900,Samoyed and/or Nenets (RU04/RU41),RU04,68,75,Original,,Siberia
+Ec5,Koryak,61.99,164.24,kory1246,Koryak (Ec5),xd633,,1900,Koryak (RY04),RY04,62,164,Revised,,Russian Far East
+Ec6,Yukaghir,70,145,nort2745,Yukaghir (Ec6),xd634,,1850,,,70,145,Original,,Siberia
+Ec7,Ainu,44,144,ainu1240,Ainu (Ec7),xd635,Ainu (Hokkaido); Hokkaido,1900,Ainu (AB06),AB06,44,144,Original,,Eastern Asia
+Ec8,Ket,62,90,kett1243,Ket (Ec8),xd636,Yenisei Ostyak; Yeniseians,1900,,,62,90,Original,,Siberia
+Ec9,Nanai,47,132,nana1257,Goldi (Ec9),xd637,Goldi; Gold,1920,,,47,132,Original,,China
+Ed1,Koreans,38.134147,126.960754,kore1280,Koreans (Ed1),xd638,,1950,Korea (AA01),AA01,35,102,Original,,Eastern Asia
+Ed10,Shantung,37,118,mand1415,Shantung (Ed10),xd639,,1930,,,37,118,Original,,China
+Ac38,Nyanja,-16,36,nucl1395,Nyanja (Ac38),xd64,Nyanja; Anyanja; Wanyanja; Waanyanja,1910,,,-16,36,Original,,South Tropical Africa
+Ed13,Ishigakians,24.46,124.14,yaey1239,Ishigakians (Ed13),xd640,,1940,,,24,124,Revised,,Eastern Asia
+Ed14,Man,22,105,kimm1245,Man (Ed14),xd641,Yao,,,,22,105,Original,,Indo-China
+Ed15a,Miyakans,24.79,125.32,miya1259,Miyakans (Ed15a),xd642,,1950,,,24,125,Revised,,Eastern Asia
+Ed15b,Chekiang,31,120,wuch1236,Chekiang (Ed15b),xd643,Chinese,1936,,,31,120,Original,,China
+Ed16,Cantonese,23,113,yuec1235,Cantonese (Ed16),xd644,,1940,,,23,113,Original,,China
+Ed2,Lolo,29,103,sich1238,Lolo (Ed2),xd645,Yi; Nosu,1940,Yi (AE04),AE04,29,103,Original,,China
+Ed3,Manchu,45,126,manc1252,Manchu (Ed3),xd646,,1920,Manchu (AG01),AG01,45,126,Original,,China
+Ed4,Miao,26,107,horn1235,Miao (Ed4),xd647,,1940,Miao (AE05),AE05,26,107,Original,"Changed from hea to hrm on 8 April 2017 based on comment by H. Hammarström: Based on where Ruey worked, language should be cqd or hrm (they are intelligible, which is why glottolog only has one entry for them).",China
+Ed5,Japanese,35,136,nucl1643,Japanese (Ed5),xd648,,1950,Okayama (AB43),AB43,35,136,Original,,Eastern Asia
+Ed6,Min Chinese,24,115,chao1239,Min Chinese (Ed6),xd649,,1920,,,24,115,Original,"7Nov2018-changed to Chaoshan dialect (from Min Nan Chinese language) based on consultation of primary source, and with the addition of dialects of Min Nan Chinese via new eHRAF societies",China
+Ac39,Nyasa,-13,35,mwer1247,Nyasa (Ac39),xd65,Anyassa; Wanyassa,1920,,,-13,35,Original,"Note 8Feb2018: Glottocode changed to mwer1247 based on note from HH questioning the previous match (to Mande). mwer1247s is a sister to Chewa, which was the other possible match. KK logic: The EA tells us only that the alternate names for the group are Wanyassa and Anyassa. The Johnson reference describes the Nyasa of Lake Nyasa (Lake Malawi in Tanzania). Carol Ember's concordance tells us the group is in Tanzania [note that the Concordance also selects Mande/mand1423 as a match, but not for a clear reason]. The uzh.ch EA site quotes Tew (1950:31) [the other ethnographic reference for this case]: ""Nyasa, on the east littoral of Lake Nyasa, extending as far north as the Matengo mountains (and including a settlement of freed Nyasa slaves at Masasi in Tanganyika), and southwards until they mingle with Yao settlements on the upper Msinje and Luchulingo rivers."" From Wikipedia: ""The people who are called Nyanja [in Malawi] – when the term is used as an ethnic designation to identify those who speak Nyanja or related languages called Nyanja – are known as Nyasa or Wanyasa in neighbouring Tanzania. The Chewa are the largest ethnic group among the people who speak these related languages."" KK summary: Thus, Chewa looks to be a defensible match, but glottolog provides a sister language to Chewa for Tanzania: ""Mwera (Nyasa)"" [mwer1247], which was selected.",South Tropical Africa
+Ed7,Okinawans,26.16,127.8,cent2126,Okinawans (Ed7),xd650,,1950,Okinawa (AC07),AC07,26,128,Revised,,Eastern Asia
+Ed8,Minchia,26,100,cent2004,Minchia (Ed8),xd651,,1930,,,26,100,Original,,China
+Ed9,Li,19,109,hlai1239,Li (Ed9),xd652,Sai; Hlai; Lai; Loi,1930,,,19,109,Original,,China
+Ee1,Adi,28,95,bori1243,Abor (Ee1),xd653,Abor,1940,,,28,95,Original,,Indian Subcontinent
+Ee2,Burusho,37,75,buru1296,Burusho (Ee2),xd654,,1930,Burusho (AV07),AV07,37,75,Original,,China
+Ee3,Lepcha,28,89,lepc1244,Lepcha (Ee3),xd655,Rong,1930,Lepcha (AK05),AK05,28,89,Original,,China
+Ee4,Central Tibetans,30,91,dbus1238,Tibetans (Ee4),xd656,,1920,Tibetans (AJ01),AJ01,30,91,Original,"12 Nov 2018 Assigned specific dialect to differentiate it from eHRAF society ""Western Tibetans"". From wikipedia: ""Central Tibetan, also known as Dbus, Ü or Ü-Tsang, is the most widely spoken Tibetic language and the basis of Standard Tibetan. There are many mutually intelligible Central Tibetan dialects besides that of Lhasa, with particular diversity along the border and in Nepal.""",China
+Ee5,Shina,35,73,shin1264,Dard (Ee5),xd657,Dard,1870,,,35,73,Original,,Indian Subcontinent
+Ee6,Sherpa,28,87,sher1255,Sherpa (Ee6),xd658,,1950,Sherpa (AK06),AK06,28,87,Original,,China
+Ee7,Kachari,27,90,kach1279,Kachari (Ee7),xd659,Bodo,1840,,,27,90,Original,,Indian Subcontinent
+Ac4,Kuba,-5,22,bush1247,Kuba (Ac4),xd66,Bakuba,1910,,,-5,22,Original,,West-Central Tropical Africa
+Ee8,Magar,28,84,west2418,Magar (Ee8),xd660,,1950,,,28,84,Original,"Note 8Feb2018: Changed to [mrd] based on comment by HH: ""Banyan Hill is close to latitude 84 and so is clearly Western Magar [mrd] on Ethnologue's division.""",Indian Subcontinent
+Ef1,Santal,24,87,sant1410,Santal (Ef1),xd661,Santhal; Saontal,1940,Santal (AW42),AW42,24,87,Original,,Indian Subcontinent
+Ef10,Bihari,25,86,mait1250,Bihari (Ef10),xd662,Bihar; Behari,1880,Bihar (AW02),AW02,25,86,Original,,Indian Subcontinent
+Ef11,Uttar Pradesh,26,83,bhoj1244,Uttar Pradesh (Ef11),xd663,,1945,Uttar (AW19),AW19,26,83,Original,,Indian Subcontinent
+Ef2,Bengali,23,88,beng1280,Bengali (Ef2),xd664,,1940,Bengali (AW69),AW69,23,88,Original,,Indian Subcontinent
+Ef3,Indo-Iranian,30,75,sans1269,Aryans (Ef3),xd665,Aryans; Indo-Aryans,-800,,,30,75,Original,,Indian Subcontinent
+Ef4,Ho,22,85,hooo1248,Ho (Ef4),xd666,,1920,,,22,85,Original,,Indian Subcontinent
+Ef5,Bhil,22,74,bhil1251,Bhil (Ef5),xd667,,1900,Bhil (AW25),AW25,22,74,Original,,Indian Subcontinent
+Ef6,Kurukh,23,85,kuru1302,Oraon (Ef6),xd668,Oraon,1940,,,23,85,Original,,Indian Subcontinent
+Ef7,Pahari,30,78,maha1287,Pahari (Ef7),xd669,,1950,,,30,78,Original,,Indian Subcontinent
+Ac40,Sena,-18,35,nucl1396,Sena (Ac40),xd67,Asena; Wasena,1900,,,-18,35,Original,,South Tropical Africa
+Ef8,Kashmiri,34,75,kash1277,Kashmir (Ef8),xd670,Kashmir; Kashmiri; Pandit; Sarasvati Brahmans,1950,Kashmiri (AV04),AV04,34,75,Original,,Indian Subcontinent
+Ef9,Gujarati,20,77,guja1252,Gujarati (Ef9),xd671,,1136,Gujarati (AW07),AW07,20,77,Original,,Indian Subcontinent
+Eg1,Chenchu,16,79,chen1255,Chenchu (Eg1),xd672,,1940,,,16,79,Original,,Indian Subcontinent
+Eg10,Telugu,18,79,telu1262,Telugu (Eg10),xd673,,1950,Telugu (AW17),AW17,18,79,Original,,Indian Subcontinent
+Eg11,Koya,19,78,koya1251,Koya (Eg11),xd674,Koitur,1960,,,19,78,Original,,Indian Subcontinent
+Eg12,Khond,18,82,kuii1252,Khond (Eg12),xd675,,1940,,,18,82,Original,,Indian Subcontinent
+Eg13,Muria Gond,20,81,west2408,Muria Gond (Eg13),xd676,,1941,Gond (AW32),AW32,20,81,Original,"Note 8Feb2018: Changed based on note by HH: ""Elwin's book concerns Muria of Kondagaon and Narayanpur Tahsil = Muria-Western [mut]"". Also, White SCCS pinpointing sheets for Hill Maria provide this detail on the location of the Muria Gond: ""the north-eastern plateau of Bastar, Kondagaon Tahsil.""",Indian Subcontinent
+Eg14,Reddi,18,82,mukh1238,Reddi (Eg14),xd677,,1940,,,18,82,Original,,Indian Subcontinent
+Eg2,Tamil,11,79,tami1289,Tamil (Eg2),xd678,,1880,Tamil (AW16),AW16,11,79,Original,,Indian Subcontinent
+Eg3,Madia,19,81,mari1414,Maria Gond (Eg3),xd679,Maria Gond; Gond,1938,Gond (AW32),AW32,19,81,Original,"Note 8Feb2018: Changed based on note by HH: Unclear why this is attributed to Dandami Maria rather than Maria [mrr]. Focus according to White SCCS pinpointing sheets: ""Hill Maria Gond of Antagarh and northern Kutru Districts, Bastar State.""",Indian Subcontinent
+Ac41,Makonde,-11,40,mako1251,Makonde (Ac41),xd68,Wamakonde,1900,,,-11,40,Original,,South Tropical Africa
+Eg4,Toda,12,77,toda1252,Toda (Eg4),xd680,,1900,Toda (AW60),AW60,12,77,Original,,Indian Subcontinent
+Eg5,Kodavas,12,76,koda1255,Coorg (Eg5),xd681,Coorg,1930,Kodava (AW05),AW05,12,76,Original,,Indian Subcontinent
+Eg6,Kerala,11,76,mala1464,Kerala (Eg6),xd682,,1799,Kerala (AW11),AW11,11,76,Original,"reclassified another society from [mal] to [xuj] on 26 May 2016; as a result, matched this society to the glottolog language [mala1464] (which we are more certain of), replacing match to dialect [cent1998] (less certain)",Indian Subcontinent
+Eg7,Hill Bhuiya,21,85,oriy1255,Hill Bhuiya (Eg7),xd683,Pauri,1930,,,21,85,Original,"Note, previously nucl1284 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)",Indian Subcontinent
+Eg8,Kol,22,85,mund1320,Kol (Eg8),xd684,,1940,Kol (AW37),AW37,22,85,Original,,Indian Subcontinent
+Eg9,Baiga,22,81,chha1249,Baiga (Eg9),xd685,,1930,,,22,81,Original,,Indian Subcontinent
+Eh1,Andamanese,12,93,akab1249,Andamese (Eh1),xd686,Big Andaman Island; Andamese,1870,Andamans (AZ02),AZ02,12,93,Original,Changed to abj from apq on 8 April 2017 based on comments from H. Hammarström: Man (1885) worked most with (and whose variety he spoke best) Bojingya or Aka-Bea [abj],Indo-China
+Eh10,Betsileo,-22,47,bets1235,Betsileo (Eh10),xd687,,,,,-22,47,Original,,Western Indian Ocean
+Eh2,Merina,-19,46,meri1243,Merina (Eh2),xd688,Antimerina; Hova; Imerina,1900,,,-19,46,Original,,Western Indian Ocean
+Eh3,Tanala,-22,47,tana1285,Tanala (Eh3),xd689,,1930,Tanala (FY08),FY08,-22,47,Original,,Western Indian Ocean
+Ac42,Makua,-15,39,makh1264,Makua (Ac42),xd69,Wamakua,1900,,,-15,39,Original,,South Tropical Africa
+Eh4,Vedda,8,81,vedd1240,Vedda (Eh4),xd690,Wanniyalaeto; Veddah,1900,Vedda (AX05),AX05,8,81,Original,,Indian Subcontinent
+Eh5,Nicobarese,9.17,92.77,carn1240,Nicobarese (Eh5),xd691,Holchu,1890,Nicobarese (AZ07),AZ07,9,92,Revised,,Indo-China
+Eh6,Sinhalese,7,80,sinh1246,Sinhalese (Eh6),xd692,,1950,Sinhalese (AX04),AX04,7,80,Original,,Indian Subcontinent
+Eh7,Antandroy,-25,46,tand1256,Antandroy (Eh7),xd693,Tandroy,1900,,,-25,46,Original,,Western Indian Ocean
+Eh8,Sakalava,-21,43.93,saka1291,Sakalava (Eh8),xd694,,1900,,,-21,41,Revised,,Western Indian Ocean
+Eh9,Antaisaka,-22.9,47.75,tesa1236,Antaisaka (Eh9),xd695,,1930,,,-23,48,Revised,,Western Indian Ocean
+Ei1,Garo,26,91,garo1247,Garo (Ei1),xd696,A.Chik,1900,Garo (AR05),AR05,26,91,Original,,Indian Subcontinent
+Ei10,Chakma,23,92,chak1266,Chakma (Ei10),xd697,Chuckmah,1870,,,23,92,Original,,Indian Subcontinent
+Ei11,Aimol,25,94,aimo1244,Aimol (Ei11),xd698,,1910,,,25,94,Original,,Indian Subcontinent
+Ei12,Thado,25,94,thad1238,Thado (Ei12),xd699,,1910,,,25,94,Original,,Indian Subcontinent
+Aa7,Naron,-20,24,naro1249,Naron (Aa7),xd7,Aikwe,1910,,,-20,24,Original,,Southern Africa
+Ac43,Mambwe,9,32,mamb1296,Mambwe (Ac43),xd70,Amambwe,1910,,,9,32,Original,,Northeast Tropical Africa
+Ei13,Angami,26,94,anga1288,Angami (Ei13),xd700,,1910,,,26,94,Original,,Indian Subcontinent
+Ei14,Ao,27,94,aona1235,Ao (Ei14),xd701,,1920,,,27,94,Original,,Indian Subcontinent
+Ei15,Rengma,26,94,sout2732,Rengama (Ei15),xd702,Rengama; Rengma Naga,1930,,,26,94,Original,,Indian Subcontinent
+Ei16,Sema,26,95,sumi1235,Sema (Ei16),xd703,,1910,,,26,95,Original,,Indian Subcontinent
+Ei17,Karbi,26,94,karb1241,Mikir (Ei17),xd704,Arleng; Mikir,1900,,,26,94,Original,,Indian Subcontinent
+Ei18,Palaung,23,97,shwe1236,Palaung (Ei18),xd705,,1920,,,23,97,Original,"Note 8Feb2018: HH notes that it is unusual that an ethnography by Lowis be associated with [pll] rather than Rumai [rbb]. However, EA focus is “Katurr subtribe,” and this group was the focus of Milne's work. They are described as living “in or near Namhsan”. Her dictionary deals mainly with the dialect of Namhsan >> Shwe Palaung >> [pll]. Thus, I have left the language as [pll], assuming Lowis' work was used for context. However, users should be aware that this case may combine data for groups speaking different Palaung languages.",Indo-China
+Ei19,Chin,22,94,asho1236,Chin (Ei19),xd706,Khyang,1940,,,22,94,Original,"Note 8Feb2018: Changed based on note from HH: Bernot's Khyang is ""Khyang of Gongru village rattachent au groupe des Chin du Sud etudies par Houghton"" = Asho Chin [csh]",Indo-China
+Ei2,Lhota,27,94,loth1237,Lhota (Ei2),xd707,,1920,,,27,94,Original,,Indian Subcontinent
+Ei20,Kuki,23,92,lush1249,Kuki (Ei20),xd708,Chin; Mizo; Kuki,1940,,,23,92,Original,,Indian Subcontinent
+Ei3,Burmese,20,95,nucl1310,Burmese (Ei3),xd709,Bamar people,1950,Burmans (AP04),AP04,20,95,Original,,Indo-China
+Ac5,Lamba,-13,28,lamb1271,Lamba (Ac5),xd71,Balamba; Walamba,1920,,,-13,28,Original,,South Tropical Africa
+Ei4,Maras,22,93,mara1382,Lakher (Ei4),xd710,Lakher,1930,,,22,93,Original,,Indo-China
+Ei5,Kachin,26,97,kach1280,Kachin (Ei5),xd711,,1940,Kachin (AP06),AP06,26,97,Original,,Indo-China
+Ei6,Purum,25,94,puru1266,Purum (Ei6),xd712,,1930,,,25,94,Original,,Indian Subcontinent
+Ei7,Karen,17.12,97.19,pwow1235,Karen (Ei7),xd713,,1910,Karen (AP07),AP07,17,97,Revised,,Indo-China
+Ei8,Khasi,26,92,khas1269,Khasi (Ei8),xd714,,1900,Khasi (AR07),AR07,26,92,Original,,Indian Subcontinent
+Ei9,Mogh,20.49,92.64,rakh1245,Mogh (Ei9),xd715,Marma; Morma; Mog; Magh,1880,,,20,92,Revised,,Indo-China
+Ej1,Lamet,20,101,lame1256,Lamet (Ej1),xd716,,1940,,,20,101,Original,,Indo-China
+Ej10,Rade,13,108,rade1240,Rhade (Ej10),xd717,Rhade,1950,,,13,108,Original,,Indo-China
+Ej11,Cham,11,108,east2563,Cham (Ej11),xd718,,1950,,,11,108,Original,,Indo-China
+Ej12,Lawa,18,98,west2396,Lawa (Ej12),xd719,Lua,1960,,,18,98,Original,,Indo-China
+Ac6,Ndembu,-11,26,lund1266,Ndembu (Ac6),xd72,Andembu; Southern Lunda,1930,,,-11,26,Original,,West-Central Tropical Africa
+Ej13,Muong,21,105,muon1246,Muong (Ej13),xd720,,1940,,,21,105,Original,,Indo-China
+Ej14,Senoi,4,102,sema1266,Senoi (Ej14),xd721,,1960,Semai (AN06),AN06,4,102,Original,,Malesia
+Ej15,Ancient Khmer,13,104,oldk1249,Khmer (Ej15),xd722,Khmer,1292,,,13,104,Original,"Changed to [oldk1249][qok] by kk on 5Sept2018. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Indo-China
+Ej16,Negri Sembilan,2.58,102.25,nege1240,Negri Sembilan (Ej16),xd723,Negeri Sembilan,1958,,,21,102,Original,,Malesia
+Ej2,Mnong Gar,12,107,east2333,Mnong Gar (Ej2),xd724,,1940,,,12,107,Original,,Indo-China
+Ej3,Semang,5,101,kens1248,Semang (Ej3),xd725,,1920,Semang (AN07),AN07,5,101,Original,,Malesia
+Ej4,Annamese,17,107,viet1252,Annamese (Ej4),xd726,Vietnamese,1950,Vietnam (AM11),AM11,17,107,Original,,Indo-China
+Ej5,Khmer,12,105,cent1989,Cambodians (Ej5),xd727,Cambodians,1950,Cambodians (AM04),AM04,12,105,Original,"Note, previously matched to a dialect of cent1989 (sout2688); rematched to [cent1989] after ""Ancient Khmer"" linked to a different language (so no longer sharing tip of cent1989 with ""Cambodians"" (5Sept2018). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Indo-China
+Ej6,Moken,11.78,98.28,moke1242,Selung (Ej6),xd728,Selung; Mawken; Salon; Sea Gypsies,1920,,,12,98,Revised,,Indo-China
+Ej7,Akha,21,100,akha1245,Akha (Ej7),xd729,e-Kaw; Kaw,1950,,,21,100,Original,,Indo-China
+Ac7,Yao,-13,36,yaoo1241,Yao (Ac7),xd73,Achawa; Wayao,1920,Yao (FT07),FT07,-13,36,Original,,South Tropical Africa
+Ej8,Malays,5,103,mala1479,Malays (Ej8),xd730,,1940,Malays (AN05),AN05,5,103,Original,,Malesia
+Ej9,Thai,15,100,thai1261,Siamese (Ej9),xd731,Siamese; Central Thai,1940,,,15,100,Original,,Indo-China
+Ia1,Atayal,24,121,atay1247,Atayal (Ia1),xd732,,1930,,,24,121,Original,,Eastern Asia
+Ia10,Bunun,24,121,bunu1267,Bunun (Ia10),xd733,,1930,,,24,121,Original,,Eastern Asia
+Ia11,Puyuma,23,121,puyu1239,Puyuma (Ia11),xd734,,1930,,,23,121,Original,,Eastern Asia
+Ia12,Sugbuanon,10.2,123.65,cebu1242,Sugbuhanon (Ia12),xd735,Cebuanos; Sugbuhanon; Cebuan Bisaya; Cebuans,1950,Central (OA14),OA14,10,124,Revised,,Malesia
+Ia13,Badjau Tawi-Tawi,5.09,119.97,sout2918,Badjau Tawi-Tawi (Ia13),xd736,Tawi-Tawi Badjaw; Badjau,1960,,,5,120,Revised,,Malesia
+Ia14,Tao,22.05,121.55,yami1254,Yami (Ia14),xd737,Yami,1930,,,22,122,Revised,,Eastern Asia
+Ia15,Manobo,8,126,agus1235,Manobo (Ia15),xd738,,1920,,,8,126,Original,Note 8Feb2018: Changed based on note from HH: Why W Bukidnon Manobo rather than e.g. Agusan Manobo [msm]?,Malesia
+Ia16,Kalinga,18,121,lubu1243,Kalinga (Ia16),xd739,,1910,,,18,121,Original,,Malesia
+Ac8,Yombe,-5,13,yomb1244,Yombe (Ac8),xd74,Bayombe; Mayombe,1930,,,-5,13,Original,,West-Central Tropical Africa
+Ia17,Bilaan,6,125,koro1310,Bilaan (Ia17),xd740,,1910,,,6,125,Original,,Malesia
+Ia18,Bisayan,10,123,akla1241,Bisayan (Ia18),xd741,Visayan,1950,,,10,123,Original,,Malesia
+Ia2,Sagada,17,121,nort2877,Sagada (Ia2),xd742,Sagada Igorot,1950,,,17,121,Original,,Malesia
+Ia3,Ifugao,17,121,tuwa1243,Ifugao (Ia3),xd743,,1920,Ifugao (OA19),OA19,17,121,Original,"Changed to ifk from ifb on 8 April 2017 based on comment from H. Hammarström: Barton is source, and while he doesn't say specifically which group his observations pertain to, he was working using Kiangan as his base, which would make it Ifugao-Tuwali [ifk]",Malesia
+Ia4,Subanun,8,123,cent2089,Subanun (Ia4),xd744,,1950,,,8,123,Original,,Malesia
+Ia5,Hanunoo,13,121,hanu1241,Hanunoo (Ia5),xd745,,1950,,,13,121,Original,,Malesia
+Ia6,Paiwan,22.44,120.77,paiw1248,Paiwan (Ia6),xd746,,1930,,,22,121,Revised,,Eastern Asia
+Ia7,Tagbanua,10,119,tagb1258,Tagbanua (Ia7),xd747,,1950,,,10,119,Original,,Malesia
+Ia8,Bontok,17,121,cent2292,Bontok (Ia8),xd748,,1900,,,17,121,Original,,Malesia
+Ia9,Ami,22.7,121.05,amis1246,Ami (Ia9),xd749,Pangcah,1930,,,22,121,Revised,,Eastern Asia
+Ac9,Ngoni,-12,33,ngon1269,Ngoni (Ac9),xd75,Angoni,1940,Ngoni (FR05),FR05,-12,33,Original,,South Tropical Africa
+Ib1,Iban,2,112,iban1264,Iban (Ib1),xd750,Dayak; Sea Dayak,1950,Iban (OC06),OC06,2,112,Original,,Malesia
+Ib2,Javanese,-7,110,java1254,Javanese (Ib2),xd751,,1950,Javanese (OE05),OE05,-7,110,Original,"Note, previously linked to language iso ""jas"" (New Caledonian Javanese); on 3Mar2016 Hannah Haynie checked refs/coordinates and concluded ""jav"" was a better match; it was temporarily switched back to [jas/newc1244] on 8Aug2018 but that was a mistake, should be [jav]/[java1254] (updated note: 5Sept2018 kk)",Malesia
+Ib3,Balinese,-8.18,115.02,bali1278,Balinese (Ib3),xd752,,1950,Bali (OF07),OF07,-8,115,Revised,"Note, previously linked to language iso ""mhp"" (Malay, Balinese). Hannah Haynie checked refs/coordinates and concluded ""ban"" (Bali, glottocode bali1278) was a better match (3 Mar 2016)",Malesia
+Ib4,Toba Batak,2,99,bata1289,Batak (Ib4),xd753,Toba; Batak,1930,,,2,99,Original,,Malesia
+Ib5,Kadazan-Dusun,6,117,cent2100,Dusun (Ib5),xd754,Dusun,1920,,,6,117,Original,,Malesia
+Ib6,Minangkabau,-1,101,mina1268,Minangkabau (Ib6),xd755,,1920,,,-1,101,Original,,Malesia
+Ib7,Mentaweians,-2.93,100.23,ment1249,Mentaweians (Ib7),xd756,,1920,Mentawaians (OD09),OD09,-3,100,Revised,,Malesia
+Ib8,Anak Dalam,-3,103,kubu1239,Kubu (Ib8),xd757,Orang Batin Sembilan; Orang Rimba; Kubu,1900,,,-3,103,Original,,Malesia
+Ib9,Punan,3,115,puna1275,Punan (Ib9),xd758,,1950,,,3,115,Original,"Note, previously this xd_id was associated with language iso sge (Segai); Hannah Haynie reviewed references and coordinates and concluded should be matched to language iso ""pna"", glottolog language puna1275 (3 Mar 2016)",Malesia
+Ic1,Macassarese,-5.31,119.69,maka1311,Macassarese (Ic1),xd759,,1940,Makassar (OG06),OG06,-5,119,Revised,,Malesia
+Ad1,Bajuni,-2,41,baju1245,Bajun (Ad1),xd76,Wabajuni; Bajun; Bagiuni; Barjun; Wagunya,1950,,,-2,41,Original,,East Tropical Africa
+Ic10,Tobelorese,1,128,tobe1252,Tobelorese (Ic10),xd760,Togutil,1910,,,1,128,Original,,Malesia
+Ic11,Ambonese,-3.71,128.18,ambo1250,Ambonese (Ic11),xd761,,1950,,,-4,128,Revised,,Malesia
+Ic12,Sumbawanese,-8.63,117.27,sumb1241,Sumbawanese (Ic12),xd762,,1951,,,-4,118,Revised,,Malesia
+Ic13,Kodi,-9.66,119.07,kodi1247,Kodi (Ic13),xd763,West Sumbanese,1950,,,-10,119,Revised,,Malesia
+Ic2,Alorese,-8.22,124.26,abui1241,Alorese (Ic2),xd764,Abui,1940,Alor (OF05),OF05,-8,125,Revised,Changed from aol to abz on 8 April 2017 based on comment from H. Hammarström: Sources are DuBois and Nicolspeyer. They both worked with Abui (abz) speakers.,Malesia
+Ic3,Belu,-9,126,tetu1245,Belu (Ic3),xd765,,1950,,,-9,126,Original,,Malesia
+Ic4,Rotinese,-10.71,123.18,term1237,Rotinese (Ic4),xd766,Atahori Rote; Hataholi Lote,1920,,,-11,123,Revised,,Malesia
+Ic5,Toradja,-2,121,pamo1252,Toradja (Ic5),xd767,,1910,Toradja (OG11),OG11,-2,121,Original,"Changed to pamo1252 (pmf, Pamona) from tora1261 (sda, Sa'dan) on 3Oct2018. Reason: the SCCS focus is on the Bare'e subgroup, which is the focus of (Adriani and Kruijt, 1912). Harald Hammarstrom notes that this group speaks Pamona [pmf], not Sa'dan [sda]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Malesia
+Ic6,Tanimbarese,-8.19,130.96,sela1259,Tanimbarese (Ic6),xd768,,1930,,,-8,131,Revised,,Malesia
+Ic7,Ili-Mandiri,-8.33,122.85,lama1277,Ili-Mandiri (Ic7),xd769,,1920,,,-8,123,Revised,,Malesia
+Ad10,Shambaa,-5,38,sham1280,Shambala (Ad10),xd77,Wasambaa; Shambala; Sambara; Waschambala,1910,,,-5,38,Original,,East Tropical Africa
+Ic8,Kei,-5.58,133.07,keii1239,Kei (Ic8),xd770,Kei Islanders,1890,,,-6,133,Revised,,Malesia
+Ic9,Sumbanese,-10,120,kamb1299,Sumbanese (Ic9),xd771,Tau Humba,1930,,,-10,120,Original,,Malesia
+Id1,Northern Aranda,-24,134,east2379,Aranda (Id1),xd772,Aranda (Northern); Northern Arenda; Arunta,1900,Aranda (OI08),OI08,-24,134,Original,"Note 8Feb2018: Not changed, despite note from HH: ""Why is Strehlow not associated rather with Western Arrarnta [are]"". According to White SCCS Pinpointing sheets, focus is ""The Arunta Mbainda of Alice Springs: [...] closely studied by Spencer and Gillen in 1896, restudied in 1901, and visited by Spencer in 1926 for some follow-up reconstruction work with several informants."" [So, Strehlow was perhaps used for supporting materials?]",Australia
+Id10,Walbiri,-22,132,warl1254,Walbiri (Id10),xd773,Warlpiri,1930,,,-22,132,Original,,Australia
+Id11,Gidjingali,-12.29,134.32,gunn1248,Gidjingali (Id11),xd774,Burarra; Gun-nartpa,1950,,,-12,135,Revised,,Australia
+Id12,Yir Yoront,-15,142,jirj1239,Yir Yoront (Id12),xd775,,1930,,,-15,142,Original,"Note, previously yiy and yiry1245, however both codes have been retired",Australia
+Id13,Anindilyagwa,-13.99,136.6,anin1240,Groote Eylandt (Id13),xd776,Enindilywakwa; Groote Eylandt; Groote Eyelandt,1930,,,-14,137,Revised,,Australia
+Id2,"Yolngu, Dhuwal",-12.48,135.96,dhuw1249,Murngin (Id2),xd777,Murngin; Wulamba; Dhuwal,1930,Murngin (OI17),OI17,-12,136,Revised,,Australia
+Id3,Tiwi,-11.56,130.81,tiwi1244,Tiwi (Id3),xd778,,1920,Tiwi (OI20),OI20,-12,131,Revised,,Australia
+Id4,Diyari,-28,138,dier1241,Dieri (Id4),xd779,Dieri; Dieri,1900,,,-28,138,Original,,Australia
+Ad11,Bena,-9,36,bena1262,Bena (Ad11),xd78,Wabena,1930,Bena (FN31),FN31,-9,36,Original,,East Tropical Africa
+Id5,Kariyarra,-21,118,kari1304,Kariera (Id5),xd780,Kariera,1910,,,-21,118,Original,,Australia
+Id6,Wikmunkan,-14,142,wikm1247,Wikmunkan (Id6),xd781,Wikmunkun,1920,,,-14,142,Original,,Australia
+Id7,Murriny Patha,-14,130,murr1258,Murinbata (Id7),xd782,Murriny Patha; Murinbata,1940,,,-14,130,Original,,Australia
+Id8,Tasmanians (northwestern),-42,146,port1278,Tasmanians (Id8),xd783,Palawa; Tasmanians (northwestern); Tasmanians (Western); Tasmanians (West Coast),1830,Tasmanians (OI19),OI19,-42,146,Original,"Note, previously tasm1247, but languages difficult to assign with certainty, so chose another western tasmanian language not considered a ""bookkeeping"" language by glottolog",Australia
+Id9,Ngiyambaa,-32,146,wang1291,Wongaibon (Id9),xd784,Wongaibon,1910,,,-32,146,Original,,Australia
+Ie1,Mee,-4,136,ekar1243,Kapauku (Ie1),xd785,Kapauku,1950,Kapauku (OJ29),OJ29,-4,136,Original,,Papuasia
+Ie10,Motu,-9,147,motu1246,Motu (Ie10),xd786,,1950,,,-9,147,Original,,Papuasia
+Ie11,Kakoli,-6,144,umbu1258,Kakoli (Ie11),xd787,,1950,,,-6,144,Original,,Papuasia
+Ie12,Kwoma,-4,142,kwom1262,Kwoma (Ie12),xd788,,1930,Kwoma (OJ13),OJ13,-4,142,Original,,Papuasia
+Ie13,Kiwai,-9,143,sout2949,Kiwai (Ie13),xd789,,1920,,,-9,143,Original,,Papuasia
+Ad12,Gusii,-1,35,gusi1247,Gusii (Ad12),xd79,Abagusii; Gizii; Kissi; Kosova,1940,Gusii (FL08),FL08,-1,35,Original,,East Tropical Africa
+Ie14,Miriam,-9.91,144.06,meri1244,Miriam (Ie14),xd790,,1900,,,-10,144,Revised,,Papuasia
+Ie15,Abelam,-3.79,143.09,ambu1247,Abelam (Ie15),xd791,,1930,,,4,-145,Revised,,Papuasia
+Ie16,Kutubu,-6,143,foii1241,Kutubu (Ie16),xd792,,1940,,,-6,143,Original,,Papuasia
+Ie17,Siane,-6,145,sian1257,Siane (Ie17),xd793,,1940,,,-6,145,Original,,Papuasia
+Ie18,Kimam,-7.52,138.46,kima1246,Kimam (Ie18),xd794,Frederik-Hendrik Islanders,1940,,,-7,138,Revised,,Papuasia
+Ie19,Marind-Amin,-8,139,nucl1622,Marindamin (Ie19),xd795,Marindamin; Tugeri,1910,,,-8,139,Original,,Papuasia
+Ie2,Wantoat,-6.15,146.53,want1252,Wantoat (Ie2),xd796,,1920,,,-7,147,Revised,,Papuasia
+Ie20,Koita,-9,147,koit1244,Koita (Ie20),xd797,,1900,,,-9,147,Original,,Papuasia
+Ie21,Mailu,-10,149,mail1248,Mailu (Ie21),xd798,,1900,,,-10,149,Original,,Papuasia
+Ie22,Mekeo,-9,147,meke1243,Mekeo (Ie22),xd799,,1900,,,-9,147,Original,,Papuasia
+Aa8,/Xam,-30,23,xamm1241,Xam (Aa8),xd8,Xam; Cape Bushman,1850,,,-30,23,Original,,Southern Africa
+Ad13,Kiga,-3,30,chig1238,Chiga (Ad13),xd80,Chiga; Bachiga; Ciga; Kyiga,1930,,,-3,30,Original,,West-Central Tropical Africa
+Ie23,Muju,-6,141,sout2940,Muju (Ie23),xd800,,1950,,,-6,141,Original,,Papuasia
+Ie24,Koiari,-9,148,gras1249,Koiari (Ie24),xd801,,1870,,,-9,148,Original,,Papuasia
+Ie25,Mafulu,-8,147,fuyu1242,Mafulu (Ie25),xd802,,1920,,,-8,147,Original,,Papuasia
+Ie26,Ngarawapum,-6,146,adze1240,Ngarawapum (Ie26),xd803,,1940,,,-6,146,Original,,Papuasia
+Ie27,Banaro,-4.56,144.34,bana1292,Banaro (Ie27),xd804,,1910,,,-4,145,Revised,,Papuasia
+Ie28,Busama,-6.69,147.26,buga1250,Busama (Ie28),xd805,,1940,,,-7,147,Revised,,Papuasia
+Ie29,Manam,-4.08,145.03,mana1295,Manam (Ie29),xd806,,1930,,,-4,145,Revised,,Papuasia
+Ie3,Arapesh,-4,144,buki1249,Arapesh (Ie3),xd807,,1930,,,-4,144,Original,Note 8Feb2018: Changed based on note from HH: Why is Mead's Arapesh associated with Bumbita rather than Bukiyip [ape]?,Papuasia
+Ie30,Mimika,-4,135,kamo1255,Mimika (Ie30),xd808,,1950,,,-4,135,Original,,Papuasia
+Ie31,Fore,-6,145,fore1270,Fore (Ie31),xd809,,1950,,,-6,145,Original,,Papuasia
+Ad14,Luguru,-8,38,lugu1238,Luguru (Ad14),xd81,Waluguru,1930,,,-8,38,Original,,East Tropical Africa
+Ie32,Sio,-6,147,sioo1240,Sio (Ie32),xd810,,1964,,,-6,147,Original,,Papuasia
+Ie33,Soromadja,-2,138,nucl1595,Soromadja (Ie33),xd811,Tor,1950,,,-2,138,Original,,Papuasia
+Ie34,Bgu,-2.34,139.6,bong1287,Bgu (Ie34),xd812,,1960,,,-2,140,Revised,,Papuasia
+Ie35,Iatmul,-4,143,iatm1242,Iatmul (Ie35),xd813,,1930,,,-4,143,Original,,Papuasia
+Ie36,Samarokena,-3,140,sama1240,Samarokena (Ie36),xd814,,1950,,,-3,140,Original,,Papuasia
+Ie37,Star Mountain,-5,141,ngal1298,Star Mountain (Ie37),xd815,Star Mountain Papuans,1960,,,-5,141,Original,,Papuasia
+Ie38,Dani,-4,139,midg1235,Dani (Ie38),xd816,,1960,,,-4,139,Original,,Papuasia
+Ie39,Elema,-7.82,145.31,orok1267,Elema (Ie39),xd817,,1920,,,-8,145,Revised,,Papuasia
+Ie4,Wogeo,-3.24,144.1,woge1237,Wogeo (Ie4),xd818,,1930,Wogeo (OJ27),OJ27,-3,144,Revised,,Papuasia
+Ie5,Keraki,-9,142,namb1293,Keraki (Ie5),xd819,,1930,,,-9,142,Original,,Papuasia
+Ad15,Iwa,-10,32,nyam1275,Iwa (Ad15),xd82,Awiwa; Wawiwa; Wiwa,1900,,,-10,32,Original,,South Tropical Africa
+Ie6,Waropen,-2.14,137.23,waro1242,Waropen (Ie6),xd820,,1930,,,-2,137,Revised,,Papuasia
+Ie7,Enga,-6,144,enga1252,Enga (Ie7),xd821,,1950,,,-6,144,Original,,Papuasia
+Ie8,Purari,-7,145,pura1257,Purari (Ie8),xd822,,1910,,,-7,145,Original,,Papuasia
+Ie9,Orokaiva,-9,148,orok1269,Orokaiva (Ie9),xd823,,1920,Orokaiva (OJ23),OJ23,-9,148,Original,,Papuasia
+If1,Palauans,7.45,134.54,pala1344,Palauans (If1),xd824,,1940,Belau (OR15),OR15,7,135,Revised,,Northwestern Pacific
+If10,Nomoians,6.89,152.74,mort1237,Nomoians (If10),xd825,Mortlock Islanders,1940,,,6,153,Revised,,Northwestern Pacific
+If11,Kosraeans,5.31,162.98,kosr1238,Kusaians (If11),xd826,Kusaians,1860,,,5,163,Revised,,Northwestern Pacific
+If12,Bikinians,11.7,165.29,rali1241,Bikinians (If12),xd827,,1940,Marshalls (OR11),OR11,12,165,Revised,,Northwestern Pacific
+If13,Nauruans,-0.53,166.92,naur1243,Nauruans (If13),xd828,,1900,,,-1,166,Revised,,Southwestern Pacific
+If14,Makin,3.38,172.99,bana1287,Makin (If14),xd829,Gilbertese,1890,,,3,173,Revised,,Southwestern Pacific
+Ad16,Ngonde,-10,34,ngon1268,Ngonde (Ad16),xd83,Konde; Nkonde; Wangonde,1920,Ngonde (FN17),FN17,-10,34,Original,,South Tropical Africa
+If15,Carolinians,15.21,145.76,caro1242,Carolinians (If15),xd830,,1930,,,15,146,Revised,,Northwestern Pacific
+If16,Lamotrek,7.46,146.38,lamo1243,Lamotrek (If16),xd831,,1960,,,7,146,Revised,,Northwestern Pacific
+If17,Marshallese - Jaluit atoll,6.28,169.49,rali1241,Marshallese (If17),xd832,,1900,Marshallese (OR11),OR11,6,169,Revised,"12 Nov 2018 - dialect assigment corrected (should have been Ralik, rali1241, not Ratak, rata1243).",Northwestern Pacific
+If2,Trukese,7.34,151.6,chuu1238,Trukese (If2),xd833,Chuukese,1940,Truk (OR19),OR19,7,152,Revised,,Northwestern Pacific
+If3,Majuro,7.09,171.13,rata1243,Majuro (If3),xd834,Marshallese,1940,Marshalls (OR11),OR11,7,171,Revised,,Northwestern Pacific
+If4,Ifaluk,7.25,144.46,nucl1479,Ifuluk (If4),xd835,Ifuluk,1940,Woleai (OR21),OR21,7,147,Revised,,Northwestern Pacific
+If5,Ponapeans,6.88,158.22,pohn1238,Ponapeans (If5),xd836,Pohnpeian,1910,,,7,158,Revised,,Northwestern Pacific
+If6,Yapese,9.55,138.13,yape1248,Yapese (If6),xd837,,1910,Yap (OR22),OR22,9,138,Revised,,Northwestern Pacific
+If7,Gilbert Onotoa,-1.47,175.06,nuii1237,Gilbert Onotoa (If7),xd838,Onotoa; Gilbertese,1940,,,-2,174,Revised,,Southwestern Pacific
+If8,Chamorro,15.13,145.71,cham1312,Chamorro (If8),xd839,,1950,,,15,145,Revised,,Northwestern Pacific
+Ad17,Safwa,-8,33,safw1238,Safwa (Ad17),xd84,Wassafwa,1920,,,-8,33,Original,,East Tropical Africa
+If9,Ulithians,10.02,139.79,ulit1238,Ulithians (If9),xd840,,1900,,,10,140,Revised,,Northwestern Pacific
+Ig1,Siuai,-6,155,siwa1245,Siuai (Ig1),xd841,,1940,Siwai (ON19),ON19,-6,155,Original,,Papuasia
+Ig10,Usiai,-2,147,lele1270,Usiai (Ig10),xd842,,1950,,,-2,147,Original,,Papuasia
+Ig11,Rossel Islanders,-11.36,154.14,yele1255,Rossel (Ig11),xd843,Rossel,1920,,,-9,154,Revised,,Papuasia
+Ig12,Choiseulese,-6.69,156.52,vagh1249,Choiseulese (Ig12),xd844,,1900,,,-6,156,Revised,,Papuasia
+Ig13,Aua,-1.74,142.85,wuvu1239,Aua (Ig13),xd845,,1900,,,-2,143,Revised,,Papuasia
+Ig14,Dahuni,-10.41,149.91,suau1242,Dahuni (Ig14),xd846,,1900,,,-10,150,Revised,,Papuasia
+Ig15,Bakovi,-5.42,150.05,bola1250,Bakovi (Ig15),xd847,,1950,,,-5,150,Revised,,Papuasia
+Ig16,Bwaidoga,-9.44,150.33,bwai1242,Bwaidoga (Ig16),xd848,,1950,,,-9,150,Revised,,Papuasia
+Ig17,Kombe,-4.67,149.53,mudu1242,Koobe (Ig17),xd849,Koobe,1950,,,-5,149,Revised,,Papuasia
+Ad18,Bende,-7,31,bend1258,Bende (Ad18),xd85,Vende; Wabende,1910,,,-7,31,Original,,East Tropical Africa
+Ig18,Kwaio,-9,161,kwai1243,Kwaio (Ig18),xd850,,1960,,,-9,161,Original,,Papuasia
+Ig19,Molima,-10,151,moli1248,Molima (Ig19),xd851,,1950,,,-10,151,Original,,Papuasia
+Ig2,Trobriands,-8.43,151.09,kili1267,Trobriands (Ig2),xd852,,1910,Trobriands (OL06),OL06,-8,151,Revised,,Papuasia
+Ig20,Kaoka,-9.49,159.82,long1395,Kaoka (Ig20),xd853,Kaukau,1920,,,-10,161,Revised,,Papuasia
+Ig21,Tangu,-3.38,153.31,tang1348,Tangu (Ig21),xd854,Tanga,1930,,,-3,153,Revised,,Papuasia
+Ig3,Kurtatchi,-5.6,154.91,tinp1237,Kurtatchi (Ig3),xd855,Buka,1930,Tinputz (ON06),ON06,-5,154,Revised,,Papuasia
+Ig4,Lesu,-3.06,151.66,nots1237,Lesu (Ig4),xd856,New Irelanders,1930,Lesu (OM24),OM24,-3,153,Revised,,Papuasia
+Ig5,Dobuans,-10,151,dobu1241,Dobuans (Ig5),xd857,,1920,,,-10,151,Original,,Papuasia
+Ig6,Ulawans,-9.63,161.44,saaa1240,Ulawans (Ig6),xd858,,1900,,,-10,161,Revised,,Papuasia
+Ig7,Lakalai,-5.5,150.81,naka1262,Lakalai (Ig7),xd859,Western Nakanai,1950,,,-5,151,Revised,,Papuasia
+Ad19,Fipa,-8,31,fipa1238,Fipa (Ad19),xd86,Wafipa,1910,,,-8,31,Original,,East Tropical Africa
+Ig8,Simboese,-8,157,simb1256,Simboese (Ig8),xd860,Eddystone Islanders,1910,,,-8,157,Original,,Papuasia
+Ig9,Manus,-2,147,tita1241,Manus (Ig9),xd861,,1920,Manus (OM06),OM06,-2,147,Original,,Papuasia
+Ih1,Mota,-13.84,167.7,mota1237,Mota (Ih1),xd862,,1890,,,-14,168,Revised,,Southwestern Pacific
+Ih10,Tannese,-19.6,169.44,sout2869,Tannese (Ih10),xd863,,1920,,,-20,168,Revised,,Southwestern Pacific
+Ih11,Epi,-16.61,168.17,lame1260,Epi (Ih11),xd864,,1920,,,-17,168,Revised,,Southwestern Pacific
+Ih12,Eromangans,-18.85,169.16,siee1239,Eromangans (Ih12),xd865,,1920,,,-19,169,Revised,,Southwestern Pacific
+Ih13,Ranon,-16.18,168.15,nort2839,Ranon (Ih13),xd866,,1920,,,-16,168,Revised,,Southwestern Pacific
+Ih14,Mbau Fijians,-17.81,178.32,bauu1243,Mbau Fijians (Ih14),xd867,,1840,,,-18,179,Revised,,Southwestern Pacific
+Ih2,Seniang,-16.51,167.47,sout2857,Seniang (Ih2),xd868,,1930,,,-17,167,Revised,,Southwestern Pacific
+Ih3,Bunlap,-15.95,168.22,saaa1241,Bunlap (Ih3),xd869,Pentecost,1950,,,-16,168,Revised,,Southwestern Pacific
+Ad2,Nyoro,2,32,nyor1246,Nyoro (Ad2),xd87,Banyoro; Kitara,1950,Banyoro (FK11),FK11,2,32,Original,,East Tropical Africa
+Ih4,Lau,-17.74,-179.31,laua1243,Lau (Ih4),xd870,,1920,Lau (OQ06),OQ06,-18,179,Revised,,Southwestern Pacific
+Ih5,Ajie,-21.37,165.47,ajie1238,Ajie (Ih5),xd871,,1860,,,-22,165,Revised,,Southwestern Pacific
+Ih6,Rotumans,-12.5,177.07,rotu1241,Rotumans (Ih6),xd872,,1890,,,-13,177,Revised,,Southwestern Pacific
+Ih7,Lifu,-20.94,167.23,dehu1237,Lifu (Ih7),xd873,Lifu Islanders,1910,,,-21,163,Revised,,Southwestern Pacific
+Ih8,Vanua Levu,-17.81,178.32,nort2843,Vanua Levu (Ih8),xd874,,1940,,,-17,179,Revised,,Southwestern Pacific
+Ih9,Santa Cruz Islanders,-10.73,165.85,natu1246,Santa Cruz (Ih9),xd875,Santa Cruz,1930,Santa Cruz (ON13),ON13,-11,166,Revised,,Southwestern Pacific
+Ii1,American Samoans,-13.68,-172.41,samo1305,Samoans (Ii1),xd876,,1920,,,-14.289155,-170.706485,Revised,,Southwestern Pacific
+Ii10,Rennell Islanders,-11.74,160.42,renn1242,Rennell (Ii10),xd877,Mugaba; Rennell,1950,,,-12,160,Revised,,Papuasia
+Ii12,Tongans,-19.74,-175.07,tong1325,Tongans (Ii12),xd878,,1920,Tongans (OU09),OU09,-20,-174,Revised,,Southwestern Pacific
+Ii13,Uveans,-13.28,-176.17,wall1257,Uveans (Ii13),xd879,Wallis Islanders,1830,,,-13,-176,Revised,,Southwestern Pacific
+Ad20,Nyamwezi,-5,33,nyam1276,Nyamwezi (Ad20),xd88,Banyamwezi; Wanyamwezi,1920,,,-5,33,Original,,East Tropical Africa
+Ii14,Upolu Samoans,-13.94,-171.77,samo1305,Upolu (Ii14),xd880,Upolu; Western Samoans,1829,Samoans (OU08),OU08,-14,172,Revised,,Southwestern Pacific
+Ii2,Tikopia,-12.29,168.83,tiko1237,Tikopia (Ii2),xd881,,1930,Tikopia (OT11),OT11,-12,168,Revised,,Southwestern Pacific
+Ii3,Pukapukans,-10.89,-165.84,puka1242,Pukapukans (Ii3),xd882,Danger Islanders,1930,Pukapuka (OZ11),OZ11,-11,-166,Revised,,Southwestern Pacific
+Ii4,Ellice,-7.48,178.68,tuva1244,Ellice (Ii4),xd883,Tuvalu Islanders,1890,,,-8,178,Revised,,Southwestern Pacific
+Ii5,Ontong Java,-5.48,159.7,onto1237,Ontong Java (Ii5),xd884,Leuenuwa; Lord Howe's Islanders,1920,,,-5,160,Revised,,Papuasia
+Ii6,Tokelau,-9.2,-171.85,toke1240,Tokelau (Ii6),xd885,,1900,,,-9,-172,Revised,,Southwestern Pacific
+Ii7,Kapingamarangi,1.09,154.8,kapi1249,Kapingamarang (Ii7),xd886,Kapingamarang,1910,,,1,155,Revised,,Northwestern Pacific
+Ii8,Futunans,-14.31,-178.11,east2447,Futunans (Ii8),xd887,Horne Islanders,1840,,,-14,-178,Revised,,Southwestern Pacific
+Ii9,Niueans,-19.05,-169.86,niue1239,Niueans (Ii9),xd888,,1840,,,-19,-169,Revised,,Southwestern Pacific
+Ij1,Mangaians,-21.93,-157.91,raro1241,Mangaians (Ij1),xd889,,1820,,,-22,-158,Revised,,South-Central Pacific
+Ad21,Pimbwe,-7,31,pimb1238,Pimbwe (Ad21),xd89,Bapimbwe,1930,,,-7,31,Original,,East Tropical Africa
+Ij10,Tongarevans,-9.02,-158.03,penr1237,Tongarevans (Ij10),xd890,Penrhyn Islanders,1900,,,-9,-158,Revised,,Southwestern Pacific
+Ij2,Māori,-38.41,176.31,maor1246,Maori (Ij2),xd891,Maori,1820,Maori (OZ04),OZ04,-35,175,Revised,,New Zealand
+Ij3,Marquesans,-8.9,-140.08,nort2845,Marquesans (Ij3),xd892,,1900,Marquesas (OX06),OX06,-9,-140,Revised,,South-Central Pacific
+Ij4,Manihikians,-10.41,-160.98,raka1237,Manihikians (Ij4),xd893,,1850,,,-10,-160,Revised,,Southwestern Pacific
+Ij5,Raroians,-15.94,-142.31,tuam1242,Raroians (Ij5),xd894,Rareians,1900,,,-16,-142,Revised,,South-Central Pacific
+Ij6,Hawaiians,19.89,-155.83,hawa1245,Hawaiians (Ij6),xd895,,1800,Hawaiians (OV05),OV05,20,-156,Revised,,North-Central Pacific
+Ij7,Mangarevans,-23.12,-134.97,mang1401,Mangarevans (Ij7),xd896,,1900,,,-20,-134,Revised,,South-Central Pacific
+Ij8,Tahitians,-17.71,-149.54,tahi1242,Tahitians (Ij8),xd897,Society Islanders,1900,,,-18,-150,Revised,,South-Central Pacific
+Ij9,Easter Islanders,-27.12,-109.36,rapa1244,Easter Island (Ij9),xd898,Easter Island,1860,Rapa nui (OY02),OY02,-27,-190,Revised,,South-Central Pacific
+Aa9,Hadza,-3,35,hadz1240,Hatsa Kindiga (Aa9),xd9,Hadzabe; Hatsa Kindiga; Hadza; Kindiga,1910,,,-3,35,Original,,East Tropical Africa
+Ad22,Sukuma,-3,34,suku1261,Sukuma (Ad22),xd90,Basukuma; Wassukuma,1950,,,-3,34,Original,,East Tropical Africa
+Ad23,Sangu,-8,34,sang1330,Sangu (Ad23),xd91,Rori,1910,,,-8,34,Original,,East Tropical Africa
+Ad24,Gogo,-7,36,gogo1263,Gogo (Ad24),xd92,Wagogo,1910,,,-7,36,Original,,East Tropical Africa
+Ad25,Rangi,-5,36,lang1320,Rangi (Ad25),xd93,Irangi; Langi; Warangi,1900,,,-5,36,Original,,East Tropical Africa
+Ad26,Turu,-5,34,nyat1246,Turu (Ad26),xd94,Lima; Walimi; Waniaturu,1910,,,-5,34,Original,,East Tropical Africa
+Ad27,Kwere,-7,39,kwer1261,Kwere (Ad27),xd95,Wakwere,1880,,,-7,39,Original,,East Tropical Africa
+Ad28,Zigula,-5.84,38.79,zigu1242,Zigula (Ad28),xd96,Seguha; Wazigua; Zegura,1880,,,-6,39,Revised,,East Tropical Africa
+Ad29,Hadimu,-6.07,39.43,pemb1239,Hadimu (Ad29),xd97,Wahadimu,1930,,,-6,40,Revised,,East Tropical Africa
+Ad3,Chagga,-3,37,moch1256,Chagga (Ad3),xd98,Dschagga; Wachagga,1910,Chagga (FN04),FN04,-3,37,Original,,East Tropical Africa
+Ad30,Digo,-4,39,digo1243,Digo (Ad30),xd99,Adigo; Wadigo,1890,,,-4,39,Original,,East Tropical Africa
+Nd26,Wadatkuht,41,-120,sout2967,Wadatkuht (Nd26),xd992,Honey Lake Paiute,1870,Northern Paiute (NR13),NR13,41,-120,Original,,Southwestern U.S.A.
+Nd39,Spring Valley Shoshoni,40,-115,west2622,Spring Valley (Nd39),xd995,Spring Valley; Snake Valley Shoshoni; Antelope Valley Shoshoni,1870,,,40,-115,Original,,Southwestern U.S.A.
