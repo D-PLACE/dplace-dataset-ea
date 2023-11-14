@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "c1eb718",
+            "dc:created": "6b285bc",
             "dc:title": "Repository"
         },
         {
@@ -41,7 +41,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\nMissing data is signaled by an empty value column.",
+            "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\n**Note:** Missing data is signaled by an empty Value column.",
             "dc:extent": 121354,
             "tableSchema": {
                 "columns": [
@@ -72,10 +72,6 @@
                         "dc:description": "Values for categorical and ordinal variables reference the corresponding code via the Code_ID column. Values for continuous variables have the measured number in the Value column and an empty Code_ID.",
                         "dc:extent": "singlevalued",
                         "datatype": "string",
-                        "null": [
-                            "?",
-                            ""
-                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": false,
                         "name": "Value"

@@ -91,5 +91,10 @@
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-NC-4.0"
-    }
+    },
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ]
 }
