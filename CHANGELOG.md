@@ -11,6 +11,7 @@ datasets independently.
 
 - Renamed Chekiang to Kiangsu
 - Corrected location for Mari (Ch4)
+- Corrected location for Basseri (Ea6)
 - Corrected language match for Pahari (Ef7)
 - Corrected focal year for Gujarati (Ef9)
 
