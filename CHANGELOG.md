@@ -13,5 +13,6 @@ datasets independently.
 - Corrected location for Mari (Ch4)
 - Corrected location for Basseri (Ea6)
 - Corrected language match for Pahari (Ef7)
+- Corrected language match for Ife (Af34)
 - Corrected focal year for Gujarati (Ef9)
 
