@@ -910,7 +910,7 @@ ch26,xd564,Udmurt,sout2681,Udmurt (ch26),"Utmort, Ukmort, Udmurty, Votiak, Votya
 ch27,xd565,Veps,veps1250,Veps (ch27),"Vepsians, Chudy, Chukhari, Chuhari, Bepsya, Bepsja, Veps' Lyudinikad, Tyagalazhet, Tjagalazhet",1900,,,61,35,61,35,Original,
 ch28,xd566,Votes,voti1245,Votes (ch28),"Vod', Maavaitchi, Vod",1900,,,59,29,59,29,Original,
 Ch3,xd567,Czechs,czec1258,Czechs (Ch3),,1940,,,50,16,50,16,Original,
-Ch4,xd568,Mari,east2328,Cheremis (Ch4),Cheremis,1900,,,43,46,43,46,Original,
+Ch4,xd568,Mari,east2328,Cheremis (Ch4),Cheremis,1900,,,43,46,56.5,48,"The location originally provided for Mari is the same as for Chechen (Ci7), and since the original name of Mari in the EA was Cheremis, I wonder if some data accidentally got copied from one row to another.",
 Ch5,xd569,Bulgarians,bulg1262,Bulgarians (Ch5),,1940,Bulgarians (EE01),in process,43,24,43,24,Original,
 Ac31,xd57,Buye,buyu1239,Buye (Ac31),Babui,1910,,,-7,28,-7,28,Original,
 Ch6,xd570,Byelorussians,bela1254,Byelorussians (Ch6),White Russians,1910,,,55,28,55,28,Original,

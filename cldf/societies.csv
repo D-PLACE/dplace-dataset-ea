@@ -910,7 +910,7 @@ ch26,Udmurt,57,53,sout2681,Udmurt (ch26),xd564,Utmort; Ukmort; Udmurty; Votiak; 
 ch27,Veps,61,35,veps1250,Veps (ch27),xd565,Vepsians; Chudy; Chukhari; Chuhari; Bepsya; Bepsja; Veps' Lyudinikad; Tyagalazhet; Tjagalazhet,1900,,,61,35,Original,,Eastern Europe
 ch28,Votes,59,29,voti1245,Votes (ch28),xd566,Vod'; Maavaitchi; Vod,1900,,,59,29,Original,,Eastern Europe
 Ch3,Czechs,50,16,czec1258,Czechs (Ch3),xd567,,1940,,,50,16,Original,,Middle Europe
-Ch4,Mari,43,46,east2328,Cheremis (Ch4),xd568,Cheremis,1900,,,43,46,Original,,Caucasus
+Ch4,Mari,56.5,48,east2328,Cheremis (Ch4),xd568,Cheremis,1900,,,43,46,"The location originally provided for Mari is the same as for Chechen (Ci7), and since the original name of Mari in the EA was Cheremis, I wonder if some data accidentally got copied from one row to another.",,Eastern Europe
 Ch5,Bulgarians,43,24,bulg1262,Bulgarians (Ch5),xd569,,1940,Bulgarians (EE01),EE01,43,24,Original,,Southeastern Europe
 Ac31,Buye,-7,28,buyu1239,Buye (Ac31),xd57,Babui,1910,,,-7,28,Original,,West-Central Tropical Africa
 Ch6,Byelorussians,55,28,bela1254,Byelorussians (Ch6),xd570,White Russians,1910,,,55,28,Original,,Eastern Europe
