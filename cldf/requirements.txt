@@ -9,7 +9,7 @@ cffi==1.15.1
 chardet==5.1.0
 cldfbench==1.14.0
 cldfcatalog==1.5.1
--e git+https://github.com/cldf/cldfviz@f6763f321396d6f44724fb5369ef9a0f7a310cbc#egg=cldfviz
+cldfviz==1.2.0
 cldfzenodo==2.1.0
 click==8.1.6
 clldutils==3.20.0
@@ -53,7 +53,7 @@ purl==1.6
 pybtex==0.24.0
 pycldf==1.36.0
 pycountry==22.3.5
--e git+https://github.com/d-place/pydplace@6143e58b7d31caad7482a40a949eeb37d9a221e4#egg=pydplace
+pydplace==3.1.0
 pyglottolog==3.12.0
 pylatexenc==2.10
 pyparsing==3.0.9

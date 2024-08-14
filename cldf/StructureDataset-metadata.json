@@ -16,13 +16,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.0.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
