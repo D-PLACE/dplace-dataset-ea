@@ -16,20 +16,20 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.1",
+            "dc:created": "v3.1-1-gc19c5f0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
