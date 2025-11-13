@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1-1-gc19c5f0",
+            "dc:created": "v3.1-2-gef923da",
             "dc:title": "Repository"
         },
         {

@@ -4,6 +4,11 @@ Earlier versions of this dataset have been released as part of the
 [D-PLACE/dplace-data](https://doi.org/10.5281/zenodo.596376) dataset.
 
 
+## [3.2.1]
+
+v3.2 did not actually contain the changes intended. This bugfix release fixes it.
+
+
 ## [v3.2]
 
 Dataset re-created using Glottolog v5.2 as reference.
