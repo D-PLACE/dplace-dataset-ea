@@ -4,7 +4,14 @@ Earlier versions of this dataset have been released as part of the
 [D-PLACE/dplace-data](https://doi.org/10.5281/zenodo.596376) dataset.
 
 
-## [3.2.1]
+## [v3.3]
+
+Removed two categories from variables EA010 and EA012 (related to marital residence), which
+were added by D-PLACE. Merged the corresponding coded values into the ten categories given
+in the source. Recomputed the automatically derived variable EA011.
+
+
+## [v3.2.1]
 
 v3.2 did not actually contain the changes intended. This bugfix release fixes it.
 

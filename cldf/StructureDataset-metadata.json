@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1-2-gef923da",
+            "dc:created": "v3.2.1-2-g1a2990e",
             "dc:title": "Repository"
         },
         {
@@ -343,7 +343,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 755,
+            "dc:extent": 751,
             "tableSchema": {
                 "columns": [
                     {

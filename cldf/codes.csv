@@ -99,8 +99,6 @@ EA010-7,EA010,Separate,"Nonestablishment of a common household, i.e., where both
 EA010-8,EA010,Patrilocal,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",8
 EA010-9,EA010,Uxorilocal,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",9
 EA010-10,EA010,Virilocal,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",10
-EA010-11,EA010,Ambi-uxo,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",11
-EA010-12,EA010,Ambi-viri,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",12
 EA201-NA,EA201,Missing data,Missing data,99
 EA201-1,EA201,Different,Pattern of marital residence differs in the first years of marriage relative to later years.,1
 EA201-2,EA201,Same,Pattern of marital residence in the first years of marriage not different from later years.,2
@@ -120,8 +118,6 @@ EA012-7,EA012,Separate,"Nonestablishment of a common household, i.e., where both
 EA012-8,EA012,Patrilocal,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",8
 EA012-9,EA012,Uxorilocal,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",9
 EA012-10,EA012,Virilocal,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",10
-EA012-11,EA012,Ambi-uxo,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",11
-EA012-12,EA012,Ambi-viri,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",12
 EA013-NA,EA013,Missing data,Missing data,99
 EA013-1,EA013,Wife to husband,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",1
 EA013-2,EA013,Ambi/neo-local,Couple to either group or neolocal,2
